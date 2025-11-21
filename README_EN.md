@@ -8,7 +8,8 @@ Main navigation in English: what’s in the repo, how to read the article, and w
 Guides and articles about freelancing in Germany. Markdown-based; licensed under CC BY-NC 4.0.
 
 ## Current article
-- File: [articles/2025/freelancer-gewerbe-guide.md](articles/2025/freelancer-gewerbe-guide.md)
+- EN: [articles/2025/freelancer-gewerbe-guide-en.md](articles/2025/freelancer-gewerbe-guide-en.md)
+- RU: [articles/2025/freelancer-gewerbe-guide.md](articles/2025/freelancer-gewerbe-guide.md)
 - License: CC BY-NC 4.0; use at your own risk.
 
 ## Short summary
@@ -27,19 +28,19 @@ Practical guide to registering and operating as a freelancer or small Gewerbe in
 - Kleinunternehmerregelung: up to €25,000 turnover (from 2025) — no VAT, but cite the exemption on invoices.
 - E-invoicing: phased obligation starting 2025; see the e-invoice section for dates and formats.
 
-## Article table of contents
-- [Предисловие / Foreword](articles/2025/freelancer-gewerbe-guide.md#предисловие)
-- [Об Авторе / About the author](articles/2025/freelancer-gewerbe-guide.md#об-авторе)
-- [Список изменений / Changelog](articles/2025/freelancer-gewerbe-guide.md#список-изменений)
-- [Глава 1. Введение](articles/2025/freelancer-gewerbe-guide.md#глава-1-введение)
-- [2. Про налоги](articles/2025/freelancer-gewerbe-guide.md#2-про-налоги)
-- [3. Бухгалтерия и счета](articles/2025/freelancer-gewerbe-guide.md#3-бухгалтерия-и-счета)
-- [4. ПО для Бухгалтерии](articles/2025/freelancer-gewerbe-guide.md#4-по-для-бухгалтерии)
-- [5. Банки](articles/2025/freelancer-gewerbe-guide.md#5-банки)
-- [6. Страховки](articles/2025/freelancer-gewerbe-guide.md#6-страховки)
-- [7. Работа](articles/2025/freelancer-gewerbe-guide.md#7-работа)
-- [8. Подработка как самозанятый](articles/2025/freelancer-gewerbe-guide.md#8-подработка-как-самозанятый)
-- [9. Заключение](articles/2025/freelancer-gewerbe-guide.md#9-заключение)
+## Article table of contents (EN version)
+- [Foreword](articles/2025/freelancer-gewerbe-guide-en.md#foreword)
+- [About the Author](articles/2025/freelancer-gewerbe-guide-en.md#about-the-author)
+- [Changelog](articles/2025/freelancer-gewerbe-guide-en.md#changelog)
+- [Chapter 1. Introduction](articles/2025/freelancer-gewerbe-guide-en.md#chapter-1-introduction)
+- [2. Taxes](articles/2025/freelancer-gewerbe-guide-en.md#2-taxes)
+- [3. Accounting and invoices](articles/2025/freelancer-gewerbe-guide-en.md#3-accounting-and-invoices)
+- [4. Accounting software](articles/2025/freelancer-gewerbe-guide-en.md#4-accounting-software)
+- [5. Banks](articles/2025/freelancer-gewerbe-guide-en.md#5-banks)
+- [6. Insurance](articles/2025/freelancer-gewerbe-guide-en.md#6-insurance)
+- [7. Work](articles/2025/freelancer-gewerbe-guide-en.md#7-work)
+- [8. Side gig as self-employed](articles/2025/freelancer-gewerbe-guide-en.md#8-side-gig-as-self-employed)
+- [9. Conclusion](articles/2025/freelancer-gewerbe-guide-en.md#9-conclusion)
 
 ## Repo structure
 - `articles/` — articles and assets

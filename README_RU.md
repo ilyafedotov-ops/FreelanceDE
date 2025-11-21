@@ -8,7 +8,8 @@
 Гайды и статьи о фрилансе в Германии. Все материалы в Markdown, лицензия — CC BY-NC 4.0.
 
 ## Текущая статья
-- Файл: [articles/2025/freelancer-gewerbe-guide.md](articles/2025/freelancer-gewerbe-guide.md)
+- RU: [articles/2025/freelancer-gewerbe-guide.md](articles/2025/freelancer-gewerbe-guide.md)
+- EN: [articles/2025/freelancer-gewerbe-guide-en.md](articles/2025/freelancer-gewerbe-guide-en.md) (пока в процессе перевода текста)
 - Лицензия: CC BY-NC 4.0; на ваш риск.
 
 ## Кратко о статье

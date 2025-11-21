@@ -7,7 +7,8 @@ Multilingual guides about freelancing in Germany (Markdown, CC BY-NC 4.0).
 - Русский: [README_RU.md](README_RU.md)
 
 ## Current article
-- [articles/2025/freelancer-gewerbe-guide.md](articles/2025/freelancer-gewerbe-guide.md) — freelancer/Gewerbe guide with registration, taxes, accounting (EÜR), invoicing (incl. e-invoices), tooling, banks, insurance, and contracts.
+- RU: [articles/2025/freelancer-gewerbe-guide.md](articles/2025/freelancer-gewerbe-guide.md)
+- EN: [articles/2025/freelancer-gewerbe-guide-en.md](articles/2025/freelancer-gewerbe-guide-en.md) — translation in progress (headings/TOC ready). Both cover registration, taxes, accounting (EÜR), invoicing (incl. e-invoices), tooling, banks, insurance, and contracts.
 
 ## Repository layout
 - `articles/` — articles and assets

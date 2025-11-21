@@ -10,3 +10,4 @@ Use this format:
 
 ## 2025
 - 2025-11-21 — Freelancer Gewerbe Guide — status: draft — articles/2025/freelancer-gewerbe-guide.md
+- 2025-11-21 — Freelancer & Gewerbe Guide (EN) — status: draft (translation) — articles/2025/freelancer-gewerbe-guide-en.md
