@@ -1508,91 +1508,75 @@ Main forms of Kundenakquise:
 
 #### Active vs passive client acquisition
 
-При поиске клиентов можно использовать два основных подхода: активный и пассивный.
+Two main approaches: active and passive.
 
-Активные методы:
+Active methods:
+- Attend conferences/industry events.
+- Direct outreach by email/phone.
+- Use freelance platforms to find projects.
+- Build a personal brand via social/publishing.
 
-- Участие в конференциях и отраслевых мероприятиях.
-
-- Прямое обращение к компаниям через электронную почту или телефон.
-
-- Использование фриланс-платформ для поиска проектов.
-
-- Создание личного бренда через социальные сети и публикации.
-
-Пассивные методы:
-
-- SEO-оптимизация собственного сайта или портфолио.
-
-- Ведение блога или публикация статей, которые могут привлечь внимание потенциальных клиентов.
-
-- Профиль на платформах с возможностью поиска фрилансеров.
-
-- Размещение положительных отзывов и кейсов для привлечения новых заказчиков.
+Passive methods:
+- SEO for your site/portfolio.
+- Blog or publish articles to attract leads.
+- Maintain profiles on freelancer-search platforms.
+- Showcase reviews/case studies to draw new clients.
 
 #### Steps to successful client acquisition
 
 ##### 1. Define your target audience
 
-Чтобы найти клиентов, нужно знать, кто они. Проведите анализ потенциальных клиентов: их возраст, профессия, интересы, отрасль. Создайте "buyer personas" — это фальшивые образы типичных клиентов, которые помогут адаптировать ваше предложение.
+Know who you want: analyze age, role, interests, industry. Create buyer personas to tailor your offer.
 
 ##### 2. Find your niche and USP
 
-Чем вы отличаетесь от конкурентов? Важно выделить ваши уникальные сильные стороны: это может быть специализированный опыт, уникальные навыки или особые методы работы. Определение вашего "USP" помогает не только выделиться среди конкурентов, но и правильно выбрать каналы для привлечения клиентов.
+What sets you apart? Highlight specialized experience, unique skills, or methods. Clarifying your USP helps you stand out and pick the right channels.
 
 ##### 3. Choose the right channels
 
-Где ваша аудитория проводит время? Если ваши клиенты — молодые стартапы, они, скорее всего, находятся в социальных сетях. Если вы работаете с крупными компаниями, больше внимания стоит уделить бизнес-платформам вроде LinkedIn или Xing.
+Where does your audience spend time? Startups may be on social; larger firms on LinkedIn/Xing. Focus where your clients are.
 
 ##### 4. Prospect continuously
 
-Не ждите спада в проектах, чтобы начинать искать новых клиентов. Это должно быть постоянной частью вашей работы, даже когда у вас есть текущие проекты.
+Don’t wait for a lull. Make client acquisition ongoing, even when you’re busy.
 
 ##### 5. Build long-term relationships
 
-После завершения проекта поддерживайте связь с клиентом. Регулярные письма, поздравления с праздниками или просто внимание к новостям компании могут сделать вас "фрилансером по умолчанию" для следующих задач.
+After each project, stay in touch. Occasional check-ins/updates can make you the default freelancer for future work.
 
 #### Top-5 platforms to find clients in Germany
 
-В Германии существует множество специализированных платформ для поиска проектов. Вот пять самых популярных среди фрилансеров:
+Germany has many project platforms. Five popular ones:
 
-1.  **Freelancermap.de**  
-    Немецкая платформа, которая специализируется на проектах в области IT, разработки программного обеспечения и цифрового маркетинга. Она предоставляет доступ к большому числу вакансий для фрилансеров.
+1. **Freelancermap.de** — German platform focused on IT, software dev, and digital marketing projects; large project pool.
 
-2.  **Xing Projekte**  
-    Xing — это немецкий аналог LinkedIn, и он предлагает специальную секцию для поиска проектов и фрилансеров. Это отличная площадка для тех, кто ищет клиентов среди немецкоговорящих компаний.
+2. **Xing Projekte** — within Xing (German LinkedIn), a section for projects/freelancers; good for German-speaking clients.
 
-3.  **Gulp.de**  
+3. **Gulp.de** —
     Gulp — это одна из крупнейших платформ для поиска IT-фрилансеров в Германии. Она предлагает проекты как для краткосрочной, так и для долгосрочной работы в таких областях, как разработка программного обеспечения и IT-консалтинг.
 
 4.  **Twago.de**  
     Twago ориентирована на фрилансеров в различных областях, от маркетинга до разработки программного обеспечения. Платформа позволяет напрямую связываться с клиентами и подавать заявки на интересующие проекты.
 
-5.  **DasAuge.de**  
-    Платформа DasAuge популярна среди дизайнеров, графиков и специалистов по рекламе. Она предоставляет доступ к креативным проектам для фрилансеров, работающих в Германии.
+5. **DasAuge.de** — popular with designers/creatives; access to creative projects in Germany.
 
 #### Top-5 international platforms to find clients
 
-На мировом уровне также существуют платформы, которые позволяют фрилансерам находить работу в разных странах:
+Global platforms to find work internationally:
 
-1.  **Upwork**  
-    Одна из крупнейших фриланс-платформ в мире, предлагающая проекты в самых разных областях, от IT до перевода и дизайна. Upwork предоставляет фрилансерам возможность находить как краткосрочные, так и долгосрочные проекты.
+1. **Upwork** — huge global platform across IT, translation, design, etc.; supports short- and long-term projects.
 
-2.  **Freelancer.com**  
-    Международная платформа, на которой можно найти проекты по разработке, дизайну, маркетингу и другим направлениям. Freelancer.com популярен благодаря своему огромному количеству пользователей и проектов.
+2. **Freelancer.com** — international, with dev, design, marketing, and more; large user/project base.
 
-3.  **Fiverr**  
-    Fiverr предлагает фрилансерам возможность продавать свои услуги, начиная с небольших заданий за 5 долларов. Это отличная платформа для тех, кто хочет быстро найти краткосрочные задания и построить портфолио.
+3. **Fiverr** — sell services starting at $5; good for quick, small gigs and building a portfolio.
 
-4.  **Toptal**  
-    Платформа для опытных фрилансеров в IT и разработке программного обеспечения. Toptal сотрудничает с ведущими компаниями мира, и процесс отбора на платформу более строгий, чем на других сайтах.
+4. **Toptal** — for experienced IT/software freelancers; partners with top companies; stricter vetting.
 
-5.  **PeoplePerHour**  
-    Платформа, которая объединяет фрилансеров и клиентов по всему миру. Проекты на PeoplePerHour охватывают широкий спектр услуг, от веб-дизайна до цифрового маркетинга.
+5. **PeoplePerHour** — global platform with projects from web design to digital marketing.
 
 #### 9. Conclusion
 
-Привлечение клиентов для фрилансера — это непрерывный процесс, требующий стратегии, упорства и использования правильных инструментов. Важно уметь комбинировать активные и пассивные методы, регулярно искать проекты и поддерживать связь с клиентами. Использование специализированных платформ в сочетании с хорошо продуманным личным брендом и сетевым взаимодействием поможет фрилансерам успешно развивать свой бизнес и находить новых заказчиков как в Германии, так и по всему миру.
+Client acquisition is ongoing and needs strategy, persistence, and the right tools. Combine active/passive methods, keep prospecting, and stay in touch with clients. Use platforms plus a solid personal brand and networking to grow your business and find clients in Germany and beyond.
 
 ### Job loss and state support
 
