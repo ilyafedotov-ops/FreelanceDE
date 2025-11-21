@@ -795,15 +795,13 @@ This avoids disputes and proves what’s being billed.
 
 #### 5. Prices and amounts (Preis und Betrag)
 
-На счёте должны быть указаны следующие суммы:
+An invoice must show:
 
-- Стоимость услуги без НДС.
+- Service price without VAT.
+- VAT amount (Umsatzsteuer), if applicable.
+- Total with VAT.
 
-- Сумма НДС (Umsatzsteuer), если она применяется.
-
-- Итоговая сумма с НДС.
-
-Если вы работаете по системе Kleinunternehmerregelung (упрощённая система для малых предпринимателей), указывайте, что НДС не взимается согласно § 19 UStG (Налоговый кодекс Германии). Например: «Gemäß § 19 UStG wird keine Umsatzsteuer berechnet.»
+If you use Kleinunternehmerregelung, note no VAT is charged under § 19 UStG (e.g., “Gemäß § 19 UStG wird keine Umsatzsteuer berechnet.”).
 
 #### 6. Payment terms (Zahlungsbedingungen)
 
@@ -899,387 +897,274 @@ Stripe is an online payments platform to accept payments easily. It supports car
 
 #### 2. Benefits of using Stripe
 
-- **Легкость интеграции:** Stripe предлагает простую интеграцию с веб-сайтами и платформами, такими как WordPress, WooCommerce, или даже с самописными сайтами через API. Если у вас нет сайта, вы все равно можете использовать Stripe для создания платежных ссылок или выставления счетов.
-
-- **Поддержка различных платежных методов:** Stripe позволяет принимать платежи различными методами, включая:
-
-  - Кредитные и дебетовые карты (Visa, MasterCard, American Express и др.)
-
-  - Банковские переводы (SEPA)
-
-  - Локальные способы оплаты, популярные в Германии (Sofort, Giropay)
-
-  - Мобильные платежи (Apple Pay, Google Pay)
-
-- **Высокий уровень безопасности:** Stripe соответствует стандартам PCI-DSS и использует передовые технологии шифрования для защиты данных платежей. Это дает вашим клиентам уверенность в безопасности их данных.
-
-- **Автоматизация процесса платежей:** Stripe предоставляет возможность автоматической выставки счетов, отправки напоминаний о платежах и регулярных списаний, что особенно полезно для фрилансеров, работающих на основе подписки или долгосрочных контрактов.
-
-- **Мультивалютность:** Stripe позволяет принимать платежи в более чем 135 валютах, что упрощает работу с клиентами из разных стран.
+- **Easy integration:** Plugins for WordPress/WooCommerce and APIs for custom sites. No site? Use payment links or Stripe invoices.
+- **Payment methods:** cards (Visa/Mastercard/AmEx etc.), SEPA transfers, local German methods (Sofort, Giropay), mobile payments (Apple Pay, Google Pay).
+- **Security:** PCI-DSS compliant with strong encryption; clients trust the data handling.
+- **Automation:** Auto invoicing, reminders, recurring charges—helpful for subscriptions or long-term contracts.
+- **Multi-currency:** Accept in 135+ currencies for global clients.
 
 #### 3. How to set up Stripe for payments
 
 ##### Sign-up and account setup
 
-1.  **Создайте учетную запись на Stripe:** Перейдите на [stripe.com](https://stripe.com) и зарегистрируйтесь. Вам потребуется предоставить информацию о вашем бизнесе, такую как название, адрес, тип деятельности, и банковские реквизиты для вывода средств.
-
-2.  **Пройдите процесс верификации:** Stripe требует подтверждения личности и банковской информации. Для этого вам нужно будет загрузить документы, удостоверяющие вашу личность (например, паспорт или ID-карту), а также указать действующий банковский счет.
+1. **Create an account:** Go to [stripe.com](https://stripe.com) and sign up. Provide business info (name, address, activity) and bank details for payouts.
+2. **Verify:** Stripe will verify identity and banking—upload ID (passport/ID card) and confirm a valid bank account.
 
 ##### Set up payment methods
 
-3.  **Выбор методов оплаты:** В своем аккаунте Stripe перейдите в раздел "Payments" и выберите методы оплаты, которые вы хотите предложить своим клиентам. Для немецких клиентов полезно настроить SEPA Direct Debit, Sofort, Giropay и другие популярные в Германии способы оплаты.
-
-4.  **Интеграция с вашим веб-сайтом:** Если у вас есть веб-сайт, Stripe предоставляет готовые решения для интеграции, такие как плагины для WordPress/WooCommerce или конструкторы сайтов. Если вы разрабатываете свой сайт самостоятельно, Stripe API предоставляет полный набор инструментов для создания кастомизированного процесса оплаты.
-
-5.  **Создание платежных ссылок:** Если у вас нет веб-сайта, вы можете использовать функциональность "Payment Links" в Stripe. Эта функция позволяет создать уникальную ссылку для оплаты, которую можно отправить клиенту по электронной почте или через мессенджеры.
+3. **Choose payment methods:** In “Payments,” enable the methods you want. For German clients, set up SEPA Direct Debit, Sofort, Giropay, etc.
+4. **Integrate with your site:** Use Stripe plugins for WordPress/WooCommerce or builders; for custom sites, use the Stripe API to build your own flow.
+5. **Create payment links:** No website? Use “Payment Links” to send a pay link by email or messenger.
 
 #### 4. Issuing invoices and receiving payments
 
-1.  **Создайте счет:** В Stripe есть функция для создания и отправки счетов клиентам. Это особенно удобно для фрилансеров, поскольку вы можете настроить шаблон счета, указать описание услуг, количество, и применить налог (если применимо).
-
-2.  **Получение платежа:** После отправки счета клиенту Stripe уведомит вас, когда платеж будет произведен. Средства зачисляются на ваш Stripe-счет, и затем вы можете вывести их на свой банковский счет.
-
-3.  **Автоматизация:** Stripe позволяет настроить автоматическое списание, что идеально подходит для регулярных платежей, например, при работе на основе подписки или периодических платежей за услуги.
+1. **Create an invoice:** Use Stripe’s invoicing; set a template, service description, quantity, and apply tax if needed.
+2. **Receive payment:** Stripe notifies you on payment; funds land in your Stripe balance, then you payout to your bank.
+3. **Automation:** Set up automatic charges for recurring payments (subscriptions or periodic services).
 
 #### 5. Fees and payouts
 
-- **Комиссии:** Stripe взимает комиссию за каждую транзакцию. Для европейских карт комиссия составляет 1,4% + €0,25 за транзакцию, для неевропейских карт — 2,9% + €0,25. Дополнительные комиссии могут взиматься за определенные виды платежей, такие как международные переводы.
-
-- **Вывод средств:** Средства можно выводить на ваш банковский счет автоматически по расписанию (ежедневно, еженедельно, ежемесячно) или вручную. Обычно средства поступают на банковский счет в течение 2–7 дней.
+- **Fees:** For EU cards, 1.4% + €0.25 per transaction; non-EU cards 2.9% + €0.25. Extra fees may apply for some payment types (e.g., international).
+- **Payouts:** Auto or manual to your bank (daily/weekly/monthly). Funds usually arrive in 2–7 days.
 
 #### 6. Stripe specifics in Germany
 
-- **Налогообложение:** В Германии фрилансеры обязаны указывать НДС (Mehrwertsteuer) в счетах клиентам, если ваш годовой доход превышает определенный порог. Stripe позволяет автоматически добавить налог на добавленную стоимость к вашим счетам. Не забудьте проконсультироваться с налоговым консультантом, чтобы правильно настроить систему в соответствии с требованиями немецкого налогового законодательства.
-
-- **Локальные способы оплаты:** Stripe поддерживает популярные в Германии методы оплаты, такие как SEPA Direct Debit, Giropay, и Sofort, что делает оплату для ваших клиентов более удобной.
-
-- **Бухгалтерский учет** Платформа предоставляет детализированные отчеты о транзакциях, что облегчает ведение бухгалтерии и подготовку к подаче налоговой декларации. Также доступна интеграция с популярными системами учета, такими как DATEV, Xero и QuickBooks.
-
-- 
+- **Taxation:** If you must charge VAT, Stripe can add it; consult a tax advisor to set it up per German rules.
+- **Local payment methods:** Supports SEPA Direct Debit, Giropay, Sofort, etc., making payments easier for German clients.
+- **Bookkeeping:** Detailed transaction reports and integrations with tools like DATEV, Xero, QuickBooks.
 
 #### 7. Practical tips for Stripe
 
-- **Тестирование:** Перед тем как начать принимать платежи от клиентов, протестируйте процесс оплаты с помощью режима "Test Mode" в Stripe. Это позволит убедиться, что все настроено правильно и платежи будут проходить без сбоев.
-
-- **Используйте отчеты:** Stripe предоставляет подробные отчеты о транзакциях, что упрощает управление финансами и подготовку к налоговой отчетности.
-
-- **Поддержка клиентов:** Stripe предлагает обширную базу знаний и службу поддержки, к которой можно обратиться в случае возникновения вопросов или проблем.
+- **Testing:** Use Stripe “Test Mode” before going live to ensure flows work.
+- **Use reports:** Detailed transaction reports help with finance and tax prep.
+- **Support:** Stripe has a large knowledge base and support if questions arise.
 
 #### What is Wise Business and how does it work?
 
-**Wise Business** – это онлайн-сервис, который позволяет фрилансерам и компаниям отправлять и получать международные платежи, используя реальные обменные курсы. Это означает отсутствие скрытых комиссий и наценок на конвертацию валют. Платформа поддерживает мультивалютные счета, что делает ее идеальной для тех, кто работает с клиентами по всему миру.
+**Wise Business** is an online service for sending/receiving international payments at real exchange rates—no hidden fees or FX markups. It supports multi-currency accounts, ideal when you work with clients worldwide.
 
-Сервис особенно полезен для бизнеса, который регулярно выставляет счета в разных валютах. Wise Business упрощает процесс оплаты и делает его прозрачным как для отправителя, так и для получателя.
+Great for businesses invoicing in multiple currencies; payments stay transparent for both sender and recipient.
 
 #### Benefits of using Wise Business for freelancers
 
-1.  **Низкие комиссии** Wise Business взимает фиксированную комиссию и процент от суммы перевода. Это гораздо дешевле, чем традиционные банковские переводы или использование кредитных карт.
-
-2.  **Мультивалютные счета** Вы можете создать виртуальные счета в более чем 40 валютах, включая евро (EUR), доллары США (USD), британские фунты (GBP) и другие. Это удобно для работы с клиентами из разных стран, так как вы избегаете лишних затрат на конвертацию.
-
-3.  **Выставление счетов** Платформа позволяет создавать профессиональные счета-фактуры с указанием стоимости услуг в нужной валюте. Клиенты могут легко оплатить их банковским переводом или картой.
-
-4.  **Реальные курсы обмена** Wise использует среднерыночные курсы без наценок, что позволяет экономить на международных переводах.
-
-5.  **Интеграция с бухгалтерскими системами** Сервис поддерживает интеграцию с такими инструментами, как Xero и QuickBooks, что упрощает ведение финансовой отчетности.
+1. **Low fees:** fixed fee + % of transfer; cheaper than banks/cards.
+2. **Multi-currency accounts:** open virtual accounts in 40+ currencies (EUR, USD, GBP, etc.) to avoid extra FX costs.
+3. **Invoicing:** create professional invoices in the needed currency; clients pay by bank transfer or card.
+4. **Real exchange rates:** mid-market rates with no markup, saving on international transfers.
+5. **Accounting integrations:** connects to tools like Xero and QuickBooks for easier reporting.
 
 #### How to set up Wise Business for payments
 
-1.  **Регистрация аккаунта** Зарегистрируйтесь на сайте Wise Business, предоставив информацию о вашем бизнесе. Процесс регистрации включает верификацию личности и документов компании.
-
-2.  **Добавление валют** После регистрации вы можете открыть мультивалютный счет и настроить его под нужды вашего бизнеса.
-
-3.  **Выставление счетов** Используйте платформу для создания счетов, указав описание услуги, стоимость и валюту. Счет можно отправить клиенту по электронной почте.
-
-4.  **Подключение банковского счета** Для вывода средств привяжите банковский счет к платформе. Wise позволяет отправлять деньги в 80+ странах.
+1. **Register:** Sign up on Wise Business with your business info; verification covers identity and company docs.
+2. **Add currencies:** Open a multi-currency account and configure needed currencies.
+3. **Issue invoices:** Create invoices with service description, price, and currency; send via email.
+4. **Link a bank account:** Connect your bank for payouts; Wise can send to 80+ countries.
 
 #### Fees and payout timelines
 
-Wise Business взимает:
-
-- **Фиксированную комиссию**: например, €0,50 за перевод.
-
-- **Процент от суммы перевода**: для большинства валют он варьируется от 0,35% до 1%.
-
-Вывод средств на банковский счет обычно занимает от нескольких минут до 1-2 рабочих дней.
+Wise Business charges:
+- **Fixed fee:** e.g., €0.50 per transfer.
+- **Percent of amount:** typically 0.35%–1% depending on currency.
+Payout to a bank usually takes minutes to 1–2 business days.
 
 #### Wise Business specifics in Germany
 
-Работа с международными платежами в Германии имеет свои нюансы. **Wise Business** помогает эффективно решать вопросы, связанные с налоговым учетом, локальными требованиями и удобством для клиентов. Вот ключевые особенности:
+Working with international payments in Germany has nuances. **Wise Business** helps with tax handling, local requirements, and client convenience. Key points:
 
 ##### 1. SEPA support
 
-SEPA (Single Euro Payments Area) – это стандарт для банковских переводов в странах ЕС, который обеспечивает быстрые и удобные транзакции в евро. Wise полностью поддерживает SEPA-платежи, что дает следующие преимущества:
-
-- **Быстрые переводы:** Средства обычно поступают в течение одного рабочего дня.
-
-- **Низкие комиссии:** В отличие от традиционных банков, Wise взимает минимальные сборы за такие переводы.
-
-- **Простота работы:** Нет необходимости указывать IBAN вручную – система автоматически проверяет и упрощает процесс отправки.
+SEPA enables fast euro transfers across the EU. Wise fully supports SEPA, giving:
+- **Fast transfers:** usually within one business day.
+- **Low fees:** lower than many traditional banks.
+- **Ease of use:** no manual IBAN entry—checks and simplifies sending.
 
 ##### 2. Tax compliance
 
-В Германии все компании и фрилансеры обязаны учитывать налоговые аспекты при выставлении счетов. Wise предоставляет функции, которые упрощают соблюдение местного законодательства:
-
-- **Включение НДС (Mehrwertsteuer):** В счете можно указать налоговую ставку (обычно 19% или 7%) и четко выделить сумму НДС. Это особенно важно для клиентов, зарегистрированных как юридические лица.
-
-- **Экспорт отчетов:** Платформа позволяет экспортировать данные о транзакциях за любой период, что удобно для подачи налоговой декларации или подготовки к проверке.
-
-- **Поддержка локальных налоговых кодов:** Возможность указания налогового номера (Steuernummer) или идентификатора НДС (USt-IdNr) непосредственно в шаблоне счета.
+German businesses must handle tax correctly; Wise helps with compliance:
+- **Include VAT (Mehrwertsteuer):** set the rate (19% or 7%) and show VAT clearly—important for business clients.
+- **Export reports:** pull transaction data for any period for tax returns/audits.
+- **Local tax IDs:** add Steuernummer or USt-IdNr in invoice templates.
 
 ##### 3. Working with clients in Germany
 
-Для клиентов в Германии важно использовать популярные и привычные методы оплаты. Wise предлагает удобные решения:
-
-- **SEPA Direct Debit:** Это автоматическое списание средств с банковского счета клиента, что удобно для подписочных моделей или регулярных платежей.
-
-- **Локализация интерфейса:** Система доступна на немецком языке, а счета и уведомления можно отправлять на немецком, что повышает доверие клиентов.
-
-- **Поддержка различных валют:** Несмотря на работу в Германии, многие фрилансеры работают с клиентами из других стран. Wise позволяет выставлять счета в EUR, GBP, USD и многих других валютах, что исключает дополнительные конверсии для клиента.
+For German clients, familiar payment options matter. Wise offers:
+- **SEPA Direct Debit:** automatic pulls for subscriptions/recurring payments.
+- **Localized interface:** available in German; invoices/notifications can be in German to boost trust.
+- **Multi-currency invoicing:** bill in EUR, GBP, USD, etc., avoiding extra conversions for clients.
 
 ##### 4. Handling FX transfers
 
-Фрилансеры, работающие с международными клиентами, часто сталкиваются с необходимостью конвертации валют. В Германии важно:
-
-- Указывать точную сумму в валюте клиента и её эквивалент в EUR, если это требуется для налоговой отчетности.
-
-- Использовать среднерыночный курс для избежания дополнительных расходов. Wise автоматически отображает курс конвертации и комиссию, делая процесс прозрачным.
+Freelancers with international clients often need FX. In Germany:
+- Show the exact client currency and, if needed for tax, the EUR equivalent.
+- Use mid-market rates to avoid extra costs; Wise shows conversion rate and fee transparently.
 
 ##### 5. Bookkeeping automation
 
-Ведение бухгалтерии в Германии может быть сложным процессом, особенно для фрилансеров. Wise предлагает интеграцию с бухгалтерскими системами, такими как **DATEV**, **Xero**, и **QuickBooks**, что позволяет:
-
-- Автоматически синхронизировать транзакции.
-
-- Отмечать оплаченные счета и отслеживать задолженности.
-
-- Готовить данные для налоговой декларации без необходимости ручного учета.
+Bookkeeping in Germany is complex; Wise integrates with **DATEV**, **Xero**, **QuickBooks** to:
+- Sync transactions automatically.
+- Mark paid invoices and track receivables.
+- Prepare tax data without manual entry.
 
 ##### 6. Integration with German banks
 
-Для вывода средств или оплаты клиентам вы можете привязать к Wise банковский счет в немецком банке. Это гарантирует:
-
-- **Быстрый вывод средств:** Средства обычно поступают в течение 1-2 рабочих дней.
-
-- **Простую привязку IBAN:** Платформа поддерживает все немецкие банки, что упрощает процесс настройки.
+Link a German bank account for payouts/payments:
+- **Fast payouts:** typically 1–2 business days.
+- **Easy IBAN linking:** supports all German banks for simple setup.
 
 ##### 7. Practical help for freelancers
 
-Wise активно обновляет свою базу знаний и предоставляет специализированные инструкции для фрилансеров в Германии:
-
-- Рекомендации по выставлению счетов.
-
-- Советы по управлению мультивалютными счетами.
-
-- Информация о налоговых правилах и отчетности в Германии.
+Wise keeps its knowledge base updated with Germany-specific guides:
+- Invoicing tips.
+- Multi-currency account management advice.
+- Info on German tax rules and reporting.
 
 ##### 8. Reporting for Finanzamt
 
-Wise позволяет подготовить всю необходимую информацию для подачи отчетности в налоговую службу Германии (Finanzamt):
-
-- **Скачать все транзакции за год в удобном формате (CSV или PDF).**
-
-- **Указать идентификаторы счетов для удобной сортировки доходов.**
-
-- **Включить детали конверсии валют, если платежи получены в разных валютах.**
+Wise lets you prepare what Finanzamt needs:
+- **Download all transactions** for the year (CSV/PDF).
+- **Tag account IDs** to sort income.
+- **Include FX details** if payments came in multiple currencies.
 
 #### Practical tips for Wise Business
 
-- **Мультивалютные счета:** Используйте их для минимизации расходов на конвертацию валют.
-
-- **Автоматизация бухгалтерии:** Интеграция с Xero и QuickBooks ускорит процесс учета финансов.
-
-- **Тестирование системы:** Перед отправкой первого счета клиенту протестируйте функционал платформы.
+- **Use multi-currency accounts** to cut FX costs.
+- **Automate bookkeeping** via Xero/QuickBooks integrations.
+- **Test the system** before sending your first invoice.
 
 ### Annual reporting
 
-Годовая отчетность является важной частью работы фрилансера в Германии. Подготовка отчетности включает в себя сбор всех финансовых данных за год, подачу налоговой декларации и соблюдение установленных законом сроков. Для фрилансеров, использующих **EÜR (Einnahmenüberschussrechnung)** — упрощенную систему учета доходов и расходов, правильная подготовка и подача отчетности помогает избежать проблем с налоговой службой.
+Annual reporting is essential. It includes gathering all yearly financial data, filing the tax return, and meeting deadlines. For freelancers using **EÜR (Einnahmenüberschussrechnung)**, proper prep/filing avoids tax-office issues.
 
 #### 1.1. Preparing the annual report
 
-Подготовка годового отчета начинается с систематизации всех финансовых документов и их корректного учета. Важно собрать и обработать:
+Start by organizing all documents and recording them accurately:
 
-- **Доходы**: Все полученные доходы за год, включая счета, которые вы выставили клиентам, и полученные платежи.
+- **Income:** all earnings for the year, invoiced and paid.
+- **Expenses:** office rent, equipment, travel, professional training, and other business costs.
+- **Asset depreciation:** equipment/vehicles can be written off over several years.
 
-- **Расходы**: Включают аренду офиса, расходы на оборудование, поездки, профессиональные обучения, а также любые другие расходы, связанные с ведением бизнеса.
-
-- **Амортизация активов**: Если вы приобрели оборудование или транспортные средства, их стоимость может списываться в течение нескольких лет.
-
-Для подготовки годового отчета можно использовать различные платформы для ведения бухгалтерии, такие как **LexOffice**, **SevDesk** или **Getsorted**. Эти программы упрощают сбор данных и помогают организовать бухгалтерию в удобном формате. Такие сервисы автоматически формируют отчеты, синхронизируют данные с банковскими счетами и подготавливают документы для налоговой декларации.
+Tools like **LexOffice**, **SevDesk**, or **Getsorted** help collect data, sync bank transactions, and generate reports/documents for the tax return.
 
 #### 1.2. Filling the tax return
 
-Заполнение налоговой декларации — важный этап, который необходимо завершить до конца установленного срока. Основные формы для подачи:
-
-- **Anlage EÜR** – для учета доходов и расходов;
-
-- **Einkommensteuererklärung** – декларация по подоходному налогу;
-
-- **Umsatzsteuererklärung** – декларация по НДС, если вы зарегистрированы как плательщик НДС;
-
-- **Gewerbesteuererklärung** – декларация по налогу на предпринимательство (если применимо).
+File on time. Main forms:
+- **Anlage EÜR** – income/expense statement.
+- **Einkommensteuererklärung** – income tax return.
+- **Umsatzsteuererklärung** – VAT return, if VAT-registered.
+- **Gewerbesteuererklärung** – trade tax return (if applicable).
 
 #### Software to automate filings
 
-- **ELSTER**: Официальный портал немецкой налоговой службы для подачи деклараций онлайн.
+- **ELSTER:** official German tax portal for online filings.
+- **LexOffice:** cloud accounting/tax prep with automation.
+- **SevDesk:** tools for bookkeeping, invoicing, and tax filings.
+- **Getsorted:** freelancer-friendly finance/reporting tool.
 
-- **LexOffice**: Облачная платформа для ведения бухгалтерии и подготовки налоговой отчетности, которая помогает автоматизировать процессы.
-
-- **SevDesk**: Предоставляет простые инструменты для ведения бухгалтерии, создания счетов и подачи налоговых деклараций.
-
-- **Getsorted**: Еще один удобный сервис для фрилансеров, позволяющий легко управлять финансами и подготовкой отчетности.
-
-Эти платформы позволяют легко интегрировать данные о доходах и расходах, автоматически формируют необходимые документы и могут помочь избежать ошибок в заполнении налоговой декларации.
+These platforms integrate income/expense data, auto-generate required documents, and help avoid return errors.
 
 #### 1.3. Filing deadlines
 
-Фрилансерам важно соблюдать сроки подачи отчетности, чтобы избежать штрафов. Основные сроки следующие:
+Meet deadlines to avoid fines:
+- **By 31 July of the following year** if you file yourself.
+- **By 28 February of the following year** if you use a tax advisor.
 
-- **До 31 июля следующего года**, если вы подаете декларацию самостоятельно.
-
-- **До 28 февраля следующего года**, если вы работаете с налоговым консультантом.
-
-Пример: если вы подаете налоговую отчетность за 2023 год, то крайний срок подачи при самостоятельной подаче — 31 июля 2024 года, а если вы пользуетесь услугами налогового консультанта, срок продлевается до 28 февраля 2025 года​(
-
-Соблюдение этих сроков позволяет избежать штрафов и проблем с налоговой службой, а использование специализированных платформ для ведения бухгалтерии упрощает процесс подготовки и подачи отчетности.
+Example: for tax year 2023, self-filing deadline is 31 July 2024; with a tax advisor it extends to 28 February 2025. Meeting deadlines avoids fines; using accounting tools simplifies prep/filing.
 
 ## 4. Accounting software
 
-Фрилансерам в Германии необходимо эффективно управлять своими финансовыми потоками и налогами. Бухгалтерские программы позволяют автоматизировать процессы, что значительно упрощает работу. Ниже рассмотрены семь популярных решений, которые идеально подходят для фрилансеров.
+Freelancers in Germany must manage cash flow and taxes efficiently. Accounting software automates processes and eases the load. Below are seven popular options suited to freelancers.
 
 #### 1. Lexoffice
 
-Lexoffice — одно из наиболее популярных облачных решений для автоматизации бухгалтерии. Оно подходит для фрилансеров и малого бизнеса, предоставляя возможность интеграции с банками и автоматизации налогообложения. Поддерживает создание годовой отчётности EüR и интеграцию с системами **ELSTER** и **DATEV**.
+Lexoffice — popular cloud option for accounting automation. Fits freelancers/small biz, integrates with banks, automates tax, supports EÜR annual reporting, and **ELSTER/DATEV** integration.
 
-- Поддерживаемые банки: Qonto, N26, Commerzbank, ING, Finom,Kontist..
+- Supported banks: Qonto, N26, Commerzbank, ING, Finom, Kontist.
+- **Cost:** €6.90–€29.90/month.
 
-- **Стоимость**: от €6.90 до €29.90 в месяц.
-
-Плюсы:
-
-- Простота использования.
-
-- Интеграция с банковскими системами.
-
-- Автоматический расчёт налогов и учёт НДС.
+Pros:
+- Easy to use.
+- Bank integrations.
+- Automatic tax/VAT handling.
 
 #### 2. SevDesk
 
-SevDesk — облачная бухгалтерская программа, которая помогает автоматизировать ведение учёта, создание счетов и налоговую отчётность. Она также интегрируется с множеством банков и системой **DATEV**.
-
-- Поддерживаемые банки: Sparkasse, Deutsche Bank, Commerzbank, Volksbank, N26, Finom,Kontist.
-
-- **Стоимость**: от €8.90 до €42.90 в месяц.
-
-Плюсы:
-
-- Мобильное приложение.
-
-- Интеграция с 3000+ банками.
-
-- Возможность сканирования квитанций.
+SevDesk — cloud accounting app for automating bookkeeping, invoicing, and tax reporting; integrates with many banks and **DATEV**.
+- Supported banks: Sparkasse, Deutsche Bank, Commerzbank, Volksbank, N26, Finom, Kontist.
+- **Cost:** €8.90–€42.90/month.
+Pros:
+- Mobile app.
+- Integration with 3,000+ banks.
+- Receipt scanning.
 
 #### 3. Lexware
 
-Lexware — это десктопное решение, подходящее для фрилансеров и малого бизнеса. Оно поддерживает двойную бухгалтерию и расчёт заработных плат, что делает его идеальным для тех, кто работает с большим количеством транзакций.
-
-- Поддерживаемые банки: Volksbank, Postbank, Sparkasse, Finom,Kontist.
-
-- **Стоимость**: от €19.90 до €71.80 в месяц.
-
-Плюсы:
-
-- Поддержка двойной бухгалтерии.
-
-- Расчёт зарплат.
+Lexware — desktop solution for freelancers/small biz; supports double-entry and payroll, good for high transaction volume.
+- Supported banks: Volksbank, Postbank, Sparkasse, Finom, Kontist.
+- **Cost:** €19.90–€71.80/month.
+Pros:
+- Double-entry support.
+- Payroll.
 
 #### 4. FastBill
 
-FastBill предлагает автоматизацию учёта для малого бизнеса и фрилансеров, а также интеграцию с банковскими системами и сервисами. С помощью FastBill можно легко вести учёт квитанций, создавать счета и управлять налогами.
-
-- Поддерживаемые банки: Deutsche Bank, N26, Postbank, Sparkasse.
-
-- **Стоимость**: от €9 до €53 в месяц.
-
-Плюсы:
-
-- Автоматизация финансовых процессов.
-
-- Простота использования.
+FastBill automates accounting for small biz/freelancers and integrates with banks/services. Manage receipts, invoices, and taxes.
+- Supported banks: Deutsche Bank, N26, Postbank, Sparkasse.
+- **Cost:** €9–€53/month.
+Pros:
+- Financial process automation.
+- Ease of use.
 
 #### 5. Sage 50
 
-Sage 50 — это комплексное решение для бухгалтерии, которое также поддерживает интеграцию с платёжными системами и онлайн-магазинами. Это делает его подходящим как для фрилансеров, так и для малого бизнеса.
-
-- Поддерживаемые банки: Commerzbank, PayPal, Stripe.
-
-- **Стоимость**: от €30 до €40 в месяц.
-
-Плюсы:
-
-- Поддержка онлайн-магазинов.
-
-- Интеграция с платёжными системами.
+Sage 50 — comprehensive accounting with payment and e-commerce integrations; suits freelancers and small biz.
+- Supported banks/services: Commerzbank, PayPal, Stripe.
+- **Cost:** €30–€40/month.
+Pros:
+- Supports online shops.
+- Payment-system integrations.
 
 #### 6. BuchhaltungsButler
 
-BuchhaltungsButler предлагает автоматизацию учёта и интеграцию с банками и системами налоговой отчётности, такими как **DATEV** и **ELSTER**. Программа подходит для автоматизации рутинных бухгалтерских задач.
-
-- Поддерживаемые банки: DATEV, Sparkasse, Deutsche Bank, Volksbank.
-
-- **Стоимость**: от €34.95 до €79.95 в месяц.
-
-Плюсы:
-
-- Поддержка автоматического сканирования и учёта документов.
+BuchhaltungsButler automates bookkeeping and integrates with banks and tax systems like **DATEV** and **ELSTER**, suitable for routine task automation.
+- Supported banks: DATEV, Sparkasse, Deutsche Bank, Volksbank.
+- **Cost:** €34.95–€79.95/month.
+Pros:
+- Automatic document scanning and capture.
 
 #### 7. WISO Mein Büro
 
-WISO Mein Büro предлагает как десктопную, так и облачную версии для управления бухгалтерией. Она поддерживает интеграцию с банковскими системами и платёжными сервисами.
-
-- Поддерживаемые банки: Commerzbank, Sparkasse, Postbank, Finom,Kontist..
-
-- **Стоимость**: от €14.90 до €139.90 в месяц.
-
-Плюсы:
-
-- Обширные возможности для отчётности.
-
-- Интеграция с ELSTER.
+WISO Mein Büro offers desktop and cloud versions for accounting; integrates with banks and payment services.
+- Supported banks: Commerzbank, Sparkasse, Postbank, Finom, Kontist.
+- **Cost:** €14.90–€139.90/month.
+Pros:
+- Extensive reporting.
+- ELSTER integration.
 
 #### Getsorted
 
-**Getsorted** — это ещё одно облачное решение, разработанное специально для фрилансеров и малого бизнеса в Германии. Оно помогает автоматизировать ведение бухгалтерии и налоговых отчётов, облегчая процесс подачи годовой отчётности EüR через интеграцию с ELSTER.
+**Getsorted** — cloud tool built for freelancers/small biz in Germany. Automates bookkeeping/tax, easing EÜR filing via ELSTER integration.
 
-Особенности:
+Features:
+- Full automation of taxes and filings.
+- Bank integrations and automatic transaction import.
+- Supports EÜR and USt (VAT).
 
-- Полная автоматизация налогов и подачи деклараций.
+Supported banks: N26, Deutsche Bank, Commerzbank, Sparkasse, Finom, Kontist.
 
-- Интеграция с банковскими системами и автоматическое получение транзакций.
-
-- Поддержка EüR и USt (налог на добавленную стоимость).
-
-Поддерживаемые банки: N26, Deutsche Bank, Commerzbank, Sparkasse, Finom,Kontist..
-
-**Стоимость**: от €8 в месяц.
+**Cost:** from €8/month.
 
 #### Accountable
 
-Accountable — облачное приложение для бухгалтерии, специально разработанное для фрилансеров и самозанятых в Германии. Оно помогает автоматизировать учёт доходов и расходов, создавать счета, подавать налоговые декларации и интегрируется с немецкими налоговыми стандартами.
+Accountable — cloud app for freelancers/self-employed in Germany; automates income/expense tracking, invoicing, tax filing, aligned with German standards.
 
-- **Поддерживаемые банки:** N26, Commerzbank, Deutsche Bank, Sparkasse и другие.
+- **Supported banks:** N26, Commerzbank, Deutsche Bank, Sparkasse, others.
+- **Cost:** Free basic; €7.50–€24.50/month for premium.
 
-- **Стоимость:** Бесплатный базовый план или от €7.50 до €24.50 в месяц за премиум-функции.
-
-**Плюсы:**
-
-- Удобное мобильное приложение.
-
-- Простая интеграция с банковскими счетами.
-
-- Автоматическое заполнение налоговых деклараций.
-
-- Напоминания о налоговых сроках.
+**Pros:**
+- Handy mobile app.
+- Easy bank integrations.
+- Auto-fill tax returns.
+- Tax deadline reminders.
 
 Сравнительная таблица Бухгалтерского ПО
 
@@ -1289,117 +1174,98 @@ Accountable — облачное приложение для бухгалтер�
 
 ### Overview of popular online banks for freelancers in Germany
 
-Выбор подходящего онлайн-банка для фрилансера — важный шаг для эффективного управления финансами. В статье рассмотрены основные банки, которые предлагают гибкие тарифы, удобный интернет-банкинг, интеграцию с бухгалтерскими программами и другие полезные функции. Мы также включили подробную таблицу для сравнения ключевых параметров.
+Choosing the right online bank is key to managing finances. Here are banks with flexible plans, good online banking, accounting integrations, and useful features. A comparison table follows.
 
 #### 1. Kontist
 
-Kontist — это банк, специально разработанный для фрилансеров. Он предлагает автоматический расчёт налогов и интеграцию с популярными бухгалтерскими программами, что значительно упрощает финансовую отчётность и управление налогами.
+Kontist is built for freelancers. It auto-calculates taxes and integrates with popular accounting tools.
 
-Функции:
+Features:
+- Automatic tax and VAT calculations.
+- Free virtual Visa; physical card €29/year.
+- Integrations: **Lexoffice**, **Debitoor**, **Fastbill** to manage expenses/income.
 
-- Автоматический расчёт налогов и НДС.
-
-- Бесплатная виртуальная Visa-карта, физическая карта за €29/год.
-
-- Интеграция с **Lexoffice**, **Debitoor**, **Fastbill** — можно легко управлять расходами и доходами.
-
-Особенности:
-
-- Нет кэшбэка.
-
-- Видео-идентификация.
-
-- Google Pay/Apple Pay для мобильных платежей.
+Notes:
+- No cashback.
+- Video identification.
+- Google Pay/Apple Pay support.
 
 #### 2. N26 Business
 
-N26 — один из крупнейших мобильных банков в Европе, предлагающий выгодные условия для международных переводов и встроенный кэшбэк на покупки. Поддерживает интеграцию с внешними бухгалтерскими сервисами.
+N26 is a large mobile bank in Europe with good international transfer terms and built-in cashback; integrates with external accounting tools.
 
-Функции:
+Features:
+- Free base plan with unlimited SEPA transactions.
+- Connect to **Accountable** for automated bookkeeping.
+- Cashback 0.1%–0.5%.
 
-- Бесплатный базовый тариф с неограниченными SEPA-транзакциями.
-
-- Подключение к **Accountable** для автоматизации бухгалтерии.
-
-- Кэшбэк от 0,1% до 0,5%.
-
-Особенности:
-
-- Поддержка мобильных платежей через Google/Apple Pay.
-
-- Видео-идентификация для открытия счета.
-
-- Подключение к внешним сервисам через API.
-
-#### 3. Qonto
-
-Qonto предоставляет различные тарифы и расширенные функции для малого бизнеса, включая возможность подключения нескольких пользователей. Это идеальный выбор для фрилансеров, которые хотят иметь интеграцию с бухгалтерией и управлять своими счетами.
-
-Функции:
-
-- Интеграция с **Lexoffice**, **Datev**, **SevDesk** для автоматизации финансового учёта.
-
-- Возможность использования нескольких карт и субсчетов.
-
-Особенности:
-
-- Google Pay/Apple Pay для мобильных платежей.
-
-- Видео-идентификация.
-
-- Возможность API-интеграции для автоматизации процессов.
-
-#### 4. Finom
-
-Finom предлагает гибкую систему выставления счетов и интеграцию с бухгалтерскими системами, что делает его привлекательным для фрилансеров, работающих с многочисленными клиентами.
-
-Функции:
-
-- Инструменты для управления квитанциями и выставления счетов.
-
-- Интеграция с **Lexoffice** и **SevDesk**.
-
-Особенности:
-
-- Кэшбэк до 3% на премиум-тарифах.
-
-- Мобильные платежи через Google Pay и Apple Pay.
-
-- Видео-идентификация и поддержка API для автоматизации.
-
-#### 5. Fyrst
-
-Fyrst — это немецкий цифровой банк, поддерживающий бухгалтерские программы и предлагающий бесплатные снятия наличных в банкоматах Германии. Его главное преимущество — удобство и интеграция с финансовыми системами, такими как **Lexoffice** и **SevDesk**.
-
-Функции:
-
-- Интеграция с Lexoffice, SevDesk, Sage.
-
-- Бесплатная VISA-карта для бизнеса.
-
-Особенности:
-
-- Только немецкий язык.
-
-- Поддержка Google/Apple Pay.
-
-- Бесплатные снятия наличных в банкоматах по всей Германии.
+Notes:
+- Mobile payments via Google/Apple Pay.
+- Video identification to open an account.
+- API access to connect external services.
 
 #### 6. Vivid
 
-Vivid — это ещё один интересный выбор для фрилансеров. Он предлагает высокие кэшбэки и бесплатное обслуживание для базовых пользователей. Подходит для тех, кто хочет использовать множество дополнительных карт и субсчетов.
+Vivid is another option for freelancers, offering high cashback and free basic service. Good if you want many extra cards and sub-accounts.
 
-Функции:
+Features:
+- Up to 25% cashback on selected categories.
+- Free cash withdrawals up to €200/month.
 
-- До 25% кэшбэк на избранные категории покупок.
-
-- Бесплатные снятия наличных до €200 в месяц.
-
-Особенности:
-
+Notes:
 - Google/Apple Pay.
+- Video identification.
 
-- Видео-идентификация.
+#### 3. Qonto
+
+Qonto offers multiple plans and advanced features, including multi-user access. Good for freelancers wanting accounting integration and multi-account control.
+
+Features:
+- Integrates with **Lexoffice**, **Datev**, **SevDesk** for finance automation.
+- Multiple cards and sub-accounts.
+
+Notes:
+- Google/Apple Pay.
+- Video identification.
+- API integration available.
+
+#### 4. Finom
+
+Finom offers flexible invoicing and accounting integrations, attractive for freelancers with many clients.
+
+Features:
+- Receipt management and invoicing tools.
+- Integrates with **Lexoffice** and **SevDesk**.
+
+Notes:
+- Cashback up to 3% on premium plans.
+- Mobile payments via Google Pay/Apple Pay.
+- Video identification and API support.
+
+#### 5. Fyrst
+
+Fyrst is a German digital bank supporting accounting software and free cash withdrawals in German ATMs. Key advantage: convenience and integrations like **Lexoffice** and **SevDesk**.
+
+Features:
+- Integrations: Lexoffice, SevDesk, Sage.
+- Free business VISA card.
+
+Notes:
+- German language only.
+- Google/Apple Pay support.
+- Free ATM withdrawals across Germany.
+
+#### 6. Vivid
+
+Vivid is another option for freelancers, offering high cashback and free basic service. Good if you want many extra cards and sub-accounts.
+
+Features:
+- Up to 25% cashback on selected categories.
+- Free cash withdrawals up to €200/month.
+
+Notes:
+- Google/Apple Pay.
+- Video identification.
 
 - API для интеграции с внешними сервисами.
 
