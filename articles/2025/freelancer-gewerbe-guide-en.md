@@ -1166,7 +1166,7 @@ Accountable — cloud app for freelancers/self-employed in Germany; automates in
 - Auto-fill tax returns.
 - Tax deadline reminders.
 
-Сравнительная таблица Бухгалтерского ПО
+Accounting software comparison table
 
 ![](../assets/freelancer-gewerbe-guide/media/image18.png)
 
@@ -1203,18 +1203,6 @@ Notes:
 - Mobile payments via Google/Apple Pay.
 - Video identification to open an account.
 - API access to connect external services.
-
-#### 6. Vivid
-
-Vivid is another option for freelancers, offering high cashback and free basic service. Good if you want many extra cards and sub-accounts.
-
-Features:
-- Up to 25% cashback on selected categories.
-- Free cash withdrawals up to €200/month.
-
-Notes:
-- Google/Apple Pay.
-- Video identification.
 
 #### 3. Qonto
 
@@ -1395,57 +1383,57 @@ That’s a rate including social charges.
 
 #### Step 6: Account for core freelancer expenses
 
-Чтобы не оказаться в убытке, важно учесть все ваши расходы при расчете ставки. Вот основные категории, которые стоит включить:
+To avoid running at a loss, include all of your expenses when setting a rate. Key categories:
 
-1.  Офисные и рабочие расходы:
+1.  Office and working expenses:
 
-    - Аренда рабочего места или офиса (если вы работаете не из дома)
+    - Workspace or office rent (if you’re not working from home)
 
-    - Покупка оборудования (компьютеры, программное обеспечение)
+    - Equipment purchases (computers, software)
 
-    - Расходы на интернет, телефон, почтовые услуги
+    - Internet, phone, and postage costs
 
-    - Обслуживание техники и программ
+    - Maintenance for hardware and software
 
-2.  Реклама и маркетинг:
+2.  Advertising and marketing:
 
-    - Создание и поддержка сайта
+    - Building and maintaining a website
 
-    - Продвижение в социальных сетях
+    - Promotion on social networks
 
-    - Оплата услуг рекламных платформ
+    - Payment for ad platforms
 
-3.  Транспортные расходы:
+3.  Transport costs:
 
-    - Командировки и поездки на встречи с клиентами
+    - Business trips and client meetings
 
-    - Амортизация и обслуживание автомобиля (если используется для работы)
+    - Car depreciation and maintenance (if used for work)
 
-4.  Обучение и развитие:
+4.  Training and development:
 
-    - Курсы повышения квалификации
+    - Upskilling courses
 
-    - Покупка литературы, участие в конференциях
+    - Books and conferences
 
-5.  Административные расходы:
+5.  Administrative expenses:
 
-    - Бухгалтерские услуги
+    - Accounting services
 
-    - Оплата налоговых консультантов
+    - Tax advisors
 
-    - Затраты на ведение отчетности и бухгалтерии
+    - Bookkeeping and reporting costs
 
-6.  Страхование:
+6.  Insurance:
 
-    - Медицинское страхование (обязательно)
+    - Health insurance (mandatory)
 
-    - Страхование от несчастных случаев
+    - Accident insurance
 
-    - Страхование ответственности перед третьими лицами
+    - Third-party liability insurance
 
-7.  Резервные фонды:
+7.  Reserve funds:
 
-    - Непредвиденные расходы (ремонт оборудования, юридические услуги)
+    - Unexpected costs (equipment repairs, legal services)
 
 #### Step 7: Factor weekends, sick days, holidays
 
@@ -1552,11 +1540,9 @@ Germany has many project platforms. Five popular ones:
 
 2. **Xing Projekte** — within Xing (German LinkedIn), a section for projects/freelancers; good for German-speaking clients.
 
-3. **Gulp.de** —
-    Gulp — это одна из крупнейших платформ для поиска IT-фрилансеров в Германии. Она предлагает проекты как для краткосрочной, так и для долгосрочной работы в таких областях, как разработка программного обеспечения и IT-консалтинг.
+3. **Gulp.de** — one of the largest German platforms for IT freelancers; offers short- and long-term projects in software development and IT consulting.
 
-4.  **Twago.de**  
-    Twago ориентирована на фрилансеров в различных областях, от маркетинга до разработки программного обеспечения. Платформа позволяет напрямую связываться с клиентами и подавать заявки на интересующие проекты.
+4.  **Twago.de** — aimed at freelancers across many fields, from marketing to software development. The platform lets you contact clients directly and apply to relevant projects.
 
 5. **DasAuge.de** — popular with designers/creatives; access to creative projects in Germany.
 
@@ -1580,163 +1566,161 @@ Client acquisition is ongoing and needs strategy, persistence, and the right too
 
 ### Job loss and state support
 
-В Германии существуют программы поддержки для тех, кто хочет начать фриланс, находясь на пособии по безработице, а также для тех, кто уже работает фрилансером, но потерял клиентов и оказался в сложной ситуации.
+Germany offers support programs for those who want to start freelancing while on unemployment benefits, as well as for freelancers who lost clients and face financial difficulties.
 
 #### 1. Start freelancing with unemployment benefit I (ALG I)
 
-Если вы находитесь на пособии по безработице (ALG I) и планируете стать фрилансером, вы можете претендовать на **Gründungszuschuss** (субсидию на открытие бизнеса). Эта субсидия состоит из двух этапов:
+If you receive unemployment benefit I (ALG I) and want to freelance, you can apply for the **Gründungszuschuss** (business start-up subsidy). It has two phases:
 
-- **Этап 1:** В течение первых 6 месяцев вы получаете сумму, равную вашему последнему пособию по безработице, плюс дополнительно €300 в месяц на социальное страхование.
+- **Phase 1:** For the first 6 months you receive the amount of your last unemployment benefit plus €300/month for social insurance.
 
-- **Этап 2:** Если вы продемонстрируете успешное развитие бизнеса, можете получать еще €300 в месяц в течение следующих 9 месяцев​, [<u>IHK_DE</u>](https://www.ihk.de/rhein-neckar/gruendung/finanzierung/foerderprogramme/gruendungszuschuss-947662)
+- **Phase 2:** If you show successful business progress, you can receive another €300/month for the next 9 months​ — see [<u>IHK_DE</u>](https://www.ihk.de/rhein-neckar/gruendung/finanzierung/foerderprogramme/gruendungszuschuss-947662).
 
-**Требования для получения Gründungszuschuss**:
+**Requirements for Gründungszuschuss:**
 
-- **Остаток права на ALG I:** Минимум 150 дней остаточного права на получение пособия.
+- **Remaining ALG I entitlement:** At least 150 days of ALG I eligibility remaining.
 
-- **Бизнес-план:** Необходимо представить подробный бизнес-план, включающий финансовые прогнозы и описание концепции, который должен быть утвержден экспертным органом, например, IHK (Торгово-промышленная палата)​
+- **Business plan:** Provide a detailed plan with financial projections and concept, approved by an expert body such as the IHK.
 
-- **Подтверждение жизнеспособности:** Вы должны убедить агентство по труду в своей компетентности и жизнеспособности бизнес-идеи.
+- **Proof of viability:** Demonstrate to the employment agency that you are competent and the idea is viable.
 
-**Дополнительные расходы**:
+**Additional costs:**
 
-- **Сбор IHK:** Например, в IHK Berlin сбор за оценку бизнес-плана составляет €50 плюс НДС​
+- **IHK fee:** For example, IHK Berlin charges €50 + VAT to assess the business plan.
 
-- **Изначальные инвестиции:** Необходимо представить план капитальных затрат, финансирования и подробное описание личных расходов​
+- **Initial investments:** Submit a capital expenditure plan, financing plan, and breakdown of personal expenses.
 
 #### 2. Move to unemployment benefit II (ALG II)
 
-Если вы были фрилансером и потеряли клиентов, что привело к финансовым трудностям, вы можете обратиться за **Arbeitslosengeld II (ALG II)**, также известным как Hartz IV. Это базовая социальная поддержка, которая обеспечивает минимальный доход для покрытия необходимых расходов.
+If you were freelancing and lost clients, creating financial hardship, you can apply for **Arbeitslosengeld II (ALG II)**, also called Hartz IV. It provides a basic income to cover essential expenses.
 
-**Einstiegsgeld для фрилансеров на ALG II**:
+**Einstiegsgeld for freelancers on ALG II:**
 
-- **Einstiegsgeld:** Если вы хотите вновь стать фрилансером, находясь на ALG II, вы можете подать заявку на получение этой субсидии. Она предназначена для стимулирования перехода к самостоятельной деятельности и предоставляется на определенный период. Размер субсидии определяется вашим менеджером в Jobcenter на основе вашей ситуации​ , ссылка [<u>IHK_DE</u>](https://www.ihk.de/niederbayern/beratung-service/existenzgruendung/gruendungszuschuss-und-einstiegsgeld-3608770)
+- **Einstiegsgeld:** If you want to return to freelancing while on ALG II, you can apply for this subsidy. It encourages self-employment and is granted for a set period. The amount is set by your Jobcenter advisor based on your situation — see [<u>IHK_DE</u>](https://www.ihk.de/niederbayern/beratung-service/existenzgruendung/gruendungszuschuss-und-einstiegsgeld-3608770).
 
-- **Бизнес-жизнеспособность:** Как и в случае с Gründungszuschuss, вам нужно доказать жизнеспособность вашей идеи и способность вести бизнес.
+- **Business viability:** As with the Gründungszuschuss, you must prove the idea is viable and you can run the business.
 
 #### Voluntary unemployment insurance for freelancers
 
-Фрилансеры могут застраховаться от безработицы через **Freiwillige Arbeitslosenversicherung**. Для оформления страхования нужно подать заявление в течение 3 месяцев после начала деятельности. Взносы фиксированы и не зависят от вашего дохода. Страхование предоставляет право на получение пособия по безработице, если выполняются определенные условия:
+Freelancers can insure against unemployment via **Freiwillige Arbeitslosenversicherung**. You must apply within 3 months of starting self-employment. Contributions are fixed and not income-based. The insurance entitles you to unemployment benefits if conditions are met:
 
-- **Критерии:** Деятельность должна осуществляться не менее 15 часов в неделю.
+- **Criteria:** The activity must be at least 15 hours per week.
 
-- **Права:** При наступлении безработицы фрилансеры, участвующие в страховании, имеют право на получение Arbeitslosengeld​(
+- **Rights:** If unemployment occurs, insured freelancers can receive Arbeitslosengeld.
 
-**Основные аспекты добровольного страхования**:
+**Key aspects of voluntary insurance:**
 
-- **Сроки:** Подать заявку нужно в течение 3 месяцев с начала самостоятельной работы.
+- **Deadlines:** Apply within 3 months of starting self-employment.
 
-- **Взносы:** Взносы фиксированы, но для новых предпринимателей или родителей в декрете они могут быть снижены на 50%.
+- **Contributions:** Fixed contributions; for new entrepreneurs or parents on parental leave, they can be reduced by 50%.
 
-- **Пособие:** Размер пособия зависит от предыдущего дохода. Необходимо подтвердить, что в течение двух лет перед безработицей вы были социально застрахованы как минимум 150 дней ​
+- **Benefit amount:** Depends on previous income. You must show that in the two years before unemployment you were socially insured for at least 150 days.
 
 #### How to apply?
 
-- **Gründungszuschuss:** Подать заявление и получить подробные инструкции можно в местном агентстве по труду или на сайте [Bundesagentur für Arbeit](https://www.arbeitsagentur.de/freiwillige-arbeitslosenversicherung)​
+- **Gründungszuschuss:** Apply and get instructions at your local employment agency or on the [Bundesagentur für Arbeit](https://www.arbeitsagentur.de/freiwillige-arbeitslosenversicherung) site.
 
-- **Freiwillige Arbeitslosenversicherung:** Заявление можно подать онлайн через портал [Arbeitsagentur](https://www.arbeitsagentur.de/freiwillige-arbeitslosenversicherung).
+- **Freiwillige Arbeitslosenversicherung:** Apply online via the [Arbeitsagentur](https://www.arbeitsagentur.de/freiwillige-arbeitslosenversicherung) portal.
 
-Таким образом, Германия предоставляет несколько возможностей для поддержки фрилансеров в переходный период, будь то старт нового бизнеса или преодоление временных финансовых трудностей.
+Germany provides several options to support freelancers in transition—whether starting a new business or overcoming temporary financial difficulties.
 
 ### Types of contracts for freelancers
 
-При заключении договора между заказчиком и фрилансером важно правильно выбрать его вид в зависимости от характера проекта, целей и ожиданий обеих сторон. Договор является основным документом, который фиксирует условия сотрудничества и регулирует права и обязанности сторон. Рассмотрим основные виды договоров для фрилансеров:
+When signing a contract between client and freelancer, choose the right type based on project nature, goals, and expectations. A contract is the core document that sets cooperation terms and defines rights and duties. Here are the main contract types for freelancers:
 
 #### 1. Service contract (Dienstvertrag)
 
-**Dienstvertrag**, или договор оказания услуг, обязывает фрилансера предоставлять услуги без гарантии конкретного результата. Основное внимание в данном случае уделяется **предоставлению самой услуги**, а не конечному результату, как это делается в случае с **Werkvertrag**. Клиент платит фрилансеру за работу, выполненную в рамках согласованных условий, даже если эта работа не приносит желаемого результата.
+A **Dienstvertrag** obligates the freelancer to deliver services without guaranteeing a specific result. The focus is on **providing the service itself**, not on a defined outcome as in a **Werkvertrag**. The client pays for work performed under the agreed conditions even if it does not yield the desired result.
 
 ##### Features of a Dienstvertrag
 
-- Фрилансер **не несет ответственности за конечный результат** работы, а лишь за выполнение своих обязанностей в рамках договора.
+- The freelancer **is not liable for the final result**, only for fulfilling duties under the agreement.
 
-- Работа должна быть выполнена в **соответствии с инструкциями клиента**, без существенных недостатков, чтобы обязательства со стороны фрилансера считались выполненными.
+- Work must be done **according to the client’s instructions**, without significant defects, for obligations to be considered fulfilled.
 
-- Фрилансер получает **определенное вознаграждение** за выполненную работу, которое не зависит от конечного успеха проекта.
+- The freelancer receives **agreed compensation** for the work performed, regardless of project success.
 
 ##### Example uses of a Dienstvertrag
 
-- **IT-услуги**: поддержка и обслуживание IT-инфраструктуры компании, где фрилансер отвечает за текущее управление системами, но не за их окончательный успех.
+- **IT services:** support and maintenance of company IT infrastructure where the freelancer manages systems but is not responsible for ultimate success.
 
-- **Онлайн-маркетинг**: постоянная поддержка маркетинговых кампаний компании, где ключевым является процесс оказания услуг, а не конечный результат.
+- **Online marketing:** ongoing support of marketing campaigns where the process matters more than a guaranteed result.
 
-- **Консультационные услуги**: консультирование клиентов по различным вопросам, где основное внимание уделяется предоставлению знаний и рекомендаций, а не конечному результату.
+- **Consulting services:** advising clients on various issues where the emphasis is on delivering expertise and recommendations, not a fixed outcome.
 
 ##### Advantages of a Dienstvertrag
 
-- Гибкость: договор позволяет клиенту получать услуги на постоянной основе без привязки к конкретным результатам.
+- Flexibility: the client can receive services on an ongoing basis without tying payment to specific results.
 
-- Защита: фрилансер защищен от претензий, связанных с конечными результатами проекта, при условии, что работа выполнена надлежащим образом.
+- Protection: the freelancer is shielded from claims tied to final outcomes as long as the work is performed properly.
 
-- Таким образом, Dienstvertrag является оптимальным выбором для проектов, где важна не конечная цель, а **процесс оказания услуги**, и обе стороны получают четкие условия сотрудничества.
+- For projects where the **service process** matters more than the end goal, a Dienstvertrag sets clear cooperation terms for both sides.
 
 #### 2. Work contract (Werkvertrag)
 
-В отличие от договора оказания услуг, договор подряда предполагает обязательство достичь конкретного результата. Основное внимание уделяется успешному завершению проекта. Оплата производится за конечный продукт или услугу, а не за процесс работы.
+Unlike a service contract, a Werkvertrag obligates delivery of a specific result. The focus is on successful project completion. Payment is made for the finished product or service, not for the process.
 
-**Пример**: Графический дизайнер по договору подряда обязуется не только разработать макет веб-сайта, но и представить готовый, работающий сайт в соответствии с требованиями заказчика.
+**Example:** A graphic designer under a Werkvertrag must not only design a website mock-up but also deliver a working site that meets the client’s requirements.
 
 #### 3. Fee contract (Honorarvertrag)
 
-Этот договор используется для установления условий оплаты за определенные услуги, предоставленные фрилансером. В договоре прописываются объем работы, сроки выполнения, сумма гонорара и условия оплаты.
+This contract sets payment terms for defined services provided by the freelancer. It specifies scope, deadlines, fee amount, and payment terms.
 
-**Пример**: Если графический дизайнер заключает гонорарный договор на создание логотипа, в нем будет указан дизайн, сроки его предоставления, сумма гонорара и порядок оплаты.
+**Example:** A graphic designer signs a fee contract to create a logo; the agreement states the design, delivery timelines, fee amount, and payment schedule.
 
 #### 4. Consulting contract (Beratervertrag)
 
-Этот договор подходит для фрилансеров, предоставляющих консультационные услуги. Он регулирует консультационные услуги, их объем, стоимость и условия сотрудничества.
+Suitable for freelancers offering consulting. It governs the consulting scope, price, and cooperation terms.
 
-**Пример**: Если компания нуждается в консультациях по редизайну своего бренда, они заключают консультационный договор с дизайнером, в котором указываются цели консультации, время проведения встреч и размер гонорара.
+**Example:** A company needs advice on a brand redesign; they sign a consulting contract with a designer outlining consultation goals, meeting times, and fee.
 
 #### 5. NDA (Geheimhaltungsvereinbarung)
 
-NDA защищает конфиденциальную информацию, которая передается между заказчиком и фрилансером. Этот договор является важным, когда проект требует защиты интеллектуальной собственности, идей или коммерческой тайны.
+An NDA protects confidential information shared between client and freelancer. It’s key when protecting IP, ideas, or trade secrets.
 
-**Пример**: Если графический дизайнер обсуждает с клиентом новый продукт, NDA защищает идеи дизайнера от использования или раскрытия без его разрешения.
+**Example:** A graphic designer discussing a new product with a client uses an NDA to prevent the ideas from being used or disclosed without permission.
 
 #### 6. Contract termination (Kündigung)
 
-Расторжение договора может происходить по инициативе одной из сторон. Для этого требуется официальное уведомление другой стороны с соблюдением оговоренных сроков и условий расторжения.
+Termination can be initiated by either party. It requires formal notice to the other side under the timelines and terms in the agreement.
 
-**Пример**: Графический дизайнер может расторгнуть договор, если проект оказался неосуществимым, но при этом должны соблюдаться все предусмотренные договором сроки уведомления.
+**Example:** A graphic designer may terminate if a project proves unworkable, but must respect notice periods set in the contract.
 
 #### 7. Digital employment contracts: what to know (2025 update)
 
-Закон о снижении бюрократии (Bürokratieentlastungsgesetz) позволяет использовать **цифровые трудовые договоры**, что значительно упрощает процесс оформления документов. Работодатели могут предоставлять информацию о ключевых условиях договора через **электронную почту** или специальные сервисы для электронных подписей, такие как DocuSign. В большинстве случаев соблюдение письменной формы и наличие квалифицированной электронной подписи не требуется. Вместо этого допустима **текстовая форма**, которая включает указание имени заявителя и не требует личной подписи. Такой подход экономит бумагу и упрощает управление документами.
+The Bureaucracy Reduction Act (Bürokratieentlastungsgesetz) allows **digital employment contracts**, simplifying paperwork. Employers can provide key contract terms via **email** or e-signature services such as DocuSign. In most cases, strict written form and a qualified electronic signature are not required. **Text form**—including the applicant’s name without a handwritten signature—is sufficient, saving paper and easing document management.
 
 ##### Impressum and Datenschutzerklärung for a freelancer website
 
-Если у вас есть профессиональный веб-сайт, по немецкому законодательству (§ 5 TMG) вы обязаны иметь Impressum с вашими полными контактными данными, адресом, налоговым номером/USt-IdNr. Также необходима Datenschutzerklärung, соответствующая DSGVO, где вы информируете посетителей о сборе и обработке их персональных данных (контактные формы, cookies, аналитика). Используйте проверенные генераторы или проконсультируйтесь с юристом для создания этих документов.
+If you have a professional website, German law (§ 5 TMG) requires an Impressum with full contact data, address, and tax number/USt-IdNr. You also need a DSGVO-compliant Datenschutzerklärung explaining collection/processing of personal data (contact forms, cookies, analytics). Use reliable generators or consult a lawyer to create these documents.
 
 ##### What requirements apply?
 
-Для цифровых трудовых договоров необходимо выполнение следующих условий:
+1.  **Contract accessibility:** the employee must be able to open, save, and print the document.
 
-1.  **Доступность договора**: сотрудник должен иметь возможность открыть, сохранить и распечатать документ.
-
-2.  **Подтверждение получения**: работодатель должен запросить у сотрудника подтверждение получения документа.
+2.  **Receipt confirmation:** the employer should request confirmation that the document was received.
 
 ##### Exceptions to the text-form rule
 
-Есть ситуации, когда текстовая форма недопустима. К ним относятся:
+Some situations do not allow text form:
 
-- Договоры в отраслях с повышенным риском нелегальной работы.
+- Contracts in industries with high risk of illegal employment.
 
-- Большинство срочных трудовых договоров (befristete Arbeitsverträge).
+- Most fixed-term employment contracts (befristete Arbeitsverträge).
 
-В таких случаях требуется соблюдение письменной формы, включая **личную подпись** на бумажном носителе.
+In these cases, written form with a **handwritten signature** on paper is required.
 
-Цифровые трудовые договоры являются важным шагом на пути к цифровизации и упрощению документооборота, но не подходят для всех случаев, поэтому работодатели должны учитывать исключения и специфику отрасли.
+Digital contracts are an important step toward digitization and simplifying documentation, but they do not fit every case—employers must consider industry specifics and exceptions.
 
 #### How to choose the right contract?
 
-Выбор подходящего типа договора зависит от того, каковы цели проекта, объем работы и ожидания обеих сторон. Например, если основное требование — это предоставление услуги без гарантии результата, лучше всего подойдет договор оказания услуг. В то время как для проектов, где важно получение конкретного результата, оптимальным будет договор подряда.
+Pick the contract type based on project goals, scope, and expectations. If the priority is delivering a service without guaranteeing a result, choose a service contract. If achieving a concrete result matters, a work contract is the better fit.
 
-Смешанные формы договоров, такие как совмещение договоров оказания услуг и подряда, также возможны, если требования четко определены. Такой подход может быть выгоден как для фрилансера, так и для заказчика.
+Hybrid forms (mixing Dienstvertrag and Werkvertrag elements) are possible when requirements are clearly defined. This can benefit both freelancer and client.
 
-Правильный выбор договора играет ключевую роль в успешном завершении проекта и обеспечивает прозрачность отношений между фрилансером и заказчиком.
+The right contract choice is key to successful project completion and transparent cooperation.
 
-Шаблоны договоров:
+Contract templates:
 
 [<u>https://www.freelancermap.de/blog/freelancer-vertrag-abschliessen/#:~:text=Auch%20die%20jeweiligen%20Rechte%20und,%2D%2C%20Honorar%2D%20oder%20Beratervertr%C3%A4ge</u>](https://www.freelancermap.de/blog/freelancer-vertrag-abschliessen/#:~:text=Auch%20die%20jeweiligen%20Rechte%20und,%2D%2C%20Honorar%2D%20oder%20Beratervertr%C3%A4ge).
 
@@ -1746,334 +1730,334 @@ NDA защищает конфиденциальную информацию, ко
 
 ### Contract termination and sample letter
 
-Расторжение контракта для фрилансера — процесс, требующий особого внимания к ряду аспектов. Когда приходит время завершить сотрудничество с заказчиком, важно правильно оформить "Kündigung" (расторжение), соблюдая все требования контракта и закона. Рассмотрим, как фрилансеру грамотно подойти к вопросу расторжения договора.
+Ending a contract as a freelancer requires careful attention. When it’s time to finish cooperation with a client, you must prepare the "Kündigung" (termination) correctly, following contract terms and the law. Here’s how to handle termination properly.
 
 #### Key points when terminating a contract
 
-**Письменная форма**  
-"Kündigung" должна быть оформлена в письменной форме ("schriftlich") и на бумаге для юридической защиты. Даже если законом не предусмотрена обязательная письменная форма, для фрилансеров важно настаивать на этом условии в своих договорах. Устные или электронные уведомления (например, по электронной почте) могут вызвать сложности с подтверждением факта расторжения, даты и причины.
+**Written form**  
+A Kündigung should be in writing ("schriftlich") and on paper for legal protection. Even if written form is not legally mandatory, freelancers should insist on it. Oral or purely electronic notices (e.g., email) can make it hard to prove the fact, date, and reason for termination.
 
-1.  **Подтверждение от заказчика**  
-    Получение письменного подтверждения ("Bestätigung") от заказчика желательно, хотя по закону он не обязан этого делать. Это может стать дополнительной гарантией.
+1.  **Confirmation from the client**  
+    Written confirmation ("Bestätigung") from the client is advisable, though not legally required. It adds another layer of assurance.
 
-2.  **Формулировка в документе**  
-    В письме не обязательно использовать слово "Kündigung", однако из текста должно ясно следовать, что целью является завершение деловых отношений, и что фрилансер больше не будет предоставлять услуги.
+2.  **Wording in the letter**  
+    The letter does not have to use the word "Kündigung", but it must clearly state the aim is to end the business relationship and that the freelancer will no longer provide services.
 
-3.  **Причина расторжения**  
-    Указание причины ("Kündigungsgrund") требуется только в случае внеочередного расторжения ("außerordentliche Kündigung") по важной причине. Для обычного ("ordentliche Kündigung") расторжения контракта объяснение причин не является обязательным.
+3.  **Reason for termination**  
+    A reason ("Kündigungsgrund") is required only for extraordinary termination ("außerordentliche Kündigung") for good cause. For ordinary termination ("ordentliche Kündigung"), explaining reasons is optional.
 
-4.  **Отзыв расторжения**  
-    Отмена "Kündigung" невозможна, так как это одностороннее заявление, требующее согласия только получающей стороны. Если обе стороны хотят продолжить сотрудничество, потребуется заключение нового контракта.
+4.  **Withdrawal of termination**  
+    A Kündigung cannot be withdrawn unilaterally because it’s a one-sided declaration. If both parties want to keep working together, they must sign a new contract.
 
 #### What is a termination letter?
 
-Письмо о расторжении ("Kündigungsschreiben") — это документ, прекращающий контракт в одностороннем порядке. Оно означает, что одна из сторон уведомляет другую о завершении сотрудничества, не требуя согласия. В случаях, когда стороны приходят к соглашению, они могут подписать "Aufhebungsvertrag" (соглашение о расторжении).
+A termination letter ("Kündigungsschreiben") is a document that ends a contract unilaterally. One party notifies the other that cooperation will end without needing consent. If both parties agree to end the contract, they can sign an "Aufhebungsvertrag" (termination agreement).
 
 #### Termination terms
 
-Как правило, фрилансеры заключают "Dienstvertrag" (договор на оказание услуг) или "Werkvertrag" (договор подряда), в которых четко прописаны условия и сроки расторжения. Важно внимательно изучить контракт перед его подписанием, чтобы убедиться, что все пункты и сроки приемлемы.
+Freelancers usually sign a "Dienstvertrag" (services) or "Werkvertrag" (work contract), which specify termination conditions and timelines. Review the contract before signing to ensure the clauses and deadlines are acceptable.
 
 #### Types of termination and timelines
 
-1.  **Обычное расторжение ("ordentliche Kündigung")**  
-    Обычное расторжение позволяет прекратить контракт в заранее согласованные сроки. Если в договоре нет специальных условий о сроках, то применяются нормы § 620 и § 621 Гражданского кодекса Германии (BGB).
+1.  **Ordinary termination ("ordentliche Kündigung")**  
+    Allows ending the contract within the agreed notice period. If no special terms are defined, the rules of § 620 and § 621 of the German Civil Code (BGB) apply.
 
-2.  **Досрочное расторжение по важной причине ("außerordentliche Kündigung")**  
-    Если одна из сторон нарушает обязательства или возникают другие важные причины, одна из сторон может разорвать контракт немедленно. Например, невыполнение обязательств заказчиком или серьезное нарушение условий контракта могут стать основанием для досрочного расторжения.
+2.  **Extraordinary termination for important reason ("außerordentliche Kündigung")**  
+    If one party breaches obligations or other serious reasons arise, either party may terminate immediately. Examples include client non-performance or severe contract violations.
 
 #### Example reasons for termination
 
-1.  **Задержка платежей**  
-    Если заказчик не выплачивает вознаграждение вовремя, это может стать причиной для досрочного расторжения. Предварительно фрилансер должен направить письменное предупреждение ("Mahnung") с указанием срока для устранения нарушения.
+1.  **Late payments**  
+    If the client fails to pay on time, it can justify early termination. The freelancer should first send a written warning ("Mahnung") with a deadline to cure.
 
-2.  **Нарушение условий контракта**  
-    Любое серьезное нарушение условий контракта, например, нарушение обязательств по конфиденциальности ("Geheimhaltungsvereinbarung"), также может служить основанием для расторжения.
+2.  **Contract breaches**  
+    Any serious breach, such as violating confidentiality obligations ("Geheimhaltungsvereinbarung"), can also justify termination.
 
-3.  **Преступления**  
-    Подозрения в совершении преступления ("Straftat") со стороны одной из сторон могут послужить причиной для немедленного прекращения контракта.
+3.  **Criminal acts**  
+    Suspected criminal activity ("Straftat") by either party can be grounds for immediate termination.
 
 #### 9. Conclusion
 
-Каждое расторжение контракта уникально, и важно внимательно изучить условия договора перед подписанием. Если возникают сомнения, фрилансеру лучше обратиться за консультацией к юристу, чтобы защитить свои права и избежать возможных финансовых последствий.
+Each contract termination is unique. Study your contract terms before signing. If you are unsure, consult a lawyer to protect your rights and avoid potential financial consequences.
 
 ### False self-employment (Scheinselbständigkeit)
 
 #### How to avoid false self-employment in Germany (2024 rules)
 
-**Фиктивная самозанятость** — это вопрос, вызывающий тревогу у фрилансеров и их заказчиков в Германии. Закон о борьбе с фиктивной самозанятостью призван защитить работников и предотвратить ситуации, когда фрилансеры де-факто работают как наемные сотрудники, но без соответствующих социальных гарантий. Важно разобраться, как отличить настоящую самозанятость от фиктивной и что нужно сделать, чтобы избежать проблем.
+**False self-employment** worries freelancers and clients in Germany. Laws against it protect workers and prevent situations where freelancers effectively work like employees without social protections. It’s vital to distinguish genuine self-employment from false self-employment and know how to avoid problems.
 
 #### What is false self-employment (Scheinselbstständigkeit)?
 
-Фиктивная самозанятость — это ситуация, когда человек оформлен как самозанятый (Freiberufler), однако в реальности работает в условиях, схожих с наемными сотрудниками, например, имея фиксированные рабочие часы, отпуск и выполняя задачи по указанию работодателя. В таких случаях он подпадает под обязательства, предусмотренные для наемных работников, включая социальные отчисления.
+False self-employment occurs when someone is registered as self-employed (Freiberufler) but in reality works like an employee—fixed hours, vacation, tasks directed by the employer. In such cases, employee obligations and social contributions apply.
 
 #### How to recognize false self-employment?
 
-Признаки фиктивной самозанятости могут включать:
+Signs of Scheinselbstständigkeit can include:
 
-- **Фиксированное рабочее время** (festgelegte Arbeitszeiten)
+- **Fixed working hours** (festgelegte Arbeitszeiten)
 
-- **Право на отпуск** (Urlaubsanspruch)
+- **Vacation entitlement** (Urlaubsanspruch)
 
-- Интеграция в процессы компании (feste Prozessintegration)
+- Integration into company processes (feste Prozessintegration)
 
-- **Обязанность отчитываться** (Pflichten zum Reporting)
+- **Reporting obligations** (Pflichten zum Reporting)
 
-- Работа по указанию заказчика (Tätigkeit nach Weisung)
+- Work carried out under the client’s direction (Tätigkeit nach Weisung)
 
-Другие факторы, которые могут указывать на фиктивную самозанятость:
+Other possible indicators:
 
-- Более 80% дохода поступает от одного заказчика
+- More than 80% of income comes from one client
 
-- Отсутствие личного сайта или других признаков ведения бизнеса
+- No personal website or other signs of running a business
 
-- Участие в обучающих мероприятиях, организованных заказчиком
+- Participation in training events organized by the client
 
-- Доход сопоставим с зарплатой наемного сотрудника или ниже
+- Income comparable to or lower than an employee salary
 
 #### Criteria of self-employment (Selbstständigkeit)
 
-Федеральные суды Германии определили несколько критериев, которые помогают определить настоящую самозанятость:
+German federal courts list criteria that support genuine self-employment:
 
-- Работа выполняется от собственного имени и на собственный счет (im eigenen Namen und auf eigene Rechnung).
+- Work is done in one’s own name and at one’s own commercial risk (im eigenen Namen und auf eigene Rechnung).
 
-- Самостоятельное ценообразование и заключение контрактов (Eigenständige Preiskalkulation).
+- Independent pricing and contract negotiation (Eigenständige Preiskalkulation).
 
-- Свободное планирование рабочего времени и отсутствие отпуска (Freie Gestaltung von Arbeitszeit und Arbeitsorganisation).
+- Free scheduling and no paid vacation (Freie Gestaltung von Arbeitszeit und Arbeitsorganisation).
 
-Чем больше этих критериев соответствует деятельности фрилансера, тем выше вероятность, что он считается настоящим самозанятым.
+The more of these criteria apply, the more likely the freelancer is truly self-employed.
 
 #### Who is at risk of Scheinselbständigkeit?
 
-К фиктивной самозанятости могут быть причастны фрилансеры, работающие в следующих областях:
+Freelancers in these areas are often scrutinized:
 
-- IT-консультанты (IT-Berater)
+- IT consultants (IT-Berater)
 
-- Программисты (Programmierer)
+- Programmers (Programmierer)
 
-- Графические дизайнеры (Grafiker)
+- Graphic designers (Grafiker)
 
 #### Who checks for Scheinselbständigkeit?
 
-Основной проверяющий орган — Немецкое пенсионное страхование (Deutsche Rentenversicherung), которое может инициировать так называемое **Statusfeststellungsverfahren** — процедуру определения статуса занятости.
+The main authority is the German Pension Insurance (Deutsche Rentenversicherung), which can start a **Statusfeststellungsverfahren**—a procedure to determine the employment status.
 
 #### How to avoid accusations of false self-employment?
 
-Фрилансеры могут снизить риск обвинений с помощью тщательно составленных контрактов и четкого разграничения обязанностей. Существует несколько типов контрактов, таких как **Werkvertrag** (договор подряда), которые могут помочь структурировать сотрудничество правильно.
+Freelancers can reduce risk through solid contracts and clear separation of responsibilities. Contract types such as a **Werkvertrag** (work contract) can help structure cooperation correctly.
 
 #### Consequences of Scheinselbständigkeit
 
-Если фиктивная самозанятость будет установлена, последствия могут быть серьезными как для фрилансера, так и для заказчика. Например, заказчик обязан будет выплатить социальные взносы (со всеми пенями и штрафами) за последние четыре года, а в случае умышленного нарушения — за 30 лет.
+If false self-employment is found, consequences can be severe for both freelancer and client. For example, the client may owe social contributions (plus penalties and interest) for the last four years—or up to 30 years in cases of intent.
 
 #### Recommendations to avoid Scheinselbständigkeit:
 
 ##### 1. Use solid contracts
 
-Один из самых важных шагов для фрилансера — это наличие правильно составленных и юридически проверенных контрактов. Существуют несколько типов договоров, которые могут помочь структурировать отношения с заказчиком:
+One of the most important steps is to have well-drafted, legally reviewed contracts. Several contract types can structure the relationship correctly:
 
-- **Договор подряда (Werkvertrag)** — подразумевает выполнение конкретной работы с оплатой по завершению и приемке результата.
+- **Work contract (Werkvertrag)** — payment after delivering a concrete result and acceptance.
 
-- **Договор на оказание услуг (Dienstvertrag)** — предполагает выполнение работы на регулярной основе, но фрилансер не является сотрудником компании.
+- **Service contract (Dienstvertrag)** — ongoing services, but the freelancer is not a company employee.
 
-Важно, чтобы контракт четко отражал, что фрилансер несет предпринимательские риски и работает независимо.
+Contracts should clearly show the freelancer bears entrepreneurial risk and works independently.
 
 ##### 2. Work with multiple clients
 
-Один из ключевых признаков фиктивной самозанятости — это получение более 80% дохода от одного заказчика. Чтобы избежать этого, рекомендуется работать с несколькими клиентами, даже если основной проект занимает большую часть времени. Это свидетельствует о независимой предпринимательской деятельности.
+A key indicator of false self-employment is earning more than 80% of income from one client. Mitigate this by keeping multiple clients, even if one project dominates your time—it signals independent business activity.
 
 ##### 3. Show external business presence
 
-Фрилансер должен активно вести себя как независимый предприниматель, что может включать:
+Act like an independent business:
 
-- Создание собственного сайта или портфолио (Webseite),
+- Create your own website or portfolio.
 
-- Наличие визитных карточек (Visitenkarten),
+- Have business cards.
 
-- Активная реклама своих услуг,
+- Actively market your services.
 
-- Собственная клиентская база.
+- Build your own client base.
 
-Всё это показывает, что фрилансер ведет независимую предпринимательскую деятельность.
+These show that you operate as an entrepreneur.
 
 ##### 4. Keep freedom of time and place
 
-Фрилансер должен иметь возможность самостоятельно определять свои рабочие часы и место выполнения работы. Если в договоре или на практике указаны фиксированные рабочие часы или место работы, это может вызвать подозрения. Например, работа в офисе заказчика может указывать на интеграцию в компанию.
+You should set your own working hours and location. If the contract or practice imposes fixed hours or a set workplace, it can raise suspicion. For instance, working mainly in the client’s office may signal integration into the company.
 
 ##### 5. Use your own equipment
 
-Настоящие фрилансеры работают с использованием собственных инструментов и оборудования (компьютеры, программное обеспечение и т. д.). Если заказчик предоставляет рабочие средства, такие как ноутбук, доступ к программам или материалы, это может указывать на зависимость.
+Real freelancers use their own tools and equipment (computers, software, etc.). If the client supplies laptops, software access, or materials, it may indicate dependence.
 
 ##### 6. No employee-style leave or sick pay
 
-Фрилансеры не должны иметь право на оплачиваемый отпуск или больничные. Такие права характерны для наемных работников, и их наличие может указывать на фиктивную самозанятость. Для настоящих фрилансеров перерывы в работе должны быть неоплачиваемыми и планироваться самостоятельно.
+Freelancers should not receive paid vacation or sick leave. Those are employee benefits and may point to false self-employment. Breaks should be unpaid and self-planned.
 
 ##### 7. Long-term contracts with clear scope
 
-Если фрилансер работает с заказчиком на длительной основе, лучше оформлять долгосрочные контракты, в которых четко прописаны объемы работы и условия ее выполнения. При этом важно, чтобы работа была проектной и оценивалась по результатам, а не по времени, проведенному за задачами.
+For long engagements, use contracts with clearly defined scope and conditions. Ensure the work is project-based and evaluated by results, not time spent.
 
 ##### 8. Use subcontractors
 
-Признаком самозанятости может также быть возможность привлекать других специалистов или субподрядчиков для выполнения части работы. Это показывает, что фрилансер действует как предприниматель, а не как сотрудник компании.
+Being able to involve other specialists or subcontractors signals entrepreneurial status rather than employee status.
 
 ##### 9. Use risk insurance
 
-Фрилансеры часто страхуют себя от профессиональных рисков (например, ошибки в работе), что также подчеркивает их предпринимательский статус. Наличие страховки помогает избежать обвинений в фиктивной самозанятости.
+Freelancers often insure against professional risks (e.g., errors and omissions), reinforcing their entrepreneurial role. Insurance also helps defend against false self-employment claims.
 
 ##### 10. Run a status determination (Statusfeststellungsverfahren)
 
-Если есть сомнения в статусе фрилансера, можно обратиться к Немецкому пенсионному фонду (Deutsche Rentenversicherung) для проведения процедуры проверки статуса (Statusfeststellungsverfahren). Это позволяет фрилансерам и их клиентам заранее убедиться в правильности статуса.
+If there is doubt about status, ask Deutsche Rentenversicherung to run a Statusfeststellungsverfahren. It lets freelancers and clients confirm the correct status in advance.
 
 ##### 11. Skip corporate training programs
 
-Если фрилансер участвует в тренингах и курсах, которые организует заказчик, это может указывать на тесную интеграцию в его деятельность. Чтобы избежать обвинений в фиктивной самозанятости, лучше отказаться от таких мероприятий или же посещать их на общих условиях как приглашенный специалист.
+Participating in trainings and courses organized by the client can imply close integration. To avoid accusations, decline such programs or attend only as an external guest.
 
 #### Additional measures:
 
-- **Письменное подтверждение независимости**. В контракте можно прописать условия, подтверждающие независимость фрилансера, например, что он работает по собственному графику, а также несет ответственность за конечный результат.
+- **Written confirmation of independence.** Contracts can state that the freelancer works on their own schedule and bears responsibility for results.
 
-- **Регулярная отчетность**. Отчеты должны быть связаны с выполнением конкретных задач или этапов проекта, а не с количеством отработанных часов.
+- **Regular reporting.** Reports should tie to tasks or project milestones, not hours worked.
 
-Следование этим рекомендациям помогает фрилансерам в Германии минимизировать риски и избегать ситуаций, в которых их деятельность может быть признана фиктивной самозанятостью.
+Following these recommendations helps freelancers in Germany minimize risk and avoid being classified as falsely self-employed.
 
 #### 9. Conclusion
 
-Понимание различий между настоящей и фиктивной самозанятостью крайне важно для фрилансеров в Германии. Следование правилам, четкое оформление контрактов и соблюдение критериев самозанятости помогут избежать неприятных последствий.
+Understanding the line between genuine and false self-employment is critical for freelancers in Germany. Clear contracts and adherence to self-employment criteria help avoid negative consequences.
 
 ## 8. Side gig as self-employed
 
-В Германии подработка в качестве самозанятого или фрилансера становится популярным вариантом для тех, кто хочет получить дополнительный доход. В отличие от классической трудовой занятости, самозанятость позволяет человеку работать на себя, но требует учета юридических и налоговых аспектов. В этой статье рассмотрим, как стать самозанятым в Германии, какие шаги необходимо предпринять, а также какие налоги и ограничения следует учитывать в случае подработки.
+In Germany, taking on a side gig as self-employed or as a freelancer is a popular way to earn extra income. Unlike traditional employment, self-employment lets you work for yourself but requires attention to legal and tax obligations. Here’s how to set up a side gig, required steps, and the taxes/limitations to consider.
 
 #### 1. What is a self-employed side gig?
 
-Подработка как самозанятый (Nebentätigkeit als Freiberufler) — это деятельность, которую вы выполняете на основе контрактов с клиентами, а не в рамках трудового договора с работодателем. При этом вы полностью отвечаете за организацию своей работы, привлечение клиентов, оплату налогов и страховых взносов.
+A self-employed side gig (Nebentätigkeit als Freiberufler) is work you perform under contracts with clients rather than an employment contract. You are fully responsible for organizing work, finding clients, and paying taxes/insurance contributions.
 
 #### 2. Is freelancing as a side gig right for you?
 
-Прежде чем начать фриланс, важно оценить свои возможности и совместимость этой деятельности с вашим основным видом занятости. Фриланс как подработка подходит тем, кто:
+Before starting, assess whether freelancing fits alongside your main job. A side gig suits those who:
 
-- Имеет время и желание дополнительно работать вне основного рабочего времени.
+- Have the time and desire to work outside main job hours.
 
-- Способен управлять своим временем и эффективно организовывать задачи.
+- Can manage time and organize tasks effectively.
 
-- Желает развивать дополнительные навыки или заниматься интересными проектами.
+- Want to build extra skills or do interesting projects.
 
-Фриланс может быть как продолжением вашей основной профессиональной деятельности, так и совсем другим направлением.
+Freelancing can extend your main profession or be something entirely different.
 
 #### 3. Registering as self-employed
 
-Для того чтобы легально работать самозанятым в Германии, необходимо зарегистрировать свою деятельность. Процесс регистрации зависит от характера работы.
+To work legally you must register, depending on work type (see Chapter 1):
 
-- **Свободные профессии (Freie Berufe**) см. Глава 1: Если вы работаете в качестве фрилансера в областях, таких как IT, консалтинг, журналистика, дизайн и т. д., ваша деятельность будет относиться к свободным профессиям. Для регистрации нужно отправить заявление в налоговую службу (Finanzamt), где вы получите налоговый номер.
+- **Liberal professions (Freie Berufe):** IT, consulting, journalism, design, etc. Register by filing with the tax office (Finanzamt) to get a tax number.
 
-- **Деятельность, связанная с торговлей (Gewerbe)** см. Глава 1: Если ваша подработка касается торговли, ремесла или других видов коммерческой деятельности, потребуется регистрация в торговом реестре (Gewerbeanmeldung) в дополнение к регистрации в налоговой.
+- **Trade/business activity (Gewerbe):** If the side gig involves trade, craft, or commercial activity, you must register a Gewerbe (Gewerbeanmeldung) in addition to notifying the tax office.
 
 #### 4. Getting a tax number and paying taxes
 
-После регистрации налоговая служба присвоит вам налоговый номер (Steuernummer). Этот номер будет использоваться при составлении счетов и подаче налоговой декларации.
+After registration the tax office issues a tax number (Steuernummer) for invoices and tax returns.
 
-Что касается налогов, существует несколько ключевых моментов:
+Key tax points:
 
-- **Подоходный налог (Einkommensteuer)**. Вы обязаны декларировать весь доход, полученный от фриланса, и уплачивать с него подоходный налог. Если доход от подработки не превышает 10 096 евро в год (2024 год), вы не платите подоходный налог благодаря необлагаемому минимуму (Grundfreibetrag).
+- **Income tax (Einkommensteuer):** Declare all freelance income and pay income tax. If side-gig income is below €10,096/year (2024), you owe no income tax due to the basic allowance (Grundfreibetrag).
 
-- **Налог на добавленную стоимость (Umsatzsteuer)**. Если ваш годовой доход от подработки превышает 25 000 евро, вы обязаны начислять НДС на свои услуги. Однако вы можете воспользоваться льготной схемой для малых предпринимателей (Kleinunternehmerregelung), если ваш доход не превышает этого лимита. В этом случае вам не нужно начислять и уплачивать НДС.
+- **VAT (Umsatzsteuer):** If annual side-gig revenue exceeds €25,000, you must charge VAT. You can use the small business rule (Kleinunternehmerregelung) if under the limit, meaning you do not charge or remit VAT.
 
-- **Ведение учета**. Самозанятым необходимо вести учет всех своих доходов и расходов, а также регулярно подавать налоговую декларацию в налоговую службу.
+- **Bookkeeping:** Track all income/expenses and file tax returns regularly.
 
 #### 5. Social and health insurance
 
-Если вы совмещаете подработку в качестве самозанятого с основной работой, система социального страхования работает по-другому, чем для полностью самозанятых лиц. В этом случае ваши взносы по социальному страхованию в основном покрываются вашим работодателем, а ваша дополнительная деятельность влияет на некоторые аспекты страхования.
+If you combine a side gig with a main job, social insurance works differently than for fully self-employed people. Your employer covers most social contributions; the side gig affects some aspects.
 
-#### Pension insurance (Rentenversicherung)
+##### Pension insurance (Rentenversicherung)
 
-Если ваша подработка осуществляется в качестве самозанятого и является второстепенной (не основным источником дохода), обязательство по уплате взносов в пенсионную систему сохраняется за вашим работодателем. Поскольку основная работа покрывает ваш доход для пенсионного страхования, от вас не требуется платить дополнительные взносы с доходов от подработки. Однако если ваша подработка начинает приносить значительно больше дохода, чем основная работа, или если она связана с профессиями, требующими обязательных взносов (например, преподаватель или консультант), вам может потребоваться рассмотреть вопрос о дополнительных пенсионных взносах.
+If the side gig is secondary (not your main income), your employer continues pension contributions from the main job. You generally do not pay extra pension contributions on side income. However, if the side gig starts earning much more than the main job or involves professions with mandatory contributions (e.g., teaching or consulting), consider additional pension payments.
 
-#### Health insurance (Krankenversicherung)
+##### Health insurance (Krankenversicherung)
 
-Поскольку ваш основной работодатель уже покрывает вас медицинским страхованием, дополнительная подработка не приведет к необходимости платить полные взносы за медицинское страхование дважды. Однако важно учитывать, что общий доход (включая доход от подработки) может повлиять на размер взносов, особенно если ваш доход существенно возрастает.
+Your main employer already covers health insurance, so a side gig does not mean paying full health premiums twice. But total income (main job + side gig) can affect contribution amounts, especially if income rises substantially.
 
-Если вы зарабатываете более определенного порога (например, 65 400 евро в год в 2024 году), вам, возможно, придется выбрать частное медицинское страхование (private Krankenversicherung, PKV) вместо государственного. При этом подработка как самозанятый может стать решающим фактором при выборе системы страхования.
+If you earn above certain thresholds (e.g., €65,400/year in 2024), you may need to choose private health insurance (PKV) instead of statutory. The side gig can influence this choice.
 
-Для тех, кто продолжает работать на основной работе и иметь подработку, государственное медицинское страхование (gesetzliche Krankenversicherung, GKV) обычно покрывает все необходимые расходы, и дополнительный доход влияет лишь на размер ежемесячного взноса.
+For those staying employed full time, statutory insurance (GKV) usually covers all necessary costs; the side income only adjusts the monthly contribution.
 
 #### 6. Side gig limitations
 
-При работе в качестве самозанятого важно учитывать ограничения как со стороны налоговой службы, так и со стороны вашего основного работодателя.
+Keep these limits in mind from both tax authorities and your employer:
 
-- **Ограничения по времени**. Законодательно установлено, что общее количество рабочих часов, включая подработку, не должно превышать 48 часов в неделю. Это означает, что если у вас 40-часовая рабочая неделя на основном месте работы, ваша фриланс-деятельность должна ограничиваться 8 часами в неделю.
+- **Time limits:** German law caps total weekly working hours (including side work) at 48. With a 40-hour main job, freelance work should be limited to ~8 hours/week.
 
-- **Ограничения по доходам**. Если ваш доход от подработки превышает 450 евро в месяц, вы будете обязаны уплачивать налоги с этого дохода.
+- **Income limits:** If side income exceeds €450/month, you must pay taxes on it.
 
-- **Конфликт интересов**. Если подработка может вступать в конфликт с вашими обязанностями на основной работе, обязательно согласуйте её с работодателем. Например, если вы работаете в IT-компании и планируете заниматься фрилансом в той же области, это может привести к конфликту интересов. Многие работодатели в Германии включают в контракты положения, ограничивающие подработку без их согласия.
+- **Conflict of interest:** If the side gig could conflict with your main job duties, get employer approval. For example, freelancing in the same field as your employer may trigger conflicts. Many German employers include clauses restricting side work without consent.
 
 #### 7. Pros and cons of a side gig
 
-Плюсы:
+Pros:
 
-- **Дополнительный доход**. Вы можете увеличить свой заработок за счет подработки.
+- **Extra income:** Increase earnings through side projects.
 
-- **Гибкость**. Вы сами определяете, когда и сколько работать, что дает больше свободы в планировании времени.
+- **Flexibility:** You decide when and how much to work, giving more control over your schedule.
 
-- **Развитие навыков**. Подработка в новых сферах помогает развивать дополнительные профессиональные навыки, которые могут быть полезны в будущем.
+- **Skill growth:** Side work in new areas builds additional professional skills for the future.
 
-Минусы:
+Cons:
 
-- **Повышенная ответственность**. Вы несете ответственность за все аспекты своей деятельности, включая налоговую отчетность и страхование.
+- **Greater responsibility:** You handle all aspects—taxes, reporting, insurance.
 
-- **Необходимость в учете доходов**. Ведение бухгалтерии может стать сложным и отнимать много времени.
+- **Bookkeeping burden:** Tracking income/expenses can be complex and time-consuming.
 
-- **Риски для основной работы**. Подработка может создать напряженность в отношениях с основным работодателем, если она будет негативно сказываться на выполнении ваших обязанностей.
+- **Risk to main job:** Side work can strain the main job relationship if performance suffers.
 
 #### 8. Legal aspects of a side gig
 
-Подработка в качестве самозанятого в Германии требует не только соблюдения налоговых и финансовых обязательств, но и понимания юридических аспектов, связанных с вашей основной занятостью. Работодатель может иметь определенные ожидания и правила, которые необходимо учитывать, чтобы избежать конфликтов и юридических проблем.
+A self-employed side gig in Germany requires not only tax/financial compliance but also understanding legal aspects tied to your primary employment. Employers may have expectations and rules; follow them to avoid conflicts or legal issues.
 
 #### 8.1 Need to get employer approval?
 
-В Германии трудовой кодекс позволяет сотрудникам заниматься подработкой в качестве самозанятых, однако многие работодатели включают в трудовые договоры специальные пункты, регулирующие дополнительные виды занятости. Это особенно важно в том случае, если подработка связана с той же сферой деятельности, что и основная работа.
+German labor law allows employees to have self-employed side gigs, but many employment contracts include clauses regulating secondary employment—especially if it overlaps with the employer’s business.
 
-Согласно § 60 Гражданского кодекса Германии (BGB), сотрудник обязан уведомить своего работодателя о намерении начать подработку, если она может влиять на выполнение основных обязанностей или потенциально создавать конфликт интересов.
+Under § 60 of the German Civil Code (BGB), employees must notify their employer if the side gig could affect main duties or create a conflict of interest.
 
-Ключевые моменты согласования с работодателем:
+Key employer-approval points:
 
-- **Конфликт интересов**. Если ваша подработка связана с той же сферой деятельности, что и основная работа, это может восприниматься как конкуренция. Например, если вы работаете в IT-компании и одновременно предлагаете фриланс-услуги в той же сфере, работодатель может потребовать прекратить подработку.
+- **Conflict of interest:** If your side gig is in the same field, it can be seen as competition. E.g., working in an IT company while freelancing in IT may prompt the employer to demand you stop.
 
-- **Нагрузка на основную работу**. Подработка не должна мешать выполнению ваших основных обязанностей. Это означает, что если вы слишком загружены или устаете из-за фриланса, что отражается на качестве работы в основной компании, это может стать основанием для разрыва контракта.
+- **Impact on main job:** The side gig must not hinder your main duties. If overwork or fatigue reduces performance, it can justify contract termination.
 
-- **Разглашение конфиденциальной информации**. Если вы используете знания, полученные на основном месте работы, в качестве основы для своей фриланс-деятельности, это может нарушать правила о конфиденциальности и коммерческой тайне. Важно быть осторожным с информацией, которая защищена контрактом или политикой компании.
+- **Confidentiality:** Using knowledge from the main job in your freelance work can breach confidentiality or trade secrets. Be careful with information protected by contract or company policy.
 
 #### 8.2 What if your employer objects to the side gig?
 
-Если ваш работодатель выступает против вашей подработки, необходимо:
+If your employer opposes the side gig:
 
-- **Открыто обсудить ситуацию**. Убедитесь, что ваш фриланс не создает конфликт интересов и не мешает вашей основной работе. Иногда честный разговор помогает найти компромиссное решение, например, согласовать количество часов, которые вы можете уделять фрилансу.
+- **Discuss openly.** Show there is no conflict of interest and no harm to main duties. Honest discussion can lead to a compromise, e.g., set hours for freelancing.
 
-- **Изучить условия трудового договора**. В контракте могут быть предусмотрены четкие условия по поводу второстепенной занятости. Если работодатель настаивает на прекращении подработки, это должно быть юридически обосновано и соответствовать условиям договора.
+- **Review your employment contract.** It may contain clear rules on secondary work. If the employer insists on stopping the side gig, the demand must be legally justified and aligned with the contract.
 
-- **Получить письменное согласие**. Даже если ваш работодатель не возражает против подработки, будет разумным получить это согласие в письменной форме. Это защитит вас в случае возникновения претензий в будущем.
+- **Get written consent.** Even if the employer verbally agrees, written consent is wise to protect against future claims.
 
 #### 8.3 Possible consequences of unsanctioned side work
 
-Если вы не уведомили работодателя о подработке и она противоречит условиям трудового договора или интересам компании, это может привести к следующим последствиям:
+If you do not inform the employer and the side gig conflicts with the employment contract or company interests, potential outcomes include:
 
-- **Устные или письменные предупреждения**. Работодатель может вынести предупреждение, если обнаружит, что ваша подработка влияет на основную работу или нарушает контракт.
+- **Verbal or written warnings.** If the employer sees that side work affects main duties or breaches the contract, they may issue warnings.
 
-- **Разрыв трудового договора**. В самых серьезных случаях, например, при разглашении коммерческой тайны или ведении деятельности в ущерб компании, работодатель может инициировать разрыв трудового договора без предварительного уведомления.
+- **Termination of employment.** In serious cases—e.g., disclosing trade secrets or harming the company—the employer may end the employment without notice.
 
 ## 9. Conclusion
 
-Фриланс или ведение собственного бизнеса в Германии может показаться заманчивой идеей, обещающей свободу и гибкость. Однако реальность такова, что эта свобода сопровождается определенными обязательствами, особенно в плане налогов, регистрации и бухгалтерии. Германия — страна с высокоразвитой бюрократической системой, и для успешной деятельности в качестве фрилансера или владельца Gewerbe необходимо понимать все нюансы этой системы.
+Freelancing or running your own business in Germany promises freedom and flexibility, but that freedom comes with obligations—especially around taxes, registration, and accounting. Germany’s bureaucracy is detailed; understanding it is essential for success as a freelancer or Gewerbe owner.
 
-Этот документ предоставляет всестороннее руководство для тех, кто решил работать на себя в Германии. Он охватывает весь путь, начиная с регистрации и выбора правильной формы деятельности (Freiberufler или Gewerbe), и заканчивая налоговой оптимизацией, ведением бухгалтерии и поиском клиентов.
+This guide covers the full journey: registering and choosing the right form (Freiberufler or Gewerbe), tax optimization, bookkeeping, and finding clients.
 
-Основные выводы:
+Key takeaways:
 
-**Выбор между фрилансом и Gewerbe**: Важно с самого начала определить, к какой категории вы относитесь — фрилансер или владелец Gewerbe. Это определяет не только юридические аспекты, но и налоговые обязательства.
+**Choosing between freelancing and Gewerbe:** Decide early whether you are a freelancer or Gewerbe owner—this shapes legal and tax duties.
 
-**Регистрация и налоги**: Процесс регистрации требует внимательности и знания всех деталей. Будьте готовы к тому, что налоговые обязательства будут занимать значительную часть вашей работы, и важно разобраться в них с самого начала, чтобы избежать проблем с налоговой службой.
+**Registration and taxes:** Registration requires attention to detail. Expect tax obligations to be a major part of your work; learn them early to avoid problems with the tax office.
 
-**Бухгалтерия**: Вести учет доходов и расходов необходимо с первого дня. Использование специализированного программного обеспечения для бухгалтерии может значительно упростить этот процесс и помочь вам избежать ошибок.
+**Accounting:** Track income and expenses from day one. Specialized accounting software can simplify the process and help avoid errors.
 
-**Страхование**: В Германии страхование — это не просто опция, а важный аспект защиты вашего бизнеса и личных финансов. Медицинская страховка, страхование ответственности и пенсионные взносы — это обязательные элементы, которые нужно учитывать при планировании бюджета.
+**Insurance:** In Germany, insurance is essential. Health coverage, liability insurance, and pension contributions must be budgeted.
 
-**Поиск клиентов**: Успех фрилансера напрямую зависит от постоянного потока клиентов. В документе приведены советы по тому, как строить свою клиентскую базу и использовать различные платформы для поиска проектов.
+**Client acquisition:** Success relies on a steady stream of clients. Use the strategies and platforms described to build your client base and find projects.
 
-**Фриланс в Германии** — это не просто работа, а целая система, с которой нужно научиться взаимодействовать. Документ "freelancer_gewerbe_guide_v0.4" помогает избежать распространённых ошибок и предоставляет инструменты для успешного ведения деятельности. Воспользовавшись этим руководством, вы сможете не только начать свой путь в качестве фрилансера или владельца бизнеса, но и эффективно управлять своими финансовыми и юридическими обязательствами, оставаясь на плаву в немецкой бюрократической системе.
+**Freelancing in Germany** is a system you must learn to navigate. The "freelancer_gewerbe_guide_v0.4" helps avoid common mistakes and gives you tools to operate successfully. With this guide, you can start and grow as a freelancer or business owner while managing financial and legal obligations in Germany’s bureaucratic environment.
