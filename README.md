@@ -7,10 +7,23 @@ Articles and guides about freelancing in Germany. All content lives in Markdown 
 - License: CC BY-NC 4.0; use at your own risk.
 
 ### Summary (EN)
-Practical guide to registering and working as a freelancer or small Gewerbe in Germany: covers Elster setup, quick and detailed registration, tax basics (VAT, Kleinunternehmerregelung 2025), EÜR and invoicing, software, banks, insurance, contracts, and job-search tips.
+Practical guide to registering and working as a freelancer or small Gewerbe in Germany: step-by-step Elster setup, quick and detailed registration, taxes (VAT, Kleinunternehmerregelung 2025), EÜR and invoicing, e-invoicing timelines, software, banks, insurance, contracts, and job-search tips.
 
 ### Кратко (RU)
-Практическое руководство по регистрации и работе как фрилансер или владелец Gewerbe в Германии: Elster, быстрая и подробная регистрация, налоги и Kleinunternehmerregelung 2025, EÜR и выставление счетов, софт, банки, страховки, контракты и поиск заказов.
+Практическое руководство по регистрации и работе как фрилансер или владелец Gewerbe в Германии: Elster, быстрая и подробная регистрация, налоги и Kleinunternehmerregelung 2025, EÜR, выставление счетов и э-счетов, софт, банки, страховки, контракты и поиск заказов.
+
+### What’s inside (incl. accounting)
+- Registration: Elster onboarding, Freiberufler vs Gewerbe, быстрый и подробный сценарии.
+- Taxes: VAT basics, Kleinunternehmerregelung (порог 25k с 2025), Europäische KUR, авансовые платежи, примеры расчётов.
+- Accounting: EÜR workflow, что можно списывать, учет расходов/амортизации, требования к счетам, электронные счета (этапы 2025–2027), reverse charge.
+- Tooling: обзор бухгалт софта (Lexoffice, SevDesk и др.), банки для фрилансеров, платёжные провайдеры (Stripe/Wise), шаблоны счетов.
+- Risk/ops: страховки, контракты, Scheinselbständigkeit, поиск клиентов и ставки.
+
+### Quick accounting notes
+- Keep EÜR: доходы/расходы кассовым методом, храните подтверждения.
+- Invoices must include реквизиты, номер/дату, описание услуг, суммы, VAT/основание освобождения, платежные условия.
+- Kleinunternehmerregelung: до 25 000 € оборота (с 2025) — без НДС, но укажите основание на счёте.
+- E-invoicing: обязательное поэтапное введение с 2025; жмите на раздел про э-счета для дат и требований.
 
 ### Table of contents
 - [Предисловие](articles/2025/freelancer-gewerbe-guide.md#предисловие)
