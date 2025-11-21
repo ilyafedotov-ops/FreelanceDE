@@ -201,7 +201,7 @@ Note: not an ad for getsorted.
 
 5. **Tax Setup.** Under **Profit determination method** you’ll likely pick single-entry bookkeeping. If revenue exceeds €800k/year, pick the second option.
 
-6. **Tax Estimation.** State your freelance situation and expected income for this year and next (details vary by person).
+6. **Tax Estimation.** Enter your freelance status and expected income for the current and next year (details vary per situation).
 
 **Bank Account.** Use a separate account. Set **YES** and provide your IBAN.
 
@@ -261,163 +261,141 @@ Example: at €80,000 income, you don’t pay 42% on all of it; the effective ra
 
 #### 2. VAT (Umsatzsteuer)
 
-Большинство фрилансеров и владельцев Gewerbе обязаны уплачивать налог на добавленную стоимость (Mehrwertsteuer, или Umsatzsteuer). Общая ставка НДС в Германии составляет 19%, однако для некоторых товаров и услуг, например, книг и большинства продуктов питания, действует пониженная ставка в 7%. Исключения составляют малые предприниматели (Kleinunternehmer), чей годовой оборот не превышает 25 000 евро( c 2025 года) — они могут быть освобождены от уплаты НДС.
+Most freelancers and Gewerbe owners must charge VAT (Mehrwertsteuer/Umsatzsteuer). The standard rate in Germany is 19%; some items like books and many foods use a reduced 7% rate. Exception: Kleinunternehmer with up to €25,000 annual turnover (from 2025) may be exempt from charging VAT.
 
 #### 3. Trade tax (Gewerbesteuer)
 
-Фрилансеры освобождены от уплаты торгового налога, который взимается с предприятий, ведущих коммерческую деятельность (Gewerbe). Однако владельцы Gewerbе обязаны уплачивать этот налог, если их годовая прибыль превышает определённый порог (около 24 500 евро). Торговый налог рассчитывается на основании прибыли и зависит от ставки, установленной местными властями. (примерно в диапазоне от 0 до 7%)
+Freelancers do not pay trade tax. Gewerbe owners pay it if annual profit exceeds roughly €24,500. The rate is set by your municipality (roughly 0–7% range).
 
 #### 4. Cooperative and corporate taxes
 
-Фрилансеры не обязаны уплачивать корпоративный налог (Körperschaftsteuer), который применяется только к капиталовложениям, таким как GmbH, AG или UG. Это позволяет им сэкономить на налогообложении, по сравнению с владельцами компаний.
+Freelancers do not pay corporate tax (Körperschaftsteuer); that applies to capital companies like GmbH, AG, or UG.
 
 ### VAT (Umsatzsteuer) and how to pay it
 
-Налог на добавленную стоимость (Umsatzsteuer) взимается с большинства товаров и услуг, предоставляемых на территории Германии. Важно знать особенности его уплаты и разбираться в различиях между двумя основными методами расчета НДС: **Soll-Versteuerung** и **Ist-Versteuerung**.
+VAT applies to most goods/services in Germany. Two main methods matter: **Soll-Versteuerung** and **Ist-Versteuerung**.
 
 #### 1. Soll-Versteuerung (VAT due on invoice date)
 
-При данном методе фрилансер обязан уплачивать НДС в момент выставления счета клиенту, вне зависимости от того, был ли счет оплачен. Это может привести к ситуациям, когда налоги приходится платить раньше, чем поступят фактические деньги на счет. Soll-Versteuerung рекомендуется компаниям и бизнесам с высокой ликвидностью.
+VAT is due when you issue the invoice, even if unpaid. This can create cash-flow pressure. Best for businesses with strong liquidity.
 
 #### 2. Ist-Versteuerung (VAT due on payment date)
 
-При данном методе НДС уплачивается только тогда, когда клиент фактически оплатил счет. Этот метод помогает фрилансерам лучше управлять своей ликвидностью и снижает риск кассовых разрывов. Чтобы использовать Ist-Versteuerung, необходимо соответствовать определённым критериям, включая годовой оборот менее 800 000 евро (с 01.01.2025).
+VAT is due only after the client pays. Better for liquidity. To use it, you must meet criteria, including turnover under €800,000 (from 01.01.2025).
 
 #### 3. VAT prefilings (Umsatzsteuer-Voranmeldung)
 
-Фрилансеры и владельцы Gewerbе обязаны подавать предварительные декларации по НДС (Umsatzsteuer-Voranmeldung) каждый месяц, квартал или год, в зависимости от суммы уплаченных налогов за предыдущий год:
+Freelancers and Gewerbe must file VAT pre-returns monthly, quarterly, or annually depending on prior-year VAT:
 
-- Если уплаченные налоги превышают 7 500 ( 9000 с 2025 года) евро в год, декларация подаётся ежемесячно.
+- If VAT paid exceeds €7,500 (€9,000 from 2025): file monthly.
 
-- Если уплаченные налоги составляют от 2 001 до 9000 евро, декларация подаётся ежеквартально.
+- If VAT paid is €2,001–€9,000: file quarterly.
 
-- Если налоги составляют менее 2 000 евро, декларация подаётся один раз в год.
+- If VAT paid is under €2,000: file annually.
 
-Подавать декларацию необходимо до 10-го числа месяца, следующего за расчётным периодом.
+File by the 10th of the month following the period.
 
 ------------------------------------------------------------------------
 
 #### 4. Advance tax payments
 
-Фрилансеры и владельцы Gewerбе обязаны делать авансовые платежи по налогам (Vorauszahlungen), чтобы избежать большой суммы единовременных выплат в конце налогового года. Авансовые платежи определяются на основе оценки предполагаемого дохода, указанного при регистрации, или на основе прошлогодних доходов.
+Freelancers and Gewerbe make advance income-tax payments (Vorauszahlungen) to avoid a big year-end bill. Payments are set from your estimated income at registration or last year’s income.
 
 #### 1. How are advance payments calculated?
 
-После регистрации в налоговой службе фрилансеру или владельцу Gewerбе необходимо указать свой прогнозируемый доход на год ( **Einkommensteuervorauszahlung** ). Исходя из этих данных, налоговая служба рассчитывает авансовые платежи по подоходному налогу. Авансовые платежи производятся ежеквартально по следующим датам:
+After registering, declare your expected annual income (**Einkommensteuervorauszahlung**). The tax office calculates quarterly advance payments, due:
 
-- 10 марта,
+- 10 March,
 
-- 10 июня,
+- 10 June,
 
-- 10 сентября,
+- 10 September,
 
-- 10 декабря.
+- 10 December.
 
-Фрилансеры или владельцы Gewerbе узнают, сколько подоходного налога им нужно будет заплатить только по окончании года. Чтобы избежать необходимости единовременной уплаты большой суммы налога, они вносят авансовые платежи в течение года. Если ваш прогнозируемый доход изменится в течение года, вы можете запросить корректировку суммы авансовых платежей в налоговой службе.
+You learn the final income tax after year-end, so advances spread the cost. If your expected income changes, you can request an adjustment.
 
 #### 2. Recalculation and final tax payment
 
-По окончании года подаётся окончательная налоговая декларация, на основании которой определяется точная сумма налога. Если ваши авансовые платежи превышают фактическую налоговую обязанность, налоговая служба вернёт вам излишне уплаченные налоги. **Рекомендуется заранее откладывать деньги на эти платежи, чтобы они не стали неожиданным сюрпризом.**
+After year-end you file the final return. If advances exceed the final bill, you get a refund. **Set money aside for these payments to avoid surprises.**
 
-Если же налоги были недоплачены, придётся внести оставшуюся сумму в течение месяца после получения налогового уведомления.
+If you underpaid, you must pay the balance within a month of the assessment.
 
 ------------------------------------------------------------------------
 
 ### Tax optimization and limits for freelancers
 
-Оптимизация налоговой нагрузки — это важный аспект для любого фрилансера, стремящегося снизить свои расходы. В Германии существует несколько законных способов оптимизации налогов, однако важно понимать, что любое отклонение от законодательства может привести к штрафам и дополнительным проверкам со стороны налоговых органов. Основной принцип все, что связано с профессиональной деятельностью и имеет документальное подтверждение, может быть вычтено из налоговой базы. Важно следить за сохранностью всех счетов и документов, а также учитывать сроки подачи налоговой отчетности.
-
-Как фрилансеру, важно знать, какие расходы можно списать с налогов, чтобы снизить налогооблагаемую базу и платить меньше налогов. Однако не все расходы можно списать полностью, а для некоторых из них действуют ограничения. В этой статье мы рассмотрим, какие расходы фрилансер может списать и как это сделать правильно, чтобы оптимизировать налоговые отчисления и избежать проблем с налоговой инспекцией.
+Optimizing tax burden matters: anything tied to your professional activity and documented can reduce taxable income. Keep all receipts and watch filing deadlines. Not all expenses are fully deductible; some have limits. Below: what you can deduct and how to stay compliant.
 
 #### What is an expense deduction?
 
-Списание расходов — это процесс уменьшения налогооблагаемой базы (той суммы, с которой рассчитываются налоги) за счёт учёта расходов, которые были сделаны для ведения вашей профессиональной деятельности. Например, если вы купили компьютер для работы, его стоимость можно списать с доходов. Списание расходов помогает снизить сумму налогов, которые вам нужно будет заплатить.
+Expense deduction reduces taxable income by accounting for business costs. Example: a work laptop can be deducted. Deductions lower the tax you owe.
 
 #### Which expenses are fully deductible?
 
-Полное списание означает, что вы можете учесть 100% расходов для уменьшения своей налогооблагаемой прибыли. Такие расходы включают аренду офиса, расходы на офисные принадлежности, оплату страховых полисов, профессиональные консультации и некоторые виды командировочных расходов. Эти расходы напрямую связаны с вашей профессиональной деятельностью и полностью признаются как производственные расходы.
+Fully deductible = 100% counts against income. Examples: office rent, supplies, insurance, professional advice, some travel.
 
-Примеры полностью списываемых расходов:
-
-- **Аренда офиса (Büromiete)**: Если вы арендуете отдельное помещение для работы, то эти расходы можно списывать полностью.
-
-- **Офисные принадлежности (Bürobedarf)**: Покупка бумаги, ручек, папок и других материалов для работы также списывается на 100%.
-
-- **Страхование (Versicherungen)**: Профессиональные страховки, такие как страхование предпринимательской ответственности и адвокатская страховка, раздел предпринимательской ответственности, полностью списываются.
-
-- **Бухгалтерские услуги (Beratungskosten)**: Консультации по вопросам налогообложения и бухгалтерии, а также другие юридические услуги.
+Examples:
+- **Office rent (Büromiete):** A dedicated workspace is fully deductible.
+- **Office supplies (Bürobedarf):** Paper, pens, folders, and similar work materials.
+- **Insurance (Versicherungen):** Professional liability and legal protection policies tied to the business.
+- **Advisory (Beratungskosten):** Tax/accounting advice and other legal services.
 
 #### Which expenses are partially deductible?
 
-Частичные расходы — это такие расходы, которые можно списать только в определенной доле, так как они могут иметь как профессиональное, так и личное использование. Например, если вы устраиваете деловые ужины с клиентами, налоговое законодательство позволяет списать только 70% таких расходов, поскольку считается, что 30% связаны с личным элементом.
+Partially deductible = only a portion counts, often because there’s a personal element.
 
-Примеры частично списываемых расходов:
-
-- **Представительские расходы (Bewirtungskosten)**: Вы можете списать только 70% от чистой суммы, но НДС по этим расходам можно вернуть полностью. Например, если вы организуете деловую встречу за ужином с клиентом, только 70% стоимости этого ужина можно списать как производственные расходы.
-
-- **Использование личного автомобиля для работы**: Если вы используете свой личный автомобиль для работы, то вы можете списать только ту часть, которая соответствует рабочим поездкам. Остальные расходы, связанные с личным использованием, не списываются.
+Examples:
+- **Client entertainment (Bewirtungskosten):** 70% of net cost is deductible; VAT can be reclaimed fully.
+- **Personal car used for work:** Deduct only the business-use share; personal use is not deductible.
 
 #### Which expenses are VAT-only deductible?
 
-Некоторые покупки, такие как оборудование или транспортные средства, можно списать с учётом НДС, который вы заплатили при покупке. Однако стоимость самого оборудования может быть списана не сразу, а частями через амортизацию (Abschreibung, AfA). Это особенно важно для крупных покупок, таких как компьютер или автомобиль, которые используются в бизнесе.
+Some purchases (equipment, vehicles) allow you to reclaim VAT upfront, but the asset cost is deducted over time via depreciation (AfA). Important for big items like computers or cars.
 
 #### Limits on deductions
 
-Есть определённые расходы, которые нельзя списать полностью или которые имеют лимиты. Например:
+Some costs have caps or are non-deductible, for example:
 
-- **Подарки клиентам (Geschenke an Kunden)**: Если стоимость подарка превышает 50 евро, такие подарки нельзя списать с налогов.
+- **Client gifts (Geschenke an Kunden):** Over €50 value is not deductible.
 
-- **Расходы на питание в командировках (Verpflegungsmehraufwendungen)**: Эти расходы могут быть списаны только в рамках установленных налоговой инспекцией норм. В Германии действуют суточные нормы: 14 евро за день при поездках продолжительностью от 8 до 24 часов внутри страны, и 28 евро — при более длительных поездках. В других странах нормы могут быть выше.
+- **Meals on business trips (Verpflegungsmehraufwendungen):** Deduct only within official per diem limits. In Germany: €14 for trips of 8–24 hours, €28 for longer; other countries may allow higher rates.
 
 #### How to optimize taxes?
 
-1.  **Ведите учёт всех расходов.** Сохраняйте все квитанции и чеки, связанные с вашей профессиональной деятельностью, чтобы легко подтвердить расходы перед налоговой инспекцией.
-
-2.  Используйте амортизацию для крупных покупок( AFA Tabelle)
-
-Ссылка на таблицы [<u>https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerverwaltungu-Steuerrecht/Betriebspruefung/AfA_Tabellen/afa_tabellen.html</u>](https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerverwaltungu-Steuerrecht/Betriebspruefung/AfA_Tabellen/afa_tabellen.html)
-
-Если вы купили дорогостоящее оборудование, такое как компьютер или принтер, вы можете списывать его стоимость частями на протяжении нескольких лет. Это позволит снизить налогооблагаемую базу на длительный срок.
-
-3.  **Разделяйте личные и рабочие расходы.** Если вы используете автомобиль, телефон или компьютер как для работы, так и для личных нужд, ведите учёт того, сколько времени или ресурсов используется для профессиональной деятельности. Это поможет избежать проблем при налоговых проверках.
-
-4.  **Консультируйтесь с бухгалтером.** Профессиональный бухгалтер или налоговым консультантом поможет вам правильно распределить расходы и воспользоваться всеми возможностями для налоговой оптимизации.
+1. **Track all expenses.** Keep every receipt tied to your work.
+2. **Use depreciation for big purchases (AfA Tabellen):** [<u>https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerverwaltungu-Steuerrecht/Betriebspruefung/AfA_Tabellen/afa_tabellen.html</u>](https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerverwaltungu-Steuerrecht/Betriebspruefung/AfA_Tabellen/afa_tabellen.html). Expensive gear (laptop, printer) is written off over years.
+3. **Separate personal vs business use.** For car/phone/computer, track business share to avoid audit issues.
+4. **Consult a tax pro.** A Steuerberater helps allocate expenses and optimize legally.
 
 #### Expense table
 
-Ниже приведена таблица, которая показывает, какие расходы можно списать полностью, а какие позволяют списать только НДС (VAT):
+Table: which costs are fully deductible vs VAT-only.
 
 ![](../assets/freelancer-gewerbe-guide/media/image14.png)
 
 ### Car for work
 
-Когда фрилансеры или другие самозанятые используют служебный автомобиль для личных целей, это считается **денежной выгодой (geldwerter Vorteil)**, которую необходимо обложить налогом. Немецкая налоговая служба позволяет использовать две основные методики для расчета частного использования автомобиля: **метод ведения путевого листа (Fahrtenbuchmethode)** и **метод 1% (1-Prozent-Methode)**. Ниже подробно описано, как эти методы работают и какие факторы следует учитывать при их выборе.
+Using a business car privately creates a **taxable benefit (geldwerter Vorteil)**. Two methods are allowed to calculate private use: **logbook method (Fahrtenbuchmethode)** and **1% method (1-Prozent-Methode)**. Below: how they work and what to consider.
 
 #### Input VAT on car expenses
 
-- Если у тебя есть право на Vorsteuerabzug, ты можешь полностью вычесть НДС с расходов на автомобиль, таких как топливо, ремонт и обслуживание.
-
-- Например, если общие расходы составляют 9 450 евро, включая НДС (что соответствует примерно 7 941 евро без НДС и 1 509 евро НДС), ты можешь вернуть эти 1 509 евро в рамках Vorsteuer.
+- If you’re entitled to Vorsteuerabzug, you can reclaim VAT on car costs like fuel, repairs, and maintenance.
+- Example: total costs €9,450 incl. VAT (~€7,941 net + €1,509 VAT); you can reclaim the €1,509.
 
 #### VAT on private use
 
-- Когда рассчитывается доля частного использования, с неё необходимо заплатить НДС. Например, в случае путевого листа:
-
-  - 1 928 евро (частное использование) = чистая сумма.
-
-  - 1 928 \* 19% = 366,32 евро (НДС на частное использование), который нужно вернуть государству.
+- The private-use portion is subject to VAT. Example with logbook:
+  - €1,928 private use (net amount)
+  - €1,928 × 19% = €366.32 VAT to pay back.
 
 #### 1. Logbook method (Fahrtenbuchmethode)
 
-Этот метод требует от фрилансеров фиксировать каждую поездку, связанную с работой, с указанием следующих данных:
-
-- Дата поездки.
-
-- Начальный и конечный пункты поездки.
-
-- **Показания одометра** на момент начала и конца поездки.
-
-- **Цель поездки** и, если применимо, имя клиента или партнера.
+You must record every business trip with:
+- Date
+- Start/end points
+- **Odometer readings** at start and end
+- **Purpose** and client/partner name if relevant
 
 ##### Advantages of the logbook method
 
