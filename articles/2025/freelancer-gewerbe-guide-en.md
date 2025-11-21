@@ -66,202 +66,192 @@ Russian version: [Freelancer Gewerbe Guide (RU)](freelancer-gewerbe-guide.md)
 
 ## Foreword
 
-Фриланс в Германии — это разнообразный и гибкий путь, который может быть идеальным решением для тех, кто ценит свободу выбора, самостоятельность и контроль над своим рабочим графиком. Однако каждый шаг в сторону фриланса — это личный выбор, зависящий от множества факторов: вашего характера, профессиональных навыков и текущей ситуации на рынке труда.
+Freelancing in Germany is a varied and flexible path that can be ideal if you value freedom of choice, independence, and control over your schedule. Every step toward freelancing is a personal decision shaped by your personality, skills, and the local job market.
 
-Некоторым нравится работать в одиночку, брать ответственность за проекты и самостоятельно управлять временем. Другим важен более стабильный график и гарантированный поток задач от постоянных клиентов. Важно понимать, что фриланс — это не просто свобода от офисных рутин, но и ответственность за все аспекты ведения собственного бизнеса: от поиска клиентов и заключения договоров до соблюдения налоговых и юридических норм.
+Some people enjoy working solo, taking ownership of projects, and managing their own time. Others want a steadier schedule and a predictable flow of tasks from regular clients. Freelancing is not just freedom from office routines; it means owning every part of your business: finding clients, signing contracts, and staying compliant with tax and legal rules.
 
-Фриланс в Германии подчиняется определённым правилам, будь то регистрация в качестве представителя свободной профессии (Freie Berufe) или как предприниматель (Gewerbetreibende). Каждый из этих путей имеет свои особенности и бюрократические нюансы, требующие внимания. Этот переход может быть как вдохновляющим, так и полным вызовов, особенно если вы не готовы к сложности административных процессов, налоговых обязательств и постоянного самоменеджмента.
+Freelancing in Germany follows clear rules, whether you register as a free profession (Freie Berufe) or as a Gewerbe (sole proprietor). Each path has its own specifics and bureaucracy. The transition can be inspiring and challenging, especially if you’re not ready for admin, tax obligations, and self-management.
 
-Однако, при грамотном подходе и правильной подготовке, фриланс в Германии может стать ключом к профессиональной свободе и развитию. Это путь, который открывает новые возможности для роста, но требует чёткого понимания всех его аспектов и готовности к постоянному самосовершенствованию.
+With solid preparation, freelancing in Germany can be a key to professional freedom and growth. It opens opportunities, but demands a clear understanding of the landscape and a willingness to keep improving.
 
-"А мне оно вообще надо?" – думаешь ты в паузах между заказами. Ведь каждый немецкий бухгалтер так рад помочь тебе заполнить декларацию за скромные 200 евро в час (ага, как будто у тебя их нет!). А когда клиент говорит, что хотел бы "сделать паузу на месяц с оплатой", ты вдруг осознаешь: все эти риски теперь лежат на тебе. Никаких больничных, отпусков или 13-й зарплаты. Только ты, твой компьютер и... твои налоги.
+“Do I even need this?” you might ask between gigs. German tax advisors will gladly help you for €200/hour, and when a client says they want a “paid pause,” you realize the risks sit on your shoulders—no sick leave, no vacation pay, no 13th salary. Just you, your laptop, and your taxes.
 
-Итак, оно тебе надо? Если ты любишь приключения, немецкий язык и бюрократию — да, конечно! А если нет, то, может, стоит пересмотреть мечты о свободе и остаться в комфортной роли штатного сотрудника.
+So, is it for you? If you love adventure, the German language, and bureaucracy—yes. If not, maybe staying an employee is the more comfortable choice.
 
 ## About the Author
 
-Привет! Меня зовут Илья Федотов, и я уже более шести лет живу в Германии, где последние два года работаю full-time фрилансером в сфере IT. С более чем 20-летним опытом в качестве Microsoft Solution Architect, я участвовал в крупных проектах по миграции и внедрению IT-инфраструктуры для международных компаний, таких как Deutsche Bank, Fujitsu Services и Infosys. В этом руководстве я расскажу о своём опыте перехода на фриланс, начиная с регистрации и заканчивая годовым отчетом и поиском клиентов. Моя информация основана на моем опыте фрилансера в Германии и поможет вам избежать распространенных ошибок на пути к независимости. Но сразу предупреждаю: я не финансовый гуру и не бухгалтер, так что все, что вы сделаете на основе этого текста — на ваш страх и риск. Ну, знаете, стандартное "я вас предупредил" 😊.
+Hi! I’m Ilya Fedotov. I’ve lived in Germany for 6+ years and have spent the last two working full-time as a freelance IT specialist. With 20+ years as a Microsoft Solution Architect, I’ve worked on large migration and infrastructure projects for companies like Deutsche Bank, Fujitsu Services, and Infosys. In this guide I share my path into freelancing—from registration to annual reporting and finding clients. It’s based on my own experience in Germany; use it to avoid common pitfalls. I’m not a financial advisor or accountant, so everything you do based on this text is at your own risk (“you’ve been warned” 😊).
 
-Сразу оговорюсь: в этом тексте не будет долгих объяснений про получение визы фрилансера. Этот шаг вам нужно пройти самостоятельно, прежде чем вы сможете зарегистрироваться в качестве фрилансера в Германии. И да, это только начало веселья!
+I won’t cover freelancing visas in detail—you need to sort that before registering as a freelancer in Germany. That’s just the start of the fun.
 
-Буду рад услышать ваши замечания и пожелания по поводу этого руководства. Вы всегда можете связаться со мной по email fedotov.ilya (at) gmail.com или через LinkedIn [<u>https://www.linkedin.com/in/fedotovi/</u>](https://www.linkedin.com/in/fedotovi/).
+Questions or feedback? Email fedotov.ilya (at) gmail.com or reach out on LinkedIn [<u>https://www.linkedin.com/in/fedotovi/</u>](https://www.linkedin.com/in/fedotovi/).
 
 ## Changelog
 
-| **Название изменения** | **Страница** | **Дата** | **Комментарии** | **Автор** |
+| **Change** | **Page** | **Date** | **Comments** | **Author** |
 |----|:--:|:--:|:--:|:--:|
-| Europäische Kleinunternehmerregelung с 2025 | 32 | 08.01.2025 | Нововведения 2025 год | Илья |
-| E-Rechnungspflicht | 42 | 08.01.2025 | Нововведения 2025 год | Илья |
-| Neue Kleinunternehmerregelung 2025 | Весь документ | 08.01.2025 | Нововведения 2025 год | Илья |
-| Entlastung bei der Umsatzsteuervoranmeldung 2025 | Весь документ | 08.01.2025 | Нововведения 2025 год | Илья |
-| Erhöhung des Grundfreibetrags | Весь документ | 08.01.2025 | Нововведения 2025 год | Илья |
-| Обновление документа, редакция 4 | Весь документ | 19.01.2025 |  | Илья |
-| Обновление документа, редакция 2 | Весь документ | 19.09.2024 |  | Илья |
-| Обновление документа, редакция 2 | Весь документ | 15.09.2024 |  | Илья |
-| Обновление документа, редакция 1 | Весь документ | 13.09.2024 |  | Илья |
-| Создание документа | Весь документ | 10.09.2024 |  | Илья |
+| Europäische Kleinunternehmerregelung from 2025 | 32 | 08.01.2025 | 2025 updates | Ilya |
+| E-Rechnungspflicht | 42 | 08.01.2025 | 2025 updates | Ilya |
+| Neue Kleinunternehmerregelung 2025 | Entire document | 08.01.2025 | 2025 updates | Ilya |
+| Entlastung bei der Umsatzsteuervoranmeldung 2025 | Entire document | 08.01.2025 | 2025 updates | Ilya |
+| Erhöhung des Grundfreibetrags | Entire document | 08.01.2025 | 2025 updates | Ilya |
+| Document update, revision 4 | Entire document | 19.01.2025 |  | Ilya |
+| Document update, revision 2 | Entire document | 19.09.2024 |  | Ilya |
+| Document update, revision 2 | Entire document | 15.09.2024 |  | Ilya |
+| Document update, revision 1 | Entire document | 13.09.2024 |  | Ilya |
+| Document created | Entire document | 10.09.2024 |  | Ilya |
 
 ## Chapter 1. Introduction
 
-Общая схема процесса регистрации выглядит примерно так:
+The overall registration flow looks roughly like this:
 
 ![](../assets/freelancer-gewerbe-guide/media/image1.png)
 
 ### Who are freelancers and Gewerbe owners in Germany?
 
-В Германии любая деятельность должна быть четко определена и классифицирована, даже если речь идет о самостоятельной работе. В этой системе существуют две основные категории: фрилансеры (Freiberufler) и владельцы Gewerbe. Каждая из этих категорий имеет свои уникальные особенности и требования, регулируемые немецким законодательством.
+In Germany any activity—freelance or business—has to be clearly classified. There are two main categories: freelancers (Freiberufler) and Gewerbe (sole proprietors). Each has its own rules and requirements under German law.
 
 ### Freelancer (Freiberufler)
 
-Фрилансер в Германии — это специалист, оказывающий профессиональные услуги, не связанные с торговлей или коммерцией. Основное требование — деятельность должна быть интеллектуальной и требовать специальных знаний. К таким профессиям относятся врачи, юристы, консультанты, программисты и другие специалисты. Однако не любая самостоятельная работа подпадает под категорию фрилансера. Деятельность должна быть достаточно интеллектуальной, чтобы немецкое законодательство признало ее таковой. Например, простая починка компьютеров сюда не относится.
+A freelancer in Germany provides professional services not tied to trade or commerce. The key requirement is that the activity is intellectual and needs special expertise—doctors, lawyers, consultants, programmers, and similar roles. Not all self-employment qualifies; simple PC repairs, for example, may not.
 
-Фрилансеры освобождены от регистрации в торговом реестре (Handelsregister) и от обязательного членства в Торгово-промышленной палате (IHK), что значительно упрощает бюрократические процедуры. Однако стоит учитывать, что не всякая деятельность может быть признана фрилансом. Если вы хотите узнать, можете ли вы получить статус Freiberufler, ознакомьтесь с требованиями на сайте IHK: [<u>https://www.ihk.de/emden/recht/gewerberecht/abgrenzung-gewerbe-und-freier-beruf-2353148</u>](https://www.ihk.de/emden/recht/gewerberecht/abgrenzung-gewerbe-und-freier-beruf-2353148)
+Freelancers are exempt from the Handelsregister (commercial register) and mandatory IHK membership, which reduces bureaucracy. But not every activity will be accepted as “freelance.” To check if you can be a Freiberufler, review the IHK guidance: [<u>https://www.ihk.de/emden/recht/gewerberecht/abgrenzung-gewerbe-und-freier-beruf-2353148</u>](https://www.ihk.de/emden/recht/gewerberecht/abgrenzung-gewerbe-und-freier-beruf-2353148)
 
 ### Gewerbe (small business owners)
 
-Если ваша деятельность не подпадает под категорию "интеллектуальной" по государственным стандартам, то вы становитесь владельцем Gewerbe. Представьте себе классический сценарий: вы открываете магазин, начинаете торговать товарами или предоставлять услуги, такие как ремонт техники, и тем самым становитесь предпринимателем. Это звучит впечатляюще, но требует дополнительных усилий: вам нужно зарегистрироваться в торговом реестре, платить торговый налог и быть готовым к взаимодействию с немецкой бюрократией.
+If your work is not “intellectual” under the rules, you’re a Gewerbe (sole proprietor). Classic cases: running a shop, selling goods, or services like repairs. This requires Handelsregister registration, trade tax, and dealings with more bureaucracy.
 
-У владельцев Gewerbe есть свои преимущества. Во-первых, у вас есть возможность расширить свою деятельность, нанимать сотрудников и даже привлекать инвестиции. Однако, выбрав этот путь, вы становитесь предпринимателем, а не "свободным художником", как в случае с фрилансером. Если ваша цель — масштабировать бизнес и добиться серьезного роста, то путь владельца Gewerbe для вас.
-
-Так кем же быть? Если вы стремитесь к свободе и гибкости (с определенными налоговыми обязательствами), статус фрилансера может быть идеальным выбором. Однако, если у вас есть амбиции построить и развивать свой бизнес, то мир Gewerbe может открыть перед вами новые возможности.
+Gewerbe status has upsides: you can scale, hire, and even seek investment. But you’re an entrepreneur, not a “free artist.” If you want freedom and lighter compliance, freelancing may fit. If you plan to grow a business, Gewerbe opens those doors.
 
 ### Key differences between a freelancer and a Gewerbe owner
 
-Одно из ключевых различий — это, конечно, налогообложение. Владелец Gewerbe обязан платить торговый налог (Gewerbesteuer), что добавляет свою долю бюрократических обязанностей и финансовых обязательств. В то время как фрилансеры освобождены от уплаты этого налога. Такое ощущение, что законодатель как бы сказал: "Хорошо, вот вам хотя бы одно послабление, но не стоит расслабляться!
+One major difference is tax: Gewerbe owners pay trade tax (Gewerbesteuer); freelancers do not. Bureaucracy differs too—freelancers have simpler bookkeeping and filings, while Gewerbe owners keep fuller records and file trade tax returns. It’s the “hard mode” of running a business.
 
-На этом бюрократические особенности не заканчиваются. Фрилансеры получают еще одно преимущество — более упрощенную систему отчетности и бухгалтерии. Им не нужно проводить долгие ночи за калькулятором и таблицами. Отчеты и налоговые декларации фрилансеров в Германии говорят: "Мы облегчим вам задачу, но всё же придется поработать." В отличие от них, владельцы Gewerbe обязаны вести подробный учет, заполнять множество документов и подавать ежегодную декларацию о торговом налоге. Это своего рода "хардкорный" режим ведения бизнеса.
-
-Важно помнить, что процесс регистрации Gewerbe может значительно отличаться в зависимости от специфики вашей деятельности. Поэтому, если вы решите погрузиться в этот мир, стоит внимательно ознакомиться с информацией и рекомендациями по данному вопросу.:
+Registration also varies by activity and region, so review local guidance:
 
 [<u>https://www.lexoffice.de/wissenswelt/selbstaendig-machen/gewerbe-anmelden/</u>](https://www.lexoffice.de/wissenswelt/selbstaendig-machen/gewerbe-anmelden/)
 
 [<u>https://www.ihk.de/karlsruhe/fachthemen/recht/gewerberecht/gewerbeanmeldung-4632354</u>](https://www.ihk.de/karlsruhe/fachthemen/recht/gewerberecht/gewerbeanmeldung-4632354)
 
-Таким образом, если вы стремитесь к контролю и готовы к сложностям с отчетностью, мир Gewerbe может стать вашим выбором. А если вы предпочитаете более простой путь, но с некоторыми "острыми" моментами, фриланс, вероятно, больше вам подойдет.
+If you want control and can handle heavier reporting, Gewerbe might be right. If you prefer a lighter path (with some sharp edges), freelancing may suit you better.
 
 ### Registration in Elster
 
-!! Одним из фундаментальных требований для начала всего процесса является доступ к личному кабинету финансовой службы — Finanzamt. Через этот кабинет можно подать заявку на фриланс, официально общаться с Finanzamt, подавать налоговые декларации, а также делегировать доступ Steuerberater'у. Подробная инструкция приведена ниже..!!
+**Prerequisite:** You need access to your Finanzamt online cabinet. There you submit your freelance application, communicate with the tax office, file returns, and grant access to a Steuerberater. Steps:
 
-1.  Заходим на [<u>https://www.elster.de/eportal/registrierung-auswahl?locale=en_US</u>](https://www.elster.de/eportal/registrierung-auswahl?locale=en_US)
+1. Go to [<u>https://www.elster.de/eportal/registrierung-auswahl?locale=en_US</u>](https://www.elster.de/eportal/registrierung-auswahl?locale=en_US)
 
-2.  Нажимаем **Next**
+2. Click **Next**
 
 ![](../assets/freelancer-gewerbe-guide/media/image2.png)
 
-3.  Нажимаем **Next**
+3. Click **Next**
 
 ![](../assets/freelancer-gewerbe-guide/media/image3.png)
 
-4.  Выбираем раздел **Certificate file** и нажимаем **Select**
+4. Choose **Certificate file** and click **Select**
 
 ![](../assets/freelancer-gewerbe-guide/media/image4.png)
 
-5.  Выбираем **For me ( and my parther)** нажимаем Next
+5. Select **For me ( and my partner)** and click **Next**
 
 ![](../assets/freelancer-gewerbe-guide/media/image5.png)
 
-6.  Выбираем **With tax identification number**
+6. Choose **With tax identification number**
 
 ![](../assets/freelancer-gewerbe-guide/media/image6.png)
 
-7.  Вводим свои данные разделе **Data Entry** и ставим галочку внизу ( **I confirm**) нажимаем **Next**
+7. Enter your data in **Data Entry**, tick **I confirm**, and click **Next**
 
 ![](../assets/freelancer-gewerbe-guide/media/image7.png)
 
-8.  Заполнить **Pre-filling the income tax return** :
+8. Fill **Pre-filling the income tax return**:
 
-Если вы хотите использовать один и тот же аккаунт совместно с вашим супругом или детьми, вы можете добавить здесь их налоговые идентификационные номера. Elster сохраняет данные, которые вы указываете в вашей налоговой декларации, и автоматически заполняет, например, основные формы в следующем году. Если ваши данные к тому моменту изменятся, вы, конечно, сможете их отредактировать. В любом случае, это сэкономит вам время и позволит видеть, какие данные вы подавали в предыдущие годы. Сейчас вы ввели все необходимые данные и можете нажать на кнопку "Проверить", чтобы ещё раз их просмотреть перед отправкой.
+If you want to share this account with your spouse/children, add their tax IDs here. Elster stores the data you provide and can prefill core forms next year. You can edit changes later; this saves time and shows what you filed previously. Click **Check** to review before submitting.
 
 ![](../assets/freelancer-gewerbe-guide/media/image8.png)
 
-9.  Подтверждение регистрации
+9. Registration confirmation
 
-Если вы корректно ввели все данные (отмеченные серым цветом), нажмите кнопку "Submit". После этого вы получите электронное письмо для подтверждения введённых данных. Нажмите на ссылку активации, указанную в письме. Если письмо не пришло, подождите немного и проверьте также папку "Спам". Ссылка действительна в течение семи дней. Затем вам придёт ещё одно письмо с инструкциями для активации учётной записи и важным идентификационным номером (ID активации), который необходимо сохранить.
+If everything is filled (grey fields), click **Submit**. You’ll get an email to confirm the data—click the activation link (valid for 7 days; check spam). Then you’ll receive a second letter with activation instructions and an activation ID—save it.
 
 ![](../assets/freelancer-gewerbe-guide/media/image9.png)
 
-10. Регистрация в **Elster Online**
+10. Registration in **Elster Online**
 
-Как только вы получите письмо с вашим вторым персональным кодом активации, следуйте дальнейшим шагам регистрации. Письмо должно прийти в течение 14 дней. Если оно не поступит, свяжитесь со службой поддержки ELSTER.
+When the second activation code arrives (up to ~14 days; contact support if not), complete registration. You’ll need the saved certificate plus login/password to access later.
 
-В дальнейшем для доступ к личному кабинету потребуется сертификат который вы сохранили во время регистрации + логин и пароль
-
-Важным предварительным условием перед началом процесса регистрации является наличие отдельного счета/IBAN, который вы будете использовать для получения доходов, уплаты налогов и всех возможных расходов, связанных с самозанятостью. *Раздел 6. Банки*
+Before registering, have a dedicated bank account/IBAN for income, taxes, and self-employment expenses. *See Section 6: Banks.*
 
 ### Fast Freiberufler registration
 
-!! не реклама getsorted!!
+Note: not an ad for getsorted.
 
-1.  Регистрируемся на [<u>https://en.getsorted.de</u>](https://en.getsorted.de)
+1. Sign up at [<u>https://en.getsorted.de</u>](https://en.getsorted.de)
 
-2.  На главной странице нажимаем Start registration
+2. On the homepage, click **Start registration**
 
 ![](../assets/freelancer-gewerbe-guide/media/image10.png)
 
-3.  Заполняем стандартную анкету **Personal Details.** Обязательно укажите вашу профессию.
+3. Fill the **Personal Details** form. Be sure to specify your profession.
 
-4.  Заполняем **Business Info.** Здесь важно указать вашу профессию, чтобы система правильно определила, являетесь ли вы **Freiberufler** или **Gewerbe.**
+4. Fill **Business Info**. It’s important to state your profession so the system determines whether you’re **Freiberufler** or **Gewerbe.**
 
 ![](../assets/freelancer-gewerbe-guide/media/image11.png)
 
-5.  Раздел **Tax Setup.** В пункте **Profit determination method** вы, скорее всего, выберете Single entry bookkeeping. Если ваша выручка превышает 800 тыс. евро в год, тогда выбирается второй вариант.
+5. **Tax Setup.** Under **Profit determination method** you’ll likely pick single-entry bookkeeping. If revenue exceeds €800k/year, pick the second option.
 
-6.  Раздел **Tax Estimation.** Здесь необходимо указать вашу ситуацию с фрилансом, а также ожидаемые доходы на текущий и следующий год. Я намеренно не привожу деталей, так как у всех разные жизненные ситуации.
+6. **Tax Estimation.** State your freelance situation and expected income for this year and next (details vary by person).
 
-Раздел **Bank Account**. Как я уже писал выше, важно чтобы у вас был отдельный счет. Поэтому ставим YES и указываем IBAN.
+**Bank Account.** Use a separate account. Set **YES** and provide your IBAN.
 
 ![](../assets/freelancer-gewerbe-guide/media/image12.png)
 
-7.  Раздел **Review and Submi**t. В этом разделе нужно указать офис Finanzamt региона где вы проживаете и нажать **Submit to the Finanzamt**.
+7. **Review and Submit.** Choose your local Finanzamt office and click **Submit to the Finanzamt**.
 
 ### Detailed registration
 
-Подробная регистрация предполагает, что вы входите в личный кабинет **Elster** и там заполняете онлайн-формуляр «**Fragebogen zur steuerlichen Erfassung**».
+Detailed registration means logging into **Elster** and completing the online form **Fragebogen zur steuerlichen Erfassung**.
 
-Могу порекомендовать два подробных видео по заполнению формуляра:
+Recommended walk-through videos:
 
-- На русском от **Tupa Germania**:
+- Russian: **Tupa Germania**:
 
 [<u>https://www.youtube.com/watch?v=S9eyTPUcp1s</u>](https://www.youtube.com/watch?v=S9eyTPUcp1s)
 
-- На немецком от **Steuerfit**:
+- German: **Steuerfit**:
 
 [<u>https://www.youtube.com/watch?v=Uqe_tQvaILg&t=1s</u>](https://www.youtube.com/watch?v=Uqe_tQvaILg&t=1s)
 
-**Видео по регистрации Gewerbe (на немецком)**
+**Gewerbe registration videos (German)**
 
-Для Баварии
+For Bavaria
 
 [Gewerbe anmelden - Gewerbeschein beantragen: Schritt-für-Schritt Anleitung für Anfänger](https://www.youtube.com/watch?v=nm4kTkUa-44)
 
-Для Берлина
+For Berlin
 
 [Gewerbe anmelden - Gewerbeanmeldung ausfüllen: Schritt für Schritt Anleitung 2023](https://www.youtube.com/watch?v=trPRRPUjpNQ)
 
-В зависимости от вашего места жительства и скорости обработки документов, через 2–9 недель на почту вам придет подтверждение регистрации в качестве фрилансера по указанному виду деятельности, а также налоговый номер.
+Depending on your location and processing times, within 2–9 weeks you’ll get confirmation of freelance registration for your activity plus your tax number.
 
 ## 2. Taxes
 
-Налоги — это как обязательный "квест" на пути любого фрилансера или владельца бизнеса в Германии. Хоть он и не самый увлекательный, но уж точно необходимый, ведь без его прохождения вас ждут "неприятные сюрпризы" в виде штрафов или вопросов от налоговой службы (а с ней лучше не шутить!). В этой главе мы разберемся с основными видами налогов, которые нужно платить, как фрилансерам, так и владельцам Gewerbe, чтобы работать легально и спокойно спать по ночам.
+Taxes are a mandatory “quest” for every freelancer or small business in Germany. Not the most fun, but skipping it brings fines and tax-office questions. This chapter covers the core taxes freelancers and Gewerbe owners must handle to stay legal and sleep well.
 
 ### Types of taxes for freelancers/Gewerbe
 
 #### 1. Income tax (Einkommensteuer)
 
-Фрилансеры и владельцы Gewerbе, как и все налогоплательщики, обязаны уплачивать подоходный налог. Этот налог рассчитывается на основе чистого дохода — разницы между общими доходами и расходами, связанными с ведением деятельности. Ставка подоходного налога прогрессивна и зависит от суммы дохода:
+Freelancers and Gewerbe owners pay income tax like any taxpayer. It’s based on net income (revenue minus deductible expenses) and is progressive:
 
-- До 12 096 евро в год (в 2025 году) — налоговая ставка 0%.
+- Up to €12,096/year (2025): 0%
+- €12,096–€17,005: 14%
+- €17,006–€66,760: rises progressively up to 42%
+- €66,761–€277,825: 42%
+- Above €277,826: 45%
 
-- Доход от 12 096 до 17 005 евро облагается налогом в размере 14%.
-
-- Для доходов от 17 006 до 66 760 евро ставка прогрессивно увеличивается до 42%.
-
-- Для доходов от 66 761 до 277 825 евро — 42%.
-
-- Доходы свыше 277 826 евро облагаются налогом в размере 45%.
-
-Например, при доходе в 80 000 евро налог не составит 42%, как это может показаться по ставке для верхнего диапазона, а будет около 30-35%. Это связано с тем, что только часть дохода выше определенного порога облагается по более высокой ставке. Чтобы точно узнать, сколько процентов налога приходится на весь доход, используется средняя эффективная налоговая ставка, которая всегда будет ниже самой высокой маргинальной ставки.
+Example: at €80,000 income, you don’t pay 42% on all of it; the effective rate is ~30–35% because only amounts above each threshold are taxed at higher rates. Use the effective rate to see total tax share—it’s always below the top marginal rate.
 
 <https://www.bmf-steuerrechner.de/ekst/eingabeformekst.xhtml>
 
