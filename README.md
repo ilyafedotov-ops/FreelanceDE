@@ -19,19 +19,18 @@ Practical guide to registering and working as a freelancer or small Gewerbe in G
 - [Глава 1. Введение](articles/2025/freelancer-gewerbe-guide.md#глава-1-введение)
 - [2. Про налоги](articles/2025/freelancer-gewerbe-guide.md#2-про-налоги)
 - [3. Бухгалтерия и счета](articles/2025/freelancer-gewerbe-guide.md#3-бухгалтерия-и-счета)
-- [ПО для Бухгалтерии](articles/2025/freelancer-gewerbe-guide.md#по-для-бухгалтерии)
-- [Банки](articles/2025/freelancer-gewerbe-guide.md#банки)
-- [Страховки](articles/2025/freelancer-gewerbe-guide.md#страховки)
-- [Работа](articles/2025/freelancer-gewerbe-guide.md#работа)
-- [Подработка как самозанятый](articles/2025/freelancer-gewerbe-guide.md#подработка-как-самозанятый)
-- [Заключение](articles/2025/freelancer-gewerbe-guide.md#заключение)
+- [4. ПО для Бухгалтерии](articles/2025/freelancer-gewerbe-guide.md#4-по-для-бухгалтерии)
+- [5. Банки](articles/2025/freelancer-gewerbe-guide.md#5-банки)
+- [6. Страховки](articles/2025/freelancer-gewerbe-guide.md#6-страховки)
+- [7. Работа](articles/2025/freelancer-gewerbe-guide.md#7-работа)
+- [8. Подработка как самозанятый](articles/2025/freelancer-gewerbe-guide.md#8-подработка-как-самозанятый)
+- [9. Заключение](articles/2025/freelancer-gewerbe-guide.md#9-заключение)
 
 ## Repository layout
 - `articles/` — articles and assets
 - `articles/README.md` — article index
 - `articles/assets/<slug>/` — per-article images
-- `freelancer_gewerbe_guide_v0.5.docx` — source draft
-- `freelanceguide.html` — exported guide
+- `sources/` — original sources and exports (for example, `freelancer_gewerbe_guide_v0.5.docx`, `freelanceguide.html`)
 
 ## Writing and publishing
 1. Confirm SSH access to GitHub: `ssh -T git@github.com`.
