@@ -255,7 +255,7 @@ Example: at €80,000 income, you don’t pay 42% on all of it; the effective ra
 
 <https://www.bmf-steuerrechner.de/ekst/eingabeformekst.xhtml>
 
-Пример рассчета:
+Example calculation:
 
 ![](../assets/freelancer-gewerbe-guide/media/image13.png)
 
@@ -399,201 +399,166 @@ You must record every business trip with:
 
 ##### Advantages of the logbook method
 
-- Подходит для тех, кто редко использует автомобиль в личных целях, так как расчет частного использования будет минимальным.
-
-- Если автомобиль старый или уже списан, ведение путевого листа часто выгоднее, чем метод 1%.
+- Good if private use is rare, so taxable private share stays minimal.
+- If the car is old/fully depreciated, logbook is often better than the 1% method.
 
 ##### Disadvantages
 
-- Требуется тщательное и регулярное ведение записей. Любые ошибки или пробелы могут привести к отказу налоговой службы признать этот метод действительным.
-
-- Ведение путевых листов вручную может быть трудоемким, но существуют электронные решения, такие как GPS-устройства и приложения для путевых листов, которые делают этот процесс проще.
+- Requires careful, regular records; gaps can lead the tax office to reject the method.
+- Manual logbooks are tedious; GPS/app solutions can ease the process.
 
 #### 2. 1% method (1-Prozent-Methode)
 
-Этот метод позволяет фрилансеру вычислить частное использование автомобиля на основе **1% от брутто-листовой стоимости автомобиля** (Brutto-Listenpreis) в месяц. Существуют также вариации этого метода для электромобилей, где используется 0,5% или 0,25%.
+This method taxes private use at **1% of the car’s gross list price** per month. For EVs, 0.5% or 0.25% may apply.
 
 ##### Advantages of the 1% method
 
-- Метод прост в использовании и не требует ведения путевых листов.
-
-- Удобен, если автомобиль часто используется в личных целях, или если автомобиль новый и имеет высокую листовую стоимость.
+- Simple; no logbook needed.
+- Convenient if private use is frequent or the car is new/high list price.
 
 ##### Disadvantages
 
-- Если автомобиль старый, этот метод может быть менее выгодным, так как расчет ведется на основе первоначальной стоимости автомобиля, а не его текущей рыночной стоимости.
-
-- Более высокий налог за личное использование, особенно если автомобиль редко используется для личных поездок.
+- For older cars it can be worse, since it uses original list price, not current value.
+- Private-use tax can be high, especially if personal trips are rare.
 
 ##### Example calculation
 
 ##### Example calculation with logbook method
 
-Допустим, общие расходы на автомобиль составили 9 450 евро в год. Вы проехали 24 500 км, из которых 19 500 км были связаны с деловыми поездками, а 5 000 км — это частные поездки.
+Suppose total car costs are €9,450/year. You drove 24,500 km, of which 19,500 km were business and 5,000 km private.
 
-- *9 450 евро \* (5 000 км / 24 500 км) = **1 928 евро** — это сумма, подлежащая налогообложению за частное использование.*
+- *€9,450 × (5,000 km / 24,500 km) = **€1,928** is the taxable amount for private use.*
 
 ##### Example calculation with 1% method
 
-Предположим, брутто-листовая стоимость автомобиля составляет 35 000 евро. По методу 1% ваш частный расход составит:
+If the car’s gross list price is €35,000, the 1% method gives:
 
-*35 000 евро \* 1% \* 12 месяцев = 4 200 евро — это сумма за частное использование автомобиля.*
+*€35,000 × 1% × 12 months = €4,200 as the private-use amount.*
 
 #### 3. Adjustments: commuting to first workplace
 
-Если вы используете автомобиль для поездок на работу (например, из дома в офис), вам необходимо добавить 0,03% от брутто-листовой стоимости за каждый километр пути. Например, при расстоянии в 10 км и стоимости автомобиля 35 000 евро, вы добавляете:
+If you commute (home ↔ first workplace), add 0.03% of list price per km. Example: 10 km commute, €35,000 car:
 
-- *0,03% \* 10 км \* 12 месяцев = **1 260 евро**.*
+- *0.03% × 10 km × 12 months = **€1,260**.*
 
-Эта сумма добавляется к частным расходам, но вы также можете списать компенсацию за поездки на работу (Pendlerpauschale) по 0,30 евро за километр.
+This is added to private-use taxation, but you can also deduct the commuter allowance (Pendlerpauschale) at €0.30/km.
 
 #### 4. Tax benefits for EVs
 
-Для электромобилей и гибридов действуют различные налоговые льготы. Например, для автомобилей, приобретенных с 2019 года, можно использовать **0,25% от брутто-листовой стоимости**, если автомобиль имеет нулевые выбросы CO2 и его цена не превышает 60 000 евро.
+EVs and hybrids have special relief. For cars bought from 2019, you can use **0.25% of list price** if CO2 is zero and price ≤ €60,000.
 
 #### EV calculation example
 
-Предположим, ваш электромобиль стоит 52 000 евро и был приобретен в 2020 году. Используя 0,25% метод, ваши частные расходы составят:
+Example: EV list price €52,000 bought in 2020. At 0.25%:
 
-- *(52 000 евро \* 0,25%) \* 12 месяцев = **1 560 евро**.*
+- *(€52,000 × 0.25%) × 12 months = **€1,560**.*
 
 #### Conclusion: choosing between logbook and 1% methods
 
-- **Ведение путевого листа** выгодно, если у вас мало частных поездок или автомобиль старый.
+- **Logbook** is better if private trips are few or the car is older.
+- **1% method** is convenient if private use is frequent or the car is new/pricey.
 
-- **Метод 1%** удобен для тех, кто часто использует автомобиль для личных нужд или если автомобиль новый с высокой листовой стоимостью.
-
-Каждая ситуация индивидуальна, и выбор метода зависит от множества факторов. Рекомендуется проконсультироваться с бухгалтером или налоговым консультантом, чтобы выбрать наиболее выгодный вариант и не ошибить в рассчетах.
+Every situation is different; consult a tax advisor to pick the optimal approach and calculate correctly.
 
 ### Personal car used for work
 
-Фрилансеры в Германии могут использовать личные автомобили для рабочих нужд и при этом списывать связанные с этим расходы с налогов. Это может значительно снизить налоговые обязательства, если правильно учесть все нюансы. В этой статье мы рассмотрим, как фрилансеру грамотно использовать личный автомобиль для работы и какие налоговые льготы можно при этом получить.
+Freelancers can use a personal car for work and deduct related costs, which can materially reduce taxes if handled correctly. Here’s how to use a personal car for business and claim the available tax relief.
 
 #### 1. Legal basis for deductions
 
-Когда фрилансер использует личный автомобиль для выполнения рабочих задач, такие поездки могут быть признаны профессиональными, и связанные с ними расходы можно учесть как затраты на ведение бизнеса. Однако важно разделить рабочие и личные поездки, так как налоговые органы требуют точного учета. В случае неправильного учета фрилансеру могут отказать в списании части расходов.
+When a freelancer uses a personal car for work tasks, those trips can be treated as business, and related costs are deductible. You must separate business vs personal trips with accurate records; poor tracking can lead to denied deductions.
 
 #### 2. How to split personal vs business use
 
-Чтобы разделить рабочие и личные поездки, необходимо вести журнал поездок (Fahrtenbuch). Это обязательное требование, если вы планируете списывать фактические расходы. В журнале должны фиксироваться следующие данные:
+Maintain a logbook (Fahrtenbuch) to track business vs personal trips—required if you deduct actual costs. Record:
 
-- Дата поездки
+- Date of trip
+- Purpose
+- Destination
+- Distance (km)
+- Time in transit
 
-- Цель поездки
-
-- Место назначения
-
-- Пройденное расстояние (в километрах)
-
-- Время в пути
-
-Этот журнал служит доказательством доли служебного использования автомобиля и используется для расчета пропорциональной части расходов, которую можно списать с налогов.
+The logbook proves the business-use percentage and drives the deductible share of costs.
 
 #### 3. Expense tracking methods
 
-Есть два основных метода для списания расходов на автомобиль:
+Two main methods to deduct car costs:
 
-1.  **Фактические расходы.** Этот метод требует, чтобы вы фиксировали все реальные затраты на автомобиль, которые связаны с его эксплуатацией: топливо, техническое обслуживание, страхование, налог на транспортное средство, амортизацию, и даже парковку. Затем эти расходы делятся пропорционально между личным и рабочим использованием на основании журнала поездок. Это наиболее выгодный вариант, если вы часто используете автомобиль для работы.
-
-2.  **Фиксированная ставка на километр.** Если вам сложно вести учет всех расходов, можно воспользоваться упрощенным методом — списывать 30 центов за каждый километр, проезжаемый в рабочих целях. Для этого также потребуется вести журнал поездок, но учет отдельных затрат на автомобиль не обязателен.
+1. **Actual expenses.** Track all real costs: fuel, maintenance, insurance, vehicle tax, depreciation, parking, etc., then apportion by business-use share from your logbook. Best if you drive a lot for work.
+2. **Per-kilometer flat rate.** Simpler: deduct €0.30 per business km. Still keep a logbook, but you don’t track individual car costs.
 
 #### 4. Registering the car to the business
 
-Если автомобиль зарегистрирован на компанию, все расходы на его эксплуатацию, включая покупку, страхование и техобслуживание, можно учесть как корпоративные затраты. Однако важно понимать, что автомобиль становится активом компании, что накладывает определенные обязательства. Например, вам придется учитывать амортизацию автомобиля и правильно рассчитывать его использование для личных нужд.
-
-Кроме того, если вы используете автомобиль как для бизнеса, так и для личных целей, налоговые органы могут рассматривать использование автомобиля для личных нужд как дополнительное вознаграждение, которое также подлежит налогообложению.
+If the car is registered to the business, all costs (purchase, insurance, maintenance) are business expenses. The car becomes a business asset, so you must depreciate it and correctly handle private use as taxable benefit.
 
 #### 5. Depreciation
 
-Амортизация автомобиля — это процесс постепенного списания его стоимости в течение нескольких лет. В зависимости от стоимости автомобиля и предполагаемого срока его эксплуатации, фрилансер может списывать часть стоимости ежегодно. Этот метод особенно полезен, если вы купили автомобиль специально для бизнеса или используете его преимущественно в рабочих целях.
+Depreciation writes off the car’s cost over several years. You deduct a portion annually, helpful when the car is mainly used for business.
 
 #### Example calculation
 
-Допустим, фрилансер использует личный автомобиль, который эксплуатируется как для личных, так и для рабочих целей. Фрилансер ведет журнал поездок и определяет, что 60% пробега автомобиля связано с рабочими поездками. Рассмотрим два сценария — расчет по фактическим расходам и по фиксированной ставке за километр.
+Example: a freelancer’s personal car is 60% business use per the logbook.
 
-- Общие расходы на автомобиль за год:
+- Annual costs:
+  - Fuel: €1,500
+  - Insurance: €600
+  - Maintenance: €300
+  - Other: €200
+  - Total: €2,600
 
-  - Топливо: 1500 евро
+- **Actual-expense method:** 60% business → *€2,600 × 0.60 = €1,560* deductible.
 
-  - Страхование: 600 евро
+- **Per-km flat rate:** 8,000 business km × €0.30 = *€2,400* deductible.
 
-  - Техническое обслуживание: 300 евро
-
-  - Прочие расходы: 200 евро
-
-  - Всего: 2600 евро
-
-- **Метод фактических расходов:**  
-  Из общих расходов 60% связано с рабочими поездками, значит, можно списать:  
-  *2600×0,60=1560 евро*
-
-- **Метод фиксированной ставки:  **
-  Фрилансер проехал за год 8000 км в рабочих целях. С учетом фиксированной ставки 30 центов за километр:  
-  *8000×0,30=2400 евро*
-
-Как видно из примера, метод фиксированной ставки позволяет списать больше средств, но в зависимости от ситуации с фактическими расходами, этот метод может не всегда быть выгоден. Фрилансеру стоит проанализировать свои затраты и выбрать наиболее подходящий вариант.
+Here the flat rate yields a higher deduction, but run your numbers—actual costs can be better depending on usage and expenses.
 
 ### Kinderfreibetrag: tax relief for parents
 
-Воспитание детей — это не только радость, но и существенные финансовые затраты. Чтобы поддержать родителей, государство предоставляет налоговые вычеты, одним из которых является **Kinderfreibetrag** — вычет на ребенка, предусмотренный в соответствии с § 32 Einkommensteuergesetz (EStG). Этот вычет уменьшает налогооблагаемую базу, что приводит к снижению налоговой нагрузки для родителей.
+Raising children is rewarding and expensive. Germany provides tax relief via **Kinderfreibetrag** (§ 32 EStG), a child allowance that reduces taxable income and lowers parents’ tax burden.
 
 #### Key points about Kinderfreibetrag
 
-1.  Размер Kinderfreibetrag:
+1. Allowance amounts:
+   - 2023: **€8,952** per child.
+   - 2024: **€9,540** per child.
+   - 2025: **€9,600** per child.
+   Components: **Freibetrag für das Existenzminimum des Kindes** (basic needs) and **Freibetrag für den Betreuungs-, Erziehungs- und Ausbildungsbedarf** (care/education).
 
-    - В 2023 году вычет составляет **8 952 евро** на ребенка.
+2. Who can claim:
+   - Available to taxpayers in **classes I–IV**.
+   - **Co-living parents** file jointly and get the full amount.
+   - **Separated parents** can split 50/50.
 
-    - В 2024 году сумма увеличивается до **9 540 евро** на ребенка.
+3. Kinderfreibetrag vs **Kindergeld**: You don’t get both. The tax office runs a **Günstigerprüfung** to choose the better option. The allowance usually wins when income is above about **€64,000** (couples) or **€32,000** (single parents).
 
-    - В 2025 году сумма увеличивается до **9 600 евро** на ребенка.
-
-Этот вычет включает в себя два компонента: **Freibetrag für das Existenzminimum des Kindes** (вычет на обеспечение минимальных потребностей ребенка) и **Freibetrag für den Betreuungs-, Erziehungs- und Ausbildungsbedarf** (вычет на уход, воспитание и образование).
-
-2.  Для кого доступен Kinderfreibetrag:
-
-    - Kinderfreibetrag предоставляется только налогоплательщикам, находящимся в **налоговых классах I-IV**.
-
-    - **Совместно проживающие родители** подают заявление на вычет вместе и получают полную сумму.
-
-    - **Раздельно проживающие родители** могут разделить Kinderfreibetrag пополам, каждый из них получает 50% от общей суммы.
-
-3.  **Выбор между Kinderfreibetrag и Kindergeld**: Важно помнить, что родители могут выбрать либо **Kindergeld** (ежемесячные выплаты на ребенка), либо **Kinderfreibetrag**. Использовать одновременно оба варианта нельзя. Решение о том, что выгоднее для родителей, принимает налоговая служба на основе так называемой **Günstigerprüfung** (проверка, что более выгодно). Как правило, вычет на ребенка становится более выгодным, если годовой доход превышает **64 000 евро** для семейных пар или **32 000 евро** для одиноких родителей.
-
-4.  **Как получить Kinderfreibetrag**: Чтобы воспользоваться Kinderfreibetrag, его необходимо указать при подаче налоговой декларации. Налоговая служба проведет расчет и сообщит в налоговом уведомлении (Steuerbescheid), что оказалось более выгодным: Kinderfreibetrag или Kindergeld.
+4. How to claim: Include it in your tax return; the tax office will state in the Steuerbescheid whether Kinderfreibetrag or Kindergeld was more advantageous.
 
 #### Additional deduction: Ausbildungsfreibetrag
 
-Если ваш ребенок старше и находится на обучении или в университете, вы можете также получить **Ausbildungsfreibetrag**. Этот вычет предназначен для покрытия расходов, связанных с обучением детей.
-
-- До 2022 года Ausbildungsfreibetrag составлял **924 евро** в год.
-
-- С 2023 года сумма увеличилась до **1 200 евро** в год.
-
-Этот вычет предоставляется в дополнение к Kinderfreibetrag, если у вас все еще есть право на получение Kindergeld на ребенка, который находится в процессе обучения.
+If your child is older and studying, you can also claim **Ausbildungsfreibetrag** to cover education costs.
+- Until 2022: **€924** per year.
+- From 2023: **€1,200** per year.
+This is in addition to Kinderfreibetrag if you still receive Kindergeld for the studying child.
 
 #### Example of using Kinderfreibetrag
 
-Предположим, у вас один ребенок, и вы решили воспользоваться Kinderfreibetrag в 2024 году:
-
-1.  **Размер вычета**: 9 540\* евро будет вычтено из вашей налогооблагаемой базы.
-
-2.  **Снижение налога**: Если вы платите налог по ставке 30%, это снизит вашу налоговую нагрузку на **примерно 2 862 евро** (30% от 9 540 евро).
-
-**\*2025 Год**: 9 600 евро
-
-Если ваш доход превышает порог для Kindergeld, Kinderfreibetrag может предоставить вам значительное налоговое преимущество.
+Example: one child, you claim Kinderfreibetrag in 2024:
+1. Deduction: €9,540* from taxable income.
+2. Tax reduction: at 30% ≈ **€2,862** (30% of €9,540).
+*\*2025:* €9,600.
+If your income exceeds the Kindergeld threshold, Kinderfreibetrag can be a significant benefit.
 
 ------------------------------------------------------------------------
 
 ### How to track expenses and keep receipts?
 
-Для того чтобы все эти расходы были приняты налоговыми органами, необходимо правильно документировать их. Каждую покупку или оплату услуг следует сопровождать чеком или счетом, где должны быть указаны дата, сумма, описание покупки и название компании-продавца. Все документы нужно хранить в течение 10 лет, чтобы в случае налоговой проверки иметь доказательства.
+For expenses to be accepted, document them properly. Every purchase or service should have a receipt/invoice showing date, amount, description, and seller. Keep all documents for 10 years in case of audit.
 
 ------------------------------------------------------------------------
 
 ### Simplified deductions (flat rates)
 
-Некоторые расходы можно списывать без предоставления чеков и документов, если используется система паушальных вычетов. Например, паушальная ставка на использование домашнего офиса составляет 6 евро за каждый рабочий день, проведенный дома, но не более 1260 евро в год ( на 2024 год). Существуют и другие паушальные ставки, например, на небольшие расходы на офисные принадлежности.
+Some expenses can be claimed via flat rates without receipts. Example: home-office flat rate of €6 per home-work day, capped at €1,260/year (2024). Other flat rates exist for small office supplies, etc.
 
 ### Applying Kleinunternehmerregelung
 
@@ -602,70 +567,55 @@ You must record every business trip with:
 #### Turnover includes all business income; if you exceed €25,000 notify the tax office and start charging VAT.
 
 #### For more details see the BMF or a tax advisor. Asset depreciation.
-
-Фрилансеры могут учитывать амортизацию крупных приобретений (например, компьютеров, офисной мебели, оборудования) в течение нескольких лет. Это позволяет равномерно распределить налоговые вычеты на несколько налоговых периодов.
+Freelancers can depreciate large purchases (computers, office furniture, equipment) over several years to spread deductions across tax periods.
 
 ### Applying the Europäische Kleinunternehmerregelung from 2025
 
-С 1 января 2025 года в рамках Европейского Союза вступает в силу новое правило для малых предпринимателей, известное как Europäische Kleinunternehmerregelung. Это правило направлено на упрощение налогового администрирования для малого бизнеса и индивидуальных предпринимателей, а также на унификацию требований по НДС в разных странах ЕС. В этой статье мы подробно рассмотрим, как новое правило будет работать, кто сможет им воспользоваться и какие преимущества оно принесет.
+From 1 Jan 2025, the EU introduces the **Europäische Kleinunternehmerregelung** to simplify VAT for small businesses and harmonize thresholds across the EU.
 
 #### What is the new rule
 
-Europäische Kleinunternehmerregelung предоставляет возможность малым предпринимателям с годовым оборотом до €85,000 не платить налог на добавленную стоимость (НДС) в рамках ЕС. Это правило заменяет национальные пороги оборота, которые существовали до сих пор в каждой стране.
+Small businesses with annual turnover up to €85,000 can be exempt from VAT EU-wide. This replaces national turnover thresholds.
 
-Суть нового подхода:
-
-- Если годовой оборот предпринимателя не превышает €85,000, он может быть освобожден от уплаты НДС.
-
-- Освобождение распространяется на весь внутренний рынок ЕС, что устраняет необходимость регистрации НДС в других странах при продаже товаров или услуг за границу.
-
-- Для сохранения статуса малого предпринимателя требуется соответствие новым критериям каждый календарный год.
+Key points:
+- If turnover ≤ €85,000, you may be exempt from VAT.
+- Exemption applies across the EU internal market, avoiding extra VAT registrations abroad.
+- You must meet the criteria each calendar year to retain the status.
 
 #### Who qualifies?
 
-Новое правило распространяется на малые предприятия и индивидуальных предпринимателей, зарегистрированных в одной из стран ЕС, которые соответствуют следующим критериям:
-
-1.  **Годовой оборот до €85,000**. Этот лимит включает все доходы от продажи товаров и услуг как внутри страны, так и за ее пределами.
-
-2.  **Место основной деятельности**. Предприниматель должен иметь основное место деятельности в одной из стран ЕС.
-
-3.  **Добровольное использование**. Новое правило не является обязательным. Предприниматели, которым выгодно оставаться в системе НДС, могут продолжать работать по старым правилам.
+Applies to small businesses/sole traders in an EU country who meet:
+1. **Turnover up to €85,000** including all sales, domestic and cross-border.
+2. **Main place of business** in an EU country.
+3. **Optional use.** You can stay in normal VAT if that’s better.
 
 #### Benefits
 
-1.  **Снижение административной нагрузки**: не нужно подавать декларации по НДС, регистрироваться в других странах ЕС и соблюдать сложные правила трансграничной торговли.
-
-2.  **Упрощение учета**: меньше бумажной работы и отчетности.
-
-3.  **Снижение затрат**: отсутствие обязательства платить НДС позволяет предпринимателям предлагать более конкурентные цены.
+1. **Lower admin:** no VAT returns, no extra VAT registrations abroad for cross-border sales.
+2. **Simpler bookkeeping:** less paperwork/reporting.
+3. **Lower prices possible:** no VAT obligation can improve competitiveness.
 
 #### Limitations and exclusions
 
-Несмотря на многочисленные преимущества, существуют некоторые ограничения, о которых необходимо знать:
-
-- Если оборот превысит €85,000 в течение года, предприниматель автоматически теряет право на освобождение от НДС и должен зарегистрироваться как плательщик НДС.
-
-- Освобождение не распространяется на импорт товаров из стран вне ЕС.
-
-- Некоторые виды деятельности, такие как продажа акцизных товаров (например, алкоголь и табак), исключены из данного правила.
+Caveats:
+- If turnover exceeds €85,000 during the year, you lose the exemption and must register for VAT.
+- Exemption doesn’t cover imports from non-EU countries.
+- Some activities (e.g., excise goods like alcohol/tobacco) are excluded.
 
 #### How to apply
 
-Для того чтобы воспользоваться новым правилом, предпринимателю необходимо:
-
-1.  Зарегистрироваться в налоговых органах своей страны и подать заявление о применении Europäische Kleinunternehmerregelung.
-
-2.  Убедиться, что годовой оборот не превышает установленный лимит.
-
-3.  Вести учет доходов для подтверждения права на освобождение от НДС.
+Steps:
+1. Register with your national tax office and apply for the Europäische Kleinunternehmerregelung.
+2. Ensure annual turnover stays under the limit.
+3. Track income to prove eligibility.
 
 #### Limitations and risks
 
-Важно помнить, что налоговая служба внимательно следит за всеми попытками незаконного снижения налоговой базы. Попытки скрыть доходы или преувеличить расходы могут привести к штрафам и дополнительным налоговым проверкам. Поэтому при оптимизации налогов лучше обратиться за консультацией к профессиональному налоговому консультанту
+Tax offices watch for abuse; hiding income or inflating expenses can trigger fines and audits. Consult a tax pro for safe optimization.
 
 ### Tax calculator
 
-В дополнение к теории ссылка на **калькулятор налогов**:
+Handy **tax calculators**:
 
 [<u>https://www.bmf-steuerrechner.de/ekst/eingabeformekst.xhtml</u>](https://www.bmf-steuerrechner.de/ekst/eingabeformekst.xhtml)
 
@@ -673,205 +623,135 @@ Europäische Kleinunternehmerregelung предоставляет возможн�
 
 ### Tax advisor
 
-Ведение налоговых дел в Германии может оказаться сложной задачей для большинства людей, особенно если речь идет о частных предпринимателях, фрилансерах или владельцах бизнеса. Именно здесь на помощь приходит налоговый консультант (Steuerberater). В этой статье мы рассмотрим, почему важно обращаться к специалистам, в каких ситуациях это необходимо, как правильно выбрать специалиста, а также поделимся полезными ресурсами для поиска налогового консультанта в Германии. Не обязательно искать русско/англоязычного консультанта посколько в основном общение происходит в письменной форме и все ваши запросы вы сможете спокойно и не спеша перевести через Deepl / ChatGPT
+Handling taxes in Germany can be complex—especially for freelancers and business owners. A Steuerberater helps. Below: why, when, how to choose, and resources. You don’t need a Russian/English speaker; most communication is written and can be translated (DeepL/ChatGPT).
 
 #### 1. What a tax advisor does
 
-Налоговый консультант — это лицензированный специалист, который помогает частным лицам и компаниям разбираться с налоговыми вопросами. В Германии налоговые консультанты обязаны быть членами налоговой палаты (Steuerberaterkammer) и проходить строгую профессиональную сертификацию.
-
-Услуги налогового консультанта могут включать:
-
-- Составление и подача налоговых деклараций (как для физических лиц, так и для компаний);
-
-- Консультирование по вопросам налогового планирования и оптимизации;
-
-- Составление бухгалтерских отчетов для компаний;
-
-- Поддержка в налоговых спорах и разбирательствах;
-
-- Сопровождение во время налоговых проверок (Betriebsprüfung);
-
-- Помощь в налоговом учете для самозанятых лиц, фрилансеров и малых бизнесов.
+A Steuerberater is licensed, belongs to the Steuerberaterkammer, and is certified. Services include:
+- Preparing and filing tax returns (individuals and companies)
+- Tax planning/optimization advice
+- Preparing company financial statements
+- Support in tax disputes/audits (Betriebsprüfung)
+- Help with bookkeeping for self-employed/freelancers/small businesses
 
 #### 2. When to hire a tax advisor
 
-Некоторым категориям граждан стоит особенно серьезно рассмотреть возможность сотрудничества с налоговым консультантом. Вот несколько случаев, когда помощь налогового консультанта может быть необходима:
-
-- **Фрилансеры и частные предприниматели:** Работа на себя подразумевает необходимость самостоятельного учета всех доходов и расходов, а также регулярную подачу налоговых отчетов. Даже небольшая ошибка может привести к штрафам. Налоговый консультант поможет организовать бухгалтерию, учесть все налоговые льготы и избежать ошибок при заполнении налоговой декларации.
-
-- **Владельцы бизнеса:** Ведение бухгалтерии и налоговой отчетности для компаний является сложной и ответственной задачей. Налоговый консультант поможет избежать ошибок, оптимизировать налоги и убедиться, что все финансовые операции соответствуют законодательству.
-
-- **Работа с инвестициями или доходами за рубежом:** Если у вас есть доходы из других стран или вы инвестируете в международные проекты, налоговая ситуация становится сложнее. Консультант поможет правильно декларировать такие доходы, учесть особенности международного налогообложения и избежать двойного налогообложения.
-
-- **Продажа недвижимости или сдача ее в аренду:** В этих случаях возможны различные налоговые льготы и исключения, которыми можно воспользоваться, но только при грамотном подходе. Налоговый консультант подскажет, как правильно учесть доходы от аренды или продажи недвижимости, чтобы минимизировать налоговые обязательства.
-
-- **Налоговая проверка:** Если вас ожидает проверка налоговых органов, консультация профессионала может значительно облегчить процесс и защитить ваши интересы. Налоговый консультант подготовит все необходимые документы, разъяснит налоговым органам спорные моменты и поможет минимизировать возможные риски и штрафы.
+Consider hiring when:
+- **Freelancers/sole proprietors:** Need organized books, correct filings, and full use of allowances; avoid fines from mistakes.
+- **Business owners:** Company accounting/reporting is complex; a pro prevents errors and optimizes taxes.
+- **Foreign income/investments:** Cross-border taxation is complex; avoid double taxation with expert help.
+- **Property sales/rentals:** There are allowances/exemptions; a pro can minimize tax.
+- **Facing an audit:** A pro prepares documents, explains issues to authorities, and mitigates risk.
 
 ### When you can skip a tax advisor
 
-Несмотря на все преимущества работы с налоговым консультантом, есть ситуации, когда можно справиться самостоятельно и сэкономить на его услугах:
-
-- **Низкий или нерегулярный доход:** Если ваш доход от фриланса невелик (например, менее 20 000 евро в год) или нерегулярен, и ваша налоговая ситуация достаточно проста, можно обойтись без налогового консультанта. В этом случае расходы на услуги профессионала могут быть несоразмерно высоки по сравнению с потенциальной экономией на налогах. Для самостоятельной подачи декларации можно использовать онлайн-сервисы и бесплатные программы, которые помогут учесть основные доходы и расходы.
-
-- **Стандартные налоговые вычеты:** Если вы претендуете только на стандартные налоговые вычеты (например, транспортные расходы, рабочие инструменты, стандартные страховки), то вам, вероятно, не потребуется профессиональная помощь для подачи декларации. Стандартные вычеты легко указываются в декларации и не требуют сложных расчетов.
-
-- **Использование налогового программного обеспечения:** Сегодня существует множество программ для подготовки и подачи налоговых деклараций, которые могут быть полезны для частных лиц с несложной налоговой ситуацией. Такие программы обычно предлагают пошаговые инструкции, которые упрощают процесс и позволяют избежать ошибок.
-
-- **Опыт самостоятельной подачи декларации:** Если у вас уже есть опыт самостоятельной подачи налоговой декларации и ваша финансовая ситуация не изменилась, возможно, вы справитесь без помощи консультанта. Со временем многие люди приобретают достаточно знаний, чтобы обрабатывать свои налоговые дела самостоятельно.
+You might go solo if:
+- **Low/irregular income:** Simple situation (e.g., <€20k freelance income) may not justify fees; use online tools.
+- **Standard deductions only:** Transport, tools, standard insurance—easy to DIY.
+- **Tax software:** Many tools give step-by-step guidance for simple cases.
+- **Prior DIY experience:** If your situation is unchanged and you’ve filed yourself before, you may continue without a pro.
 
 ### When to consider a tax advisor based on income
 
-Уровень дохода напрямую влияет на сложность вашей налоговой ситуации и, следовательно, на необходимость в услугах налогового консультанта:
-
-- **Доход до 20 000 евро в год:** При таком уровне дохода налоговая ситуация обычно остается достаточно простой. В большинстве случаев, если у вас нет дополнительных сложных источников дохода (например, зарубежных инвестиций или сдачи в аренду недвижимости), вы сможете самостоятельно справиться с налоговой декларацией, используя доступные онлайн-инструменты и программы.
-
-- **Доход от 20 000 до 50 000 евро в год:** При увеличении дохода налоговая ситуация становится более сложной. Здесь могут возникнуть вопросы по оптимизации налогов, учету предпринимательских расходов и использованию налоговых льгот. Если ваш доход растет, стоит рассмотреть возможность хотя бы однократной консультации с налоговым консультантом. Он поможет правильно организовать бухгалтерию и укажет на основные налоговые возможности и риски.
-
-- **Доход свыше 50 000 евро в год:** При доходе выше этой отметки, особенно если вы работаете с несколькими клиентами или ведете крупные проекты, услуги налогового консультанта становятся практически необходимыми. В этом случае профессионал поможет оптимизировать налоги, учесть все возможные расходы, избежать ошибок, которые могут привести к серьезным штрафам, и обеспечить грамотное финансовое планирование.
+Income level affects complexity and the need for a tax advisor:
+- **Up to €20,000/year:** Usually simple; if no complex income (foreign investments, rentals), you can DIY with online tools.
+- **€20,000–€50,000/year:** Complexity rises; consider at least a one-time consult to set up books, spot tax opportunities/risks.
+- **Over €50,000/year:** With multiple clients or big projects, a tax advisor is almost essential to optimize, include all expenses, avoid costly errors, and plan financially.
 
 - 
 
 #### 3. How much a tax advisor costs
 
-В Германии стоимость услуг налогового консультанта регулируется законодательством о гонорарах (StBVV — Steuerberatervergütungsverordnung). Размер платы зависит от нескольких факторов:
-
-- **Сложность и объем работы:** Чем сложнее задача, тем выше будет стоимость.
-
-- **Ваш доход:** Чем выше ваш доход или обороты бизнеса, тем больше времени консультант потратит на вашу налоговую отчетность.
-
-Примерные расценки для частных лиц варьируются от **150 до 500 евро** за составление налоговой декларации. Для предпринимателей или владельцев малого бизнеса сумма может значительно увеличиться в зависимости от сложности бухгалтерии.
+Fees are governed by StBVV. Cost factors:
+- **Complexity/volume:** Harder work costs more.
+- **Your income:** Higher income/turnover means more prep time.
+Indicative range for individuals: **€150–€500** for a tax return. For freelancers/business owners, costs can be higher depending on bookkeeping complexity.
 
 #### 4. How to choose a tax advisor
 
-Помните, что первичная консультация (Erstberatung) у налогового консультанта часто бывает платной, уточняйте этот момент заранее. Также стоимость услуг может варьироваться, поэтому рекомендуется запросить предложения от нескольких специалистов.
-
-Вот несколько советов по выбору налогового консультанта:
-
-1.  **Проверьте лицензии и членство в налоговой палате.** Каждый квалифицированный налоговый консультант должен быть зарегистрирован в налоговой палате Германии (Steuerberaterkammer). Это гарантирует, что он обладает необходимыми знаниями и проходит регулярное повышение квалификации.
-
-2.  **Изучите отзывы и рекомендации.** Важным критерием может стать репутация консультанта среди других клиентов. Если у вас есть знакомые, которые пользовались услугами налогового консультанта, спросите их мнение.
-
-3.  **Учитывайте специализацию.** Некоторые налоговые консультанты специализируются на работе с частными лицами, другие — на малом бизнесе или компаниях. Если вы фрилансер или владелец компании, выбирайте консультанта, который имеет опыт работы с такими клиентами.
-
-4.  **Оцените доступность.** Важно, чтобы налоговый консультант был готов ответить на ваши вопросы вовремя, особенно в случае налоговых проверок или при необходимости срочной подачи документов.
+First consultations (Erstberatung) are often paid—ask upfront. Get quotes from several advisors. Tips:
+1. **Check license & chamber membership (Steuerberaterkammer).**
+2. **Reviews/referrals:** reputation from other clients.
+3. **Specialization:** pick one with freelancer/small-business experience if that’s you.
+4. **Availability:** responsive for questions, audits, or urgent filings.
 
 ### Where to find a tax advisor
 
-Ниже представлены несколько полезных ресурсов, где можно найти налогового консультанта в Германии:
+Resources to find a Steuerberater in Germany:
 
-1.  [**<u>Steuerberater.de  
-    </u>**](https://www.steuerberater.de)Это один из крупнейших каталогов налоговых консультантов в Германии. Платформа позволяет фильтровать консультантов по местоположению и специализации.
+1. [**<u>Steuerberater.de</u>**](https://www.steuerberater.de) — large directory; filter by location/specialty.
 
-2.  [**<u>Steuerberater Verzeichnis  
-    </u>**](https://www.steuerberater-verzeichnis.com)Данный сайт предоставляет базу данных сертифицированных налоговых консультантов, где можно искать специалистов по городу или региону.
+2. [**<u>Steuerberater Verzeichnis</u>**](https://www.steuerberater-verzeichnis.com) — database of certified advisors searchable by city/region.
 
-3.  [**<u>DATEV eG  
-    </u>**](https://www.datev.com)Ассоциация DATEV — это сеть профессионалов в области бухгалтерии и налогов. Они предлагают поиск квалифицированных налоговых консультантов, работающих с использованием современных технологий учета.
+3. [**<u>DATEV eG</u>**](https://www.datev.com) — accounting/tax professional network; find advisors using modern tooling.
 
-4.  [**<u>Wirtschaftsprüferkammer  
-    </u>**](https://www.wpk.de)Палата аудиторов Германии (Wirtschaftsprüferkammer) также имеет реестр налоговых консультантов, особенно для сложных случаев, связанных с бизнесом или международными операциями.
+4. [**<u>Wirtschaftsprüferkammer</u>**](https://www.wpk.de) — auditors’ chamber registry, useful for complex/business/international cases.
 
-5.  [**<u>MeineStadt.de  
-    </u>**](https://www.meinestadt.de)Портал для поиска различных специалистов, в том числе налоговых консультантов, в конкретных городах и регионах Германии.
+5. [**<u>MeineStadt.de</u>**](https://www.meinestadt.de) — portal to search specialists, including tax advisors, by city/region.
 
 #### Conclusion
 
-Налоговое законодательство в Германии довольно сложное, особенно для тех, кто ведет бизнес или работает фрилансером. Решение об обращении к налоговому консультанту зависит от уровня вашего дохода и сложности вашей налоговой ситуации. При небольших доходах можно справиться самостоятельно, однако по мере их роста и усложнения финансовой ситуации становится целесообразным обратиться к профессионалу. Это поможет не только сэкономить время, но и избежать ошибок, а также возможных проблем с налоговыми органами.
-
-Налоговый консультант — это не просто помощник в подаче деклараций, а надежный партнер, который помогает оптимизировать налоги и уверенно чувствовать себя в общении с налоговыми органами. Используя перечисленные выше ресурсы, вы сможете найти специалиста, который подойдет именно вам и поможет справиться с любыми налоговыми сложностями.
+German tax law is complex, especially for freelancers and business owners. DIY may work at low income, but as things grow more complex a pro saves time and avoids mistakes. A Steuerberater is a partner for optimization and dealing with the tax office. Use the resources above to find one suited to you.
 
 ## 3. Accounting and invoices
 
-Фрилансеры в Германии могут использовать упрощенную систему учета — **Einnahmen-Überschuss-Rechnung (EÜR)**, что переводится как "расчет доходов и расходов". Эта система предназначена для малых предпринимателей, чей годовой оборот не превышает 800 000 евро, и она проще по сравнению с двойной бухгалтерией.
+Freelancers can use the simplified **Einnahmen-Überschuss-Rechnung (EÜR)** cash-basis system, aimed at small businesses with turnover up to €800,000; it is simpler than double-entry bookkeeping.
 
 ### EÜR essentials
 
-1.  **Доходы**: Все деньги, которые поступают на ваш счет или наличными, должны быть зафиксированы в учете.
+1. **Income:** Record all money received (bank or cash).
 
-2.  **Расходы**: Все профессиональные расходы, включая аренду офиса, транспорт, маркетинг, технику и прочие расходы, также фиксируются в учете.
+2. **Expenses:** Record all business costs (office rent, transport, marketing, equipment, etc.).
 
-3.  **Вычет НДС**: Если вы зарегистрированы как плательщик НДС (Umsatzsteuer), вы можете вычитать НДС с покупок, связанных с вашей профессиональной деятельностью.
+3. **VAT deduction:** If VAT-registered, reclaim VAT on business purchases.
 
-4.  **Окончательная прибыль**: Окончательная прибыль рассчитывается как разница между доходами и расходами. Именно эта сумма облагается подоходным налогом.
+4. **Final profit:** Income minus expenses; that profit is taxed.
 
-EÜR можно подать в электронном виде через портал ELSTER, который используется для всех налоговых операций в Германии. А также можно через Getsorted или другое бухгалтерское ПО.
+Submit EÜR electronically via ELSTER (or Getsorted/other accounting software).
 
 ### How EÜR works
 
-В EÜR доходы и расходы распределяются по принципу фактического поступления или расходования средств. Это называется **Zu- und Abflussprinzip**:
-
-- Доход учитывается в тот момент, когда деньги поступают на счет (например, при платеже по карте или при банковском переводе).
-
-- Расход фиксируется в момент, когда деньги фактически списаны со счета.
-
-Отличительной особенностью EÜR является отсутствие необходимости использования таких сложных бухгалтерских механизмов, как **амортизационные начисления** или **резервы**, которые необходимы в системе двойной бухгалтерии.
+EÜR uses the **Zu- und Abflussprinzip** (cash principle): income is recognized when cash is received, expenses when cash leaves. No need for accruals/reserves as in double-entry.
 
 ### Who must file EÜR?
 
-EÜR обязаны подавать следующие категории предпринимателей:
-
-1.  **Малые предприниматели (Kleinunternehmer)**, чей годовой доход не превышает 25 000 евро.
-
-2.  **Фрилансеры**, которые работают в научной, художественной, образовательной или консультационной сфере.
-
-3.  **Индивидуальные предприниматели**, если их годовой оборот не превышает 600 000 евро и 800 000 (после 01.01.2027) и п, а прибыль — 60 000 евро.
+EÜR is required for:
+1. **Kleinunternehmer** with income ≤ €25,000.
+2. **Freelancers** (science, arts, education, consulting, etc.).
+3. **Sole proprietors** if turnover ≤ €600,000 (€800,000 after 01.01.2027) and profit ≤ €60,000.
 
 ### How to create and submit EÜR
 
-Для того чтобы создать и подать EÜR, необходимо зарегистрироваться на портале **ELSTER** — это официальный онлайн-инструмент для подачи налоговых деклараций в Германии. После регистрации на платформе **ELSTER** вы можете заполнить форму EÜR онлайн. Для этого необходимо войти в личный кабинет, выбрать раздел "**Formulare & Leistungen**" и найти форму "**Einnahmenüberschusrechnung (Anlage EÜR)**"
+Register on **ELSTER**, the official online portal for German tax filings. After signup, log in, go to "**Formulare & Leistungen**," and select "**Einnahmenüberschussrechnung (Anlage EÜR)**" to complete the EÜR online.
 
 #### Steps to prepare EÜR
 
 ##### Filling the form
 
-После регистрации на платформе **ELSTER** вы получите доступ к форме EÜR. В этой форме необходимо указать:
+In ELSTER, indicate:
+- **Income:** all earnings from your activity.
+- **Expenses:** all related costs (office rent, equipment, software, etc.).
 
-- **Доходы:** Все доходы, которые вы получили в рамках вашей деятельности.
-
-- **Расходы:** Все расходы, связанные с вашей деятельностью (аренда офиса, оборудование, программное обеспечение и т.д.).
-
-Варианты заполнения:
-
-- **Ручное заполнение:** Непосредственно на сайте ELSTER.
-
-- **Автоматизация:** Использование бухгалтерского программного обеспечения для упрощения процесса и минимизации ошибок. Программы автоматически заполняют и экспортируют данные в ELSTER.
+Ways to fill:
+- **Manual:** directly in ELSTER.
+- **Automated:** use accounting software to prefill/export to ELSTER and reduce errors.
 
 ##### Providing documents
 
-Хотя сами документы (например, счета, чеки, договоры) не нужно прикладывать к декларации, важно следовать следующим правилам:
-
-- **Хранение документов:**  
-  Все подтверждающие документы должны храниться минимум **10 лет** на случай проверки налоговыми органами. Это касается как бумажных, так и цифровых документов.
-
-- 
-
-- Примеры документов для хранения:
-
-  - Счета от клиентов.
-
-  - Расходные накладные.
-
-  - Чеки, подтверждающие покупки.
-
-  - Банковские выписки.
-
-Совет: Используйте облачные решения для хранения документов, чтобы избежать их потери и обеспечить быстрый доступ в случае необходимости.
+You don’t attach receipts/contracts to the filing, but:
+- **Retention:** Keep all supporting documents for at least **10 years** (paper or digital).
+- Examples to keep: client invoices, expense receipts, purchase proofs, bank statements.
+Tip: use cloud storage to avoid loss and ensure quick access.
 
 ### What expenses can EÜR include?
 
-В EÜR можно учесть следующие расходы:
-
-- **Расходы на оборудование** (например, компьютеры, мебель).
-
-- **Транспортные расходы** (проезд к клиентам, доставка товаров).
-
-- Расходы на обучение и повышение квалификации.
-
-- **Расходы на аренду офиса** или домашнего офиса (если он используется для работы).
-
-- **Амортизацию** товаров, которые служат более одного года (например, автомобиль, компьютер).
-
-- Затраты на рекламу и маркетинг.
+EÜR can include:
+- **Equipment costs** (computers, furniture).
+- **Transport costs** (travel to clients, deliveries).
+- Training/education costs.
+- **Office rent** or home office (if used for work).
+- **Depreciation** of assets with >1-year life (car, computer).
+- Advertising/marketing.
 
 ### Accounting software
 
