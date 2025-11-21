@@ -1326,21 +1326,21 @@ Cost: €8–€25/month.
 
 Useful if you need to defend your interests in court—e.g., client payment disputes. Covers legal costs (lawyers, court fees).
 
-Стоимость: 25 – 50 € в месяц.
+Cost: €25–€50/month.
 
 #### 8. Business property insurance (Geschäftsinhaltsversicherung)
 
-Эта страховка защищает имущество вашего бизнеса, например, офисное оборудование или технику, от кражи, пожара или других повреждений. Она особенно актуальна для тех фрилансеров, у которых есть собственные офисные помещения.
+This protects business assets (office gear/equipment) against theft, fire, or damage—important if you have an office.
 
-Стоимость: 5 – 10 € в месяц.
+Cost: €5–€10/month.
 
-Таблица страховок:
+Insurance table:
 
 ![](../assets/freelancer-gewerbe-guide/media/image20.png)
 
 #### 9. Conclusion
 
-Для фрилансеров важно правильно выбрать страховые программы, которые помогут защитить их бизнес и обеспечить финансовую стабильность. Некоторые страховки являются обязательными, такие как медицинская и уходовая страховка, в то время как другие (например, профессиональная ответственность) являются крайне рекомендованными для обеспечения защиты от непредвиденных рисков.
+Choose insurance to protect your business and stability. Some are mandatory (health/care), others (e.g., professional liability) are strongly recommended for unforeseen risks.
 
 ## 7. Work
 
