@@ -1346,71 +1346,52 @@ Choose insurance to protect your business and stability. Some are mandatory (hea
 
 ### Calculating your market rate
 
-Правильный расчет почасовой ставки — это ключевой фактор успешного ведения бизнеса. Важно учитывать все свои расходы, доходы и факторы, которые могут повлиять на вашу работу и заработок. В этой главе мы рассмотрим, как рассчитать вашу ставку, используя предоставленные данные и таблицу-калькулятор. Также добавим информацию о средних ставках по отраслям и учете различных расходов, таких как налоги, праздники, больничные и другие непредвиденные затраты.
+Calculating your hourly rate is key to a successful business. Account for expenses, income, and factors that impact your work/earnings. Here we’ll compute your rate using example data and a calculator table, plus note average industry rates and costs like taxes, holidays, sick days, and other contingencies.
 
 #### Step 1: Define desired income
 
-Первый шаг — определить, сколько вы хотите зарабатывать ежемесячно или ежегодно. В нашем примере фрилансер установил:
-
-- Ежемесячный доход: 5750 евро
-
-- Годовой доход: 69000 евро
-
-Это ваша отправная точка. Однако важно помнить, что это не та сумма, которую вы получите «на руки» — в эту сумму включены все ваши будущие налоги, расходы на социальные взносы и другие обязательные платежи.
+First, set your target monthly/annual income. Example:
+- Monthly: €5,750
+- Annual: €69,000
+This is gross, including future taxes, social charges, and other mandatory costs—not take-home.
 
 #### Step 2: Account for working hours
 
-Далее следует рассчитать, сколько часов в месяц вы планируете работать. Это можно сделать, определив количество рабочих дней в году. В нашем примере:
+Next, estimate working hours by counting workdays per year. Example:
+- Workdays/year: 261
+- **Free days:** 45 (holidays, vacation, training, sick)
 
-- Рабочие дни в году: 261 день
-
-- **Свободные дни:** 45 дней (включая праздники, отпуск, дни на обучение и болезни)
-
-Теперь важно учесть, что не все время будет оплачиваться клиентами. В среднем фрилансеры теряют около 30% времени на непродуктивные задачи, такие как поиск клиентов, бухгалтерия, обучение и другие административные задачи. Поэтому:
-
-- Не оплачиваемое время: 30%
+Not all time is billable; freelancers often lose ~30% to non-billable work (sales, admin, learning). So:
+- Non-billable time: 30%
 
 #### Step 3: Calculate billable hours
 
-Чтобы получить количество оплачиваемых часов в месяц, необходимо учесть вышеупомянутые параметры. В нашем примере:
+Compute billable hours:
+- Total working hours/year: 261 × 8 = 2,088
+- Non-billable 30%: 2,088 × 30% = 626.4
+- **Billable/year:** 2,088 – 626.4 = 1,461.6, or 121.8 hours/month.
 
-- Общее количество рабочих часов в год: 261 день × 8 часов = 2088 часов
-
-- Не оплачиваемое время (30%): 2088 × 30% = 626,4 часов
-
-- **Оплачиваемое время в год:** 2088 - 626,4 = 1461,6 часов в год или 121,8 часов в месяц.
-
-Таким образом, у нас есть ориентир: вы будете работать 121,8 оплачиваемых часов в месяц.
+So you have ~121.8 billable hours/month.
 
 #### Step 4: Calculate hourly rate
 
-Теперь можно рассчитать минимальную почасовую ставку. Для этого необходимо разделить ваш желаемый доход на количество оплачиваемых часов:
+Minimum hourly rate = target monthly income ÷ billable hours:
+- Monthly: €5,750
+- Billable hours: 121.8
+- Hourly = €5,750 / 121.8 = **€47.20**
 
-- Ежемесячный доход: 5750 евро
-
-- Оплачиваемые часы в месяц: 121,8 часов
-
-Почасовая ставка = 5750 / 121,8 = **47,20 евро**
-
-Это минимальная ставка, которую вам нужно выставлять за каждый час работы, чтобы достичь вашего целевого дохода. Однако, на практике эту ставку можно увеличить, учитывая следующие факторы:
-
-1.  **Непредвиденные расходы:** Бывают случаи, когда требуется больше времени на проект или возникают непредвиденные затраты, такие как повышение цен на инструменты или услуги.
-
-2.  **Конкуренция на рынке:** Если вы работаете в высококонкурентной нише, вашей ставке может потребоваться корректировка в зависимости от среднего уровня ставок.
+This is the floor. You may raise it for:
+1. **Unexpected costs:** extra time on projects or tool/service price hikes.
+2. **Market competition:** adjust relative to typical rates in your niche.
 
 #### Step 5: Account for social charges and taxes
 
-В Германии фрилансеры обязаны самостоятельно выплачивать взносы в социальные фонды, такие как медицинская страховка и пенсионные отчисления. В нашем примере используются следующие ставки:
-
-- Медицинское страхование (включая страхование на случай нетрудоспособности): 14,6%
-
-- Пенсионные отчисления: 18,6%
-
-Эти проценты необходимо учесть в вашем общем доходе. Например, если ваши расходы на социальное страхование составляют около 20% от дохода, тогда для покрытия этих затрат нужно добавить 20% к вашей минимальной ставке:
-
-- 47,20 евро × 1,20 = **56,64 евро**
-
-Это новая ставка, включающая ваши расходы на социальные взносы.
+Freelancers pay their own social charges. Example rates:
+- Health (incl. disability): 14.6%
+- Pension: 18.6%
+If social costs are ~20% of income, add 20% to your base rate:
+- €47.20 × 1.20 = **€56.64**
+That’s a rate including social charges.
 
 #### Step 6: Account for core freelancer expenses
 
@@ -1466,69 +1447,64 @@ Choose insurance to protect your business and stability. Some are mandatory (hea
 
     - Непредвиденные расходы (ремонт оборудования, юридические услуги)
 
-    - Резервный фонд на случай отсутствия заказов или болезни
-
 #### Step 7: Factor weekends, sick days, holidays
 
-При расчете ставки важно учитывать время, когда вы не работаете. Фрилансеры, в отличие от сотрудников, не получают оплаты за больничные или выходные. Включите эти периоды в свои расчеты:
+1.  **Holidays:** Germany has ~13 public holidays/year (varies by state).
+2.  **Vacation:** Recommend budgeting **25 days/year**.
 
-1.  **Праздничные дни**: В Германии количество праздничных дней может варьироваться в зависимости от федеральной земли. Обычно это около **13 дней в год**.
+3.  **Sick days:** On average, ~10–15 days/year.
 
-2.  **Отпуск**: Несмотря на то, что фрилансеры часто не могут позволить себе много выходных, рекомендуется включать минимум **25 дней отпуска в год** в расчеты.
-
-3.  **Больничные**: Статистически в Германии на болезни уходит около **10-15 дней в год**.
-
-4.  **Время на обучение**: В среднем фрилансеры тратят **5-10 дней в год** на повышение квалификации.
+4.  **Training time:** On average, ~5–10 days/year.
 
 #### Example final calculation
 
-Предположим, что фрилансер хочет получать 69000 евро в год и работает 1462 часа в год с учетом всех простоев. Он рассчитывает минимальную ставку, добавляя расходы на социальное обеспечение:
+Assume target €69,000/year and 1,462 hours/year (after downtime). Compute: 
 
-1.  Базовая почасовая ставка: 47,20 евро
+1. Base hourly rate: €47.20
 
-2.  Ставка с учетом социальных взносов: 56,64 евро
+2. With social charges: €56.64
 
-Таким образом, для достижения желаемого дохода фрилансеру следует ориентироваться на почасовую ставку **не менее 57 евро**.
+So aim for **at least €57/hour** to hit the target.
 
 #### Step 8: Compare market rates by industry
 
-Очень важно понимать, что размер почасовой ставки зависит также от вашей специализации и отрасли. В Германии существует большой диапазон почасовых ставок, который варьируется в зависимости от специфики работы. Согласно данным из **Freelancermap**, вот примеры средних ставок в различных отраслях:
+Hourly rates depend on specialization/industry. German rates vary widely. From **Freelancermap**, average rates:
 
-- SAP консультанты: 99 евро в час
+- SAP consultants: €99/hr
 
-- Консалтинг и менеджмент: 93 евро в час
+- Consulting & management: €93/hr
 
-- **IT разработка:** 91 евро в час
+- **IT development:** €91/hr
 
-- Инженерные услуги: 87 евро в час
+- Engineering: €87/hr
 
-- **Медиа:** 69 евро в час
+- **Media:** €69/hr
 
-Эти цифры показывают средний уровень по индустрии, и ваш почасовой тариф должен быть сопоставим с конкурентами в вашей сфере. Например, если вы являетесь IT-специалистом, работающим над разработкой ПО, то ставка в диапазоне от 90 до 100 евро будет оправданной.
+These are industry averages; align your rate to your peers. An IT developer might target €90–€100/hr.
 
 #### 9. Conclusion
 
-Почасовая ставка фрилансера в Германии зависит от множества факторов, таких как рабочие часы, непродуктивное время, налоги и социальные взносы, а также ситуация на рынке. Используя калькулятор и предоставленные данные, вы можете точно рассчитать свою ставку, чтобы покрывать все расходы и зарабатывать желаемую сумму. Не забудьте регулярно пересматривать свои расчеты, учитывая изменения в расходах и требования рынка.
+A freelancer’s rate depends on hours, non-billable time, taxes, social charges, and market. Use the calculator/data to set a rate that covers costs and meets your goals. Revisit regularly as costs and market moves change.
 
-Этот расчет поможет вам эффективно управлять своими финансами и быть уверенным, что вы получаете справедливую оплату за свои услуги, оставаясь конкурентоспособным в своей отрасли.
+This helps you manage finances and stay competitive while earning a fair return.
 
 ### Where and how to find work (Kundenakquise für Freelancer)?
 
-Одной из главных задач для фрилансера, особенно на начальном этапе, является поиск клиентов. Умение эффективно привлекать заказчиков определяет успех и стабильность работы. Важно понимать, что клиентская база должна постоянно расширяться, и зависеть только от одного источника проектов — рискованно. В этой статье мы разберем стратегии, которые помогут фрилансерам привлекать новых клиентов, а также расскажем о лучших платформах для поиска проектов.
+One of the biggest tasks—especially early on—is finding clients. Effective acquisition drives success and stability; rely on more than one source. Here are strategies and platforms to attract new clients.
 
 #### What is client acquisition?
 
-Привлечение клиентов или "Kundenakquise" — это процесс поиска и завоевания новых клиентов. Он включает в себя разные действия, направленные на выявление потенциальных заказчиков, их вовлечение и заключение контрактов. Однако успех в клиентской аквизиции основывается на понимании нужд клиента и способности предложить решение, соответствующее его проблемам и ожиданиям.
+Client acquisition (Kundenakquise) is finding and winning new clients: identifying prospects, engaging them, and closing contracts. Success hinges on understanding client needs and offering fitting solutions.
 
 #### Forms of client acquisition
 
-Существует несколько основных форм "Kundenakquise", каждая из которых имеет свои преимущества:
+Main forms of Kundenakquise:
 
-1.  **Холодные контакты ("Kaltakquise")** — это прямая связь с потенциальными клиентами без предварительных взаимоотношений. Обычно такие контакты происходят через телефонные звонки, электронные письма или социальные сети. Холодная аквизиция требует настойчивости и подготовки, так как далеко не все компании готовы к неожиданным предложениям.
+1. **Cold outreach (Kaltakquise):** direct contact without prior relationship (calls, emails, social). Needs persistence—many will decline.
 
-2.  **Теплые контакты ("Warmakquise")** — здесь клиент уже знает о фрилансере или его услугах. Это может быть контакт через рекомендации, бывших клиентов или предыдущие деловые связи. Такой способ проще и эффективнее, так как между сторонами уже существует доверие.
+2. **Warm outreach (Warmakquise):** client already knows you (referrals, past clients, prior contacts); higher trust and easier.
 
-3.  **Рекомендательный маркетинг ("Empfehlungsmarketing")** — это получение новых клиентов через рекомендации довольных заказчиков. Этот метод эффективен, если у вас уже есть клиенты, которые могут порекомендовать ваши услуги коллегам или партнерам.
+3. **Referral marketing (Empfehlungsmarketing):** new clients via satisfied customers’ recommendations.
 
 #### Active vs passive client acquisition
 
