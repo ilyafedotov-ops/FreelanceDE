@@ -755,55 +755,43 @@ EÜR can include:
 
 ### Accounting software
 
-Ведение бухгалтерии вручную может быть сложным и требовательным по времени процессом. К счастью, на рынке существует множество программных решений, которые помогают автоматизировать бухгалтерию, выставление счетов, учет НДС и подготовку отчетов для налоговой службы.
+Manual bookkeeping is time-consuming; many tools automate books, invoicing, VAT, and filings.
 
 #### Popular accounting software
 
-1.  **LexOffice**— одна из наиболее популярных программ для малого бизнеса и фрилансеров в Германии. Она предлагает простое ведение учета, автоматизированное выставление счетов, расчет НДС и отправку отчетов через ELSTER.
+1. **LexOffice** — popular with small biz and freelancers; simple bookkeeping, invoicing, VAT, ELSTER.
+2. **SevDesk** — cloud for freelancers; track income/expenses, manage client invoices, submit tax returns online.
+3. **FastBill** — automates invoices, taxes, and payments for freelancers/small companies.
+4. **Getsorted** — built for freelancers/small business to ease finance and tax without deep accounting knowledge.
 
-2.  **SevDesk** — облачное решение для фрилансеров, которое позволяет вести учет доходов и расходов, управлять клиентскими счетами и отправлять налоговые декларации онлайн.
-
-3.  **FastBill** — сервис, который автоматизирует управление счетами, налогами и платежами, упрощая работу фрилансеров и малых компаний.
-
-4.  **Getsorted** - это популярная бухгалтерская программа для фрилансеров и владельцев малого бизнеса в Германии. Она разработана для того, чтобы облегчить управление финансовыми и налоговыми обязательствами, особенно для тех, кто не имеет глубоких знаний в области бухгалтерии.
-
-Каждое из этих решений имеет свои преимущества, поэтому важно выбрать то, которое лучше всего соответствует вашим нуждам и типу деятельности. В данный момент я использую Lexoffice поскольку Getsorted не покрывает моих потребностей.
+Each has pros; choose what fits your work. I use Lexoffice as Getsorted doesn’t cover my needs.
 
 ### Invoicing
 
-В Германии фрилансеры обязаны следовать строгим правилам при выставлении счетов (Rechnung) и начиная С 1 января 2025 года в Германии начинается поэтапное введение **обязательного** использования электронных счетов**.** Важным моментом является то, что с этой даты компании обязаны быть готовыми к **приему электронных счетов**, тогда как обязательство их **выставления** вводится постепенно и зависит от размера компании и других факторов. Независимо от того, предоставляете ли вы услуги внутри страны, в пределах ЕС или за его пределами, каждый счет должен соответствовать определённым правовым требованиям. Несоблюдение этих требований может привести к отказу в признании ваших расходов и доходов налоговыми органами. В этой статье мы рассмотрим, какие обязательные элементы должны присутствовать на каждом счёте, чтобы он соответствовал законодательству.
+Freelancers must follow strict invoice rules. From 1 Jan 2025, Germany starts a phased rollout of **mandatory** e-invoices. Companies must be ready to **receive** e-invoices from that date; the **issuing** obligation phases in by company size and other factors. Whether you serve clients domestically, in the EU, or beyond, each invoice must meet legal requirements or tax authorities may reject your expenses/income. Below are the required elements.
 
 #### Contact details (Kontaktdaten)
 
-На каждом счете должны быть указаны ваши полные контактные данные, а также данные клиента. Это включает в себя:
+Include your full details and the client’s:
 
-- Ваше имя или название компании.
-
-- Адрес.
-
-- Номер телефона и адрес электронной почты.
-
-- Контактные данные клиента, включая имя и адрес.
+- Your name/company, address, phone, email.
+- Client name and address.
 
 #### Invoice number and date (Rechnungsnummer / Rechnungsdatum)
 
-Каждый счет должен содержать уникальный номер счета (Rechnungsnummer), который помогает идентифицировать и отслеживать документ. Также необходимо указать дату выставления счета (Rechnungsdatum). Номер счета должен быть последовательным и не содержать повторений.
+Each invoice needs a unique number (sequential, no repeats) and an issue date.
 
 #### 3. Tax number (Steuernummer) or VAT ID (USt-IdNr)
 
-Вы обязаны указывать на счёте свой налоговый номер (Steuernummer), который присваивается вам налоговыми органами. Если вы обязаны взимать НДС (Umsatzsteuer), вам также нужно указать свой идентификационный номер налогоплательщика НДС (Umsatzsteuer-Identifikationsnummer). В случаях, когда вы работаете с клиентами из других стран ЕС, обязательно указывайте VAT-номер клиента.
+Include your **Steuernummer**. If you charge VAT, also show your **USt-IdNr**. For EU clients, include their VAT ID.
 
 #### 4. Service description (Leistungsbeschreibung)
 
-Каждый счёт должен содержать чёткое и полное описание услуг (Leistungsbeschreibung), которые вы предоставили. Необходимо указать:
-
-- Тип услуги (например, консалтинговые услуги, разработка программного обеспечения).
-
-- Даты или период, в течение которого предоставлялась услуга.
-
-- Количество часов работы или объём выполненных работ.
-
-Это помогает избежать недоразумений с клиентами и подтверждает, за что выставляется плата.
+Provide a clear description of services:
+- Type of service (e.g., consulting, software development).
+- Dates/period of service.
+- Hours or quantity.
+This avoids disputes and proves what’s being billed.
 
 #### 5. Prices and amounts (Preis und Betrag)
 
