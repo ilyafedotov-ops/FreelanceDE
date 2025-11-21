@@ -1266,14 +1266,13 @@ Features:
 Notes:
 - Google/Apple Pay.
 - Video identification.
+- API for external integrations.
 
-- API для интеграции с внешними сервисами.
-
-Дата создания таблицы 11.09.2024
+Table created: 11.09.2024
 
 ![](../assets/freelancer-gewerbe-guide/media/image19.png)
 
-Самую актуальную информацию по предложениям банков для Geschäftskonto можно найти поссылкам ниже:
+For the latest offers on business accounts (Geschäftskonto), see:
 
 <https://www.finanzfluss.de/vergleich/geschaeftskonto/>
 
@@ -1281,51 +1280,51 @@ Notes:
 
 ## 6. Insurance
 
-Фрилансеры в Германии, как и другие самозанятые лица, должны учитывать несколько важных видов страхования, чтобы защитить себя и свой бизнес от возможных рисков. Страховки могут быть как обязательными, так и рекомендованными, в зависимости от характера деятельности.
+Freelancers in Germany should consider key insurances to protect themselves and their business. Some are mandatory, others strongly recommended depending on your work.
 
 #### 1. Health and long-term care insurance (Krankenversicherung + Pflegeversicherung)
 
-В Германии каждый фрилансер обязан иметь медицинскую страховку. У вас есть выбор между государственной (gesetzliche Krankenversicherung) и частной (private Krankenversicherung) страховкой. Для молодых и здоровых фрилансеров часто выгоднее выбирать частную страховку, так как её взносы не зависят от дохода, в отличие от государственной, где взносы составляют 14,6% (плюс дополнительный взнос 1.0 - 2.0% в среднем) )от дохода плюс около 3-4% на <u>уходовую страховку</u> (Pflegeversicherung). Однако в государственной системе можно бесплатно застраховать членов семьи, что не доступно в частных планах.
+Health insurance is mandatory. You can choose public (GKV) or private (PKV). Private can be cheaper for young/healthy since it’s not income-based; public is ~14.6% plus 1–2% add-on, plus ~3–4% for long-term care (Pflege). Public allows free family coverage; private does not.
 
-Стоимость: **250 – 1 000 € в месяц**, в зависимости от выбранного варианта.
+Cost: **€250–€1,000/month** depending on plan.
 
 #### 2. Accident insurance (Unfallversicherung)
 
-Эта страховка обязательна для фрилансеров, если они являются членами **Berufsgenossenschaft** — профессиональной ассоциации. В остальных случаях страхование добровольное, но крайне рекомендуется. Страховка покрывает расходы на реабилитацию и компенсацию потерь в результате несчастных случаев на работе.
+Mandatory if you’re in a **Berufsgenossenschaft**; otherwise voluntary but recommended. Covers rehab and compensation for work accidents.
 
-Стоимость: 5 – 20 € в месяц.
+Cost: €5–€20/month.
 
 #### 3. Pension insurance (Altersvorsorge)
 
-Пенсионное страхование обязательно только для некоторых профессий, таких как журналисты, врачи и педагоги. Для остальных фрилансеров участие в государственной пенсионной системе является добровольным. Важно как можно раньше начать откладывать на пенсию, так как государство не обеспечивает социальных гарантий для фрилансеров.
+Mandatory only for some professions (e.g., journalists, doctors, teachers). Others: public pension is voluntary. Start early—there’s no state safety net for freelancers.
 
-Стоимость: **около 930 € в месяц** (при участии в государственной системе). Минимальный взнос составляет около 100 евро в месяц. Вы сами решаете, какой размер взноса осуществлять.
+Cost: **~€930/month** in the public system; minimum ~€100/month. You choose contribution amount.
 
 #### Künstlersozialkasse (KSK) for creative professions
 
-Для фрилансеров в художественной и публицистической сферах (писатели, журналисты, дизайнеры, музыканты и т.д.) существует Künstlersozialkasse (KSK). KSK позволяет платить только половину взносов на медицинское, по уходу и пенсионное страхование; вторую половину покрывает KSK (финансируется за счет отчислений компаний-заказчиков и гос. субсидий). Основные критерии: деятельность преимущественно художественная/публицистическая, самозанятость, доход выше минимального порога. Процесс подачи заявления в KSK может быть длительным. Компании, заказывающие услуги у таких фрилансеров, обязаны уплачивать Künstlersozialabgabe.
+For creative/publicist fields (writers, journalists, designers, musicians, etc.), KSK halves your health/care/pension contributions; the other half is covered by KSK (funded by client levies and subsidies). Criteria: mainly artistic/publicist work, self-employed, income above the minimum. Application can take time. Client companies must pay the Künstlersozialabgabe.
 
 #### 4. Disability insurance (Berufsunfähigkeitsversicherung)
 
-Это одна из важнейших страховок для фрилансеров, так как она защищает от финансовых потерь в случае, если вы больше не сможете работать из-за болезни или несчастного случая. Страховка покрывает пропущенные доходы и помогает избежать серьезных финансовых трудностей.
+Key protection if illness/accident stops you from working; covers lost income to avoid hardship.
 
-Стоимость: 60 – 200 € в месяц.
+Cost: €60–€200/month.
 
 #### 5. Professional liability (Berufshaftpflichtversicherung)
 
-Эта страховка необходима для фрилансеров, особенно для тех, кто занимается консалтинговыми или проектными работами. Она защищает от рисков, связанных с ошибками в работе, которые могут привести к финансовым потерям клиентов. Например, если вы дали неверную консультацию или нарушили авторские права, эта страховка покроет судебные расходы и возможные штрафы.
+Important for consultants/project work; protects against work errors causing client losses (e.g., bad advice, IP issues). Covers legal costs/penalties.
 
-Стоимость: 10 – 50 € в месяц.
+Cost: €10–€50/month.
 
 #### 6. Business liability (Betriebshaftpflichtversicherung)
 
-Это страхование защищает вас в случае, если кто-то получил ущерб (физический или материальный) на вашем рабочем месте или в результате вашей деятельности. Например, если клиент поскользнётся у вас в офисе или вы случайно повредите его имущество, страховка покроет расходы на лечение и ремонт.
+Protects if someone suffers physical/property damage at your premises or due to your work (slip in office, accidental damage). Covers medical/repair costs.
 
-Стоимость: 8 – 25 € в месяц.
+Cost: €8–€25/month.
 
 #### 7. Legal protection (Gewerblicher Rechtsschutz)
 
-Эта страховка важна, если вам необходимо защищать свои интересы в суде, особенно в случае споров с клиентами, которые отказываются платить по счетам. Страховка покрывает юридические расходы, включая оплату адвокатов и судебные издержки.
+Useful if you need to defend your interests in court—e.g., client payment disputes. Covers legal costs (lawyers, court fees).
 
 Стоимость: 25 – 50 € в месяц.
 
