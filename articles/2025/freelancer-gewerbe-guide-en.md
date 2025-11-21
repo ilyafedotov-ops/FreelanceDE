@@ -807,17 +807,17 @@ This avoids disputes and proves what’s being billed.
 
 #### 6. Payment terms (Zahlungsbedingungen)
 
-На счёте должны быть указаны условия оплаты (Zahlungsbedingungen), такие как срок оплаты и доступные способы оплаты. Например:
+List payment terms (Zahlungsbedingungen), e.g.:
 
-- Платёж в течение 14 или 30 дней с момента получения счета.
+- Payment within 14 or 30 days of receipt.
 
-- Банковские реквизиты для перевода (IBAN и BIC).
+- Bank details (IBAN/BIC).
 
-Также можно указать, что при просрочке оплаты могут быть начислены пени.
+You can note late fees/interest for overdue payments.
 
 #### 7. What is an electronic invoice (E-Rechnung)?
 
-Электронный счет – это счет, созданный, отправленный и полученный в структурированном электронном формате, который позволяет его автоматическую обработку. Это не просто PDF или сканированный документ, а данные, которые могут быть сразу интегрированы в бухгалтерскую систему. Основные стандарты, применяемые в Германии, – **ZUGFeRD и XRechnung.**
+An e-invoice is created/sent/received in a structured format for automated processing (not just PDF). Main German standards: **ZUGFeRD** and **XRechnung**.
 
 ##### Phased rollout of mandatory e-invoicing
 
