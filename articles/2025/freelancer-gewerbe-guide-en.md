@@ -823,71 +823,59 @@ An e-invoice is created/sent/received in a structured format for automated proce
 
 ##### Phase 1: 1 Jan 2025 – 31 Dec 2026
 
-- **Обязательный прием электронных счетов:** все компании в рамках B2B должны быть готовы принимать электронные счета в установленных форматах (например, XRechnung или Factur-X).
+- **Mandatory receipt of e-invoices:** all B2B companies must be able to receive e-invoices in required formats (e.g., XRechnung or Factur-X).
 
-- **Выставление счетов:** остается необязательным, компании могут продолжать использовать бумажные счета, PDF и другие форматы. Однако отправка PDF допускается только с согласия получателя.
+- **Issuing invoices:** still optional; paper/PDF allowed, but PDF requires recipient consent.
 
-- **Подготовка:** на данном этапе рекомендуется начать адаптацию систем для отправки электронных счетов.
+- **Preparation:** start adapting systems to send e-invoices.
 
 ##### Phase 2: 1 Jan 2027 – 31 Dec 2027
 
-- **Для компаний с годовым оборотом более 800 000 евро за предыдущий год:**  
-  Обязательным становится выставление электронных счетов для всех B2B-операций.
+- **Companies with prior-year turnover > €800,000:** e-invoice issuance mandatory for all B2B.
 
-- **Компании с оборотом за предыдущий год до 800 000 евро:**  
-  могут продолжать отправлять бумажные счета-фактуры или - с согласия получателя счета - другой формат электронных счетов-фактур, например PDF..
+- **Companies with prior-year turnover ≤ €800,000:** may keep paper/PDF (with recipient consent) in 2027.
 
-- **EDI (электронный обмен данными):** остается допустимой альтернативой.
+- **EDI** remains an allowed alternative.
 
 ##### Key exceptions
 
-Некоторые категории операций освобождены от требования выставления электронных счетов:
+Exemptions from mandatory e-invoice issuance:
 
-- Налоговые освобождения (например, медицинские услуги).
+- VAT-exempt services (e.g., medical).
 
-- Счета на небольшую сумму до 250 евро по-прежнему могут быть отправлены как «другие счета», например, в бумажном виде. Это также относится к проездным билетам. Счета-фактуры за услуги, не облагаемые налогом в соответствии с § 4 № 8-29 (Закон о налоге на добавленную стоимость), также не облагаются налогом.
+- Small invoices up to €250 may still be sent as “other invoices,” including paper (e.g., tickets). Invoices for services exempt under § 4 Nr. 8–29 UStG are also out of scope.
 
-Малые предприятия ( Kleinunternehmer )(статья 19 Закона о налоге на добавленную стоимость)
+- **Kleinunternehmer (§19 UStG):** under rules effective 1 Jan 2025, their sales are VAT-exempt (no input VAT deduction), so they are not obliged to issue e-invoices in the new format. They may keep paper or other electronic formats (e.g., PDF).
 
-В соответствии с новыми положениями Закона о налоге на прибыль 2024 года, вступающими в силу с 1 января 2025 года, продажи малых предприятий освобождаются от НДС (без права на вычет входного налога). Поэтому они не обязаны выставлять электронные счета-фактуры в новом формате. Счета-фактуры по-прежнему могут выставляться на бумаге или в другом электронном формате (например, PDF).
-
-**ВАЖНО:** Обязанность получать электронные счета-фактуры сохраняется для малых предприятий.
+**Important:** Kleinunternehmer must still be able to receive e-invoices.
 
 #### 8. VAT positioning (Reverse Charge in EU deals)
 
-Если вы выставляете счёт клиенту из другой страны ЕС и применяется система обратного начисления НДС (Reverse-Charge), это должно быть чётко указано в счёте.
+If reverse charge applies for an EU client, state it clearly. The VAT liability shifts to the client; you do not charge VAT but include wording like: *“Steuerschuldnerschaft des Leistungsempfängers.”*
 
-Что это значит?  
-В данном случае ответственность за уплату НДС перекладывается на клиента. Вы не начисляете НДС на услугу, но должны включить в счёт соответствующую формулировку. Например:  
-*«Steuerschuldnerschaft des Leistungsempfängers»* (НДС уплачивает заказчик услуги).
+Remember:
 
-Что важно помнить?
+- Ensure the client has a valid VAT ID (check via [VIES](https://ec.europa.eu/taxation_customs/vies/)).
 
-- Убедитесь, что ваш клиент имеет действующий VAT-номер, который можно проверить через [VIES](https://ec.europa.eu/taxation_customs/vies/).
-
-- Сделка должна быть отражена в налоговой отчётности, включая **Zusammenfassende Meldung** в Германии.
+- Report the transaction, including the **Zusammenfassende Meldung** in Germany.
 
 ### Invoicing outside the EU
 
 #### 1. Invoices for clients outside the EU (Reverse Charge)
 
-Если вы предоставляете услуги клиентам, находящимся за пределами ЕС, вы освобождаетесь от уплаты НДС в Германии. Это обусловлено положением § 4 Nr. 1a UStG (Закон о налоге на добавленную стоимость).
-
-На счёте необходимо указать, что данная операция освобождена от НДС. Пример формулировки:  
-*«Umsatzsteuerfrei nach § 4 Nr. 1a UStG.»*
+For services to clients outside the EU, you are VAT-exempt in Germany (§ 4 Nr. 1a UStG). Note this on the invoice, e.g.:  
+*“Umsatzsteuerfrei nach § 4 Nr. 1a UStG.”*
 
 #### 2. Exchange rates
 
-Если счёт выставляется в валюте, отличной от евро, следует:
+If invoicing in a currency other than EUR:
 
-- Указать курс валюты на момент выставления счёта.
-
-- Уточнить, что оплата должна быть произведена в евро или эквивалентной сумме в указанной валюте.  
-  Пример: *«Zahlung in Euro oder in der angegebenen Fremdwährung zum aktuellen Wechselkurs.»*
+- State the exchange rate at invoice date.
+- Note payment in EUR or equivalent in that currency. Example: *"Zahlung in Euro oder in der angegebenen Fremdwährung zum aktuellen Wechselkurs."*
 
 #### 7. Dealing with difficult/late clients (Mahnwesen)
 
-Даже при четких контрактах возможны задержки оплаты. В Германии существует процедура Mahnwesen. Начните с дружеского напоминания (Zahlungserinnerung). Если оплата не поступает, отправьте официальное напоминание (Mahnung) с указанием нового срока и возможного начисления процентов за просрочку (Verzugszinsen) и пени (Mahngebühren). При дальнейшей неоплате можно отправить второе напоминание и рассмотреть судебный приказ (Mahnbescheid) или обращение в инкассо/к юристу. Важно: своевременное и последовательное реагирование повышает шансы на получение оплаты.
+Even with solid contracts, payments can be late. Follow Mahnwesen: start with a friendly reminder (Zahlungserinnerung). If unpaid, send a formal reminder (Mahnung) with a new deadline and potential late interest (Verzugszinsen) and fees (Mahngebühren). If still unpaid, send a second reminder and consider a court order (Mahnbescheid) or collection/lawyer. Timely, consistent follow-up raises your chance of payment.
 
 ### Invoice template
 
@@ -895,9 +883,9 @@ An e-invoice is created/sent/received in a structured format for automated proce
 
 ![](../assets/freelancer-gewerbe-guide/media/image15.png)
 
-Так же важно отместить что в Бухгалтерском ПО и онлайн банках для бизнеса есть уже встроенный функционал по выставлению счетов, где достаточно заполнить недостающие поля.
+Note: accounting software and business online banks often include invoicing modules—you just fill missing fields.
 
-Пример из **getsorted**:
+Example from **getsorted**:
 
 ![](../assets/freelancer-gewerbe-guide/media/image16.png)
 
@@ -907,9 +895,7 @@ An e-invoice is created/sent/received in a structured format for automated proce
 
 #### 1. What is Stripe and how does it work?
 
-Stripe — это онлайн-платежная платформа, которая позволяет бизнесам и фрилансерам легко принимать платежи через Интернет. Stripe поддерживает разнообразные методы оплаты, включая кредитные и дебетовые карты, банковские переводы, и локальные способы оплаты, такие как Sofort и Giropay, что особенно актуально для фрилансеров в Германии.
-
-Основное преимущество Stripe — это простота и гибкость. С помощью Stripe вы можете легко выставлять счета, принимать платежи и управлять финансовыми операциями, не сталкиваясь со сложностями традиционных банковских систем.
+Stripe is an online payments platform to accept payments easily. It supports cards, bank transfers, and local methods like Sofort and Giropay—useful for German freelancers. Main advantage: simplicity and flexibility; you can invoice, collect, and manage payments without traditional banking hurdles.
 
 #### 2. Benefits of using Stripe
 
