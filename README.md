@@ -2,6 +2,30 @@
 
 Articles and guides about freelancing in Germany. All content lives in Markdown and is licensed under CC BY-NC 4.0.
 
+## Current article: Freelancer Gewerbe Guide
+- File: [articles/2025/freelancer-gewerbe-guide.md](articles/2025/freelancer-gewerbe-guide.md)
+- License: CC BY-NC 4.0; use at your own risk.
+
+### Summary (EN)
+Practical guide to registering and working as a freelancer or small Gewerbe in Germany: covers Elster setup, quick and detailed registration, tax basics (VAT, Kleinunternehmerregelung 2025), EÜR and invoicing, software, banks, insurance, contracts, and job-search tips.
+
+### Кратко (RU)
+Практическое руководство по регистрации и работе как фрилансер или владелец Gewerbe в Германии: Elster, быстрая и подробная регистрация, налоги и Kleinunternehmerregelung 2025, EÜR и выставление счетов, софт, банки, страховки, контракты и поиск заказов.
+
+### Table of contents
+- [Предисловие](articles/2025/freelancer-gewerbe-guide.md#предисловие)
+- [Об Авторе](articles/2025/freelancer-gewerbe-guide.md#об-авторе)
+- [Список изменений](articles/2025/freelancer-gewerbe-guide.md#список-изменений)
+- [Глава 1. Введение](articles/2025/freelancer-gewerbe-guide.md#глава-1-введение)
+- [2. Про налоги](articles/2025/freelancer-gewerbe-guide.md#2-про-налоги)
+- [3. Бухгалтерия и счета](articles/2025/freelancer-gewerbe-guide.md#3-бухгалтерия-и-счета)
+- [ПО для Бухгалтерии](articles/2025/freelancer-gewerbe-guide.md#по-для-бухгалтерии)
+- [Банки](articles/2025/freelancer-gewerbe-guide.md#банки)
+- [Страховки](articles/2025/freelancer-gewerbe-guide.md#страховки)
+- [Работа](articles/2025/freelancer-gewerbe-guide.md#работа)
+- [Подработка как самозанятый](articles/2025/freelancer-gewerbe-guide.md#подработка-как-самозанятый)
+- [Заключение](articles/2025/freelancer-gewerbe-guide.md#заключение)
+
 ## Repository layout
 - `articles/` — articles and assets
 - `articles/README.md` — article index
