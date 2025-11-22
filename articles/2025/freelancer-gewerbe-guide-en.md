@@ -331,6 +331,8 @@ Note: thresholds refer to VAT **amount owed**, not your turnover.
 
 File by the 10th of the month following the period.
 
+Official thresholds are in §18 UStG and use the prior-year VAT owed. Example: prior-year VAT €3,600 → quarterly in the next year (~€900/quarter). Prior-year VAT €12,000 → monthly (~€1,000/month).
+
 ------------------------------------------------------------------------
 
 #### 4. Advance tax payments
