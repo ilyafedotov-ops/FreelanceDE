@@ -5,6 +5,10 @@ Multilingual, long-form guides about freelancing in Germany (Markdown, CC BY-NC 
 ## English
 **Scope:** Practical guides for Freiberufler/Gewerbe: registration, taxes (ESt, USt/KUR, GewSt), EÜR, invoicing/e-invoicing, banks, insurance, contracts, finding clients. Markdown + images; no build/site. Not tax/legal advice.
 
+**Who/why:** Written for newcomers and practicing freelancers in Germany who want a single, printable, reference-style guide (no SaaS). Emphasis on norms/§ references where helpful and plain-language explanations.
+
+**Freshness:** Current release `2025.Q4`. Tax thresholds/links are kept in the article changelog; always verify against primary sources (BMF, UStG/EStG, GewStG, IHK/BZSt).
+
 **Navigation:**  
 - EN hub: [README_EN.md](README_EN.md)  
 - RU hub: [README_RU.md](README_RU.md)
@@ -22,6 +26,11 @@ Multilingual, long-form guides about freelancing in Germany (Markdown, CC BY-NC 
 - `sources/` — source/exports (docx/html)  
 - `CONTRIBUTING.md`, `STYLEGUIDE.md`, `CODE_OF_CONDUCT.md`, `LICENSE`
 
+**How to use:**  
+- Read directly in GitHub or Markdown viewer; export from `sources/` if you need docx/html.  
+- Copy/paste snippets for checklists/templates; adapt to your case and confirm locally relevant rules (Finanzamt/IHK/Gemeinde).  
+- Track changes via `articles/*/Список изменений` / `Changelog` tables and release notes.
+
 **Contributing (SSH):**  
 1) `ssh -T git@github.com`  
 2) `git clone git@github.com:ilyafedotov-ops/FreelanceDE.git`  
@@ -36,6 +45,10 @@ Multilingual, long-form guides about freelancing in Germany (Markdown, CC BY-NC 
 
 ## По-русски
 **О чём:** Практические гайды для Freiberufler/Gewerbe: регистрация, налоги (ESt, USt/KUR, GewSt), EÜR, счёта/e-Rechnung, банки, страховки, контракты и поиск клиентов. Формат: Markdown + картинки; это не налоговая/юрд консультация.
+
+**Кому и зачем:** Для новичков и практикующих фрилансеров в Германии, которым нужен один референс без веб-сервиса. Делается упор на понятные объяснения и ссылки на нормы там, где это полезно.
+
+**Актуальность:** Текущий релиз `2025.Q4`. Пороговые значения и ссылки фиксируются в changelog статьи; при сомнениях сверяйтесь с первоисточниками (BMF, UStG/EStG, GewStG, IHK/BZSt).
 
 **Навигация:**  
 - Английский: [README_EN.md](README_EN.md)  
@@ -53,6 +66,11 @@ Multilingual, long-form guides about freelancing in Germany (Markdown, CC BY-NC 
 - `articles/README.md` — индекс статей  
 - `sources/` — исходники/экспорт (docx/html)  
 - `CONTRIBUTING.md`, `STYLEGUIDE.md`, `CODE_OF_CONDUCT.md`, `LICENSE`
+
+**Как использовать:**  
+- Читайте прямо на GitHub или в Markdown-ридере; docx/html — в `sources/`.  
+- Копируйте чек-листы/шаблоны под свою ситуацию и сверяйте с локальными правилами (Finanzamt/IHK/Gemeinde).  
+- Отслеживайте изменения через `Список изменений` в статье и релизные заметки.
 
 **Как внести вклад (SSH):**  
 1) `ssh -T git@github.com`  
