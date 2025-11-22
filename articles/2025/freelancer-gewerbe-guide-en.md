@@ -2149,6 +2149,12 @@ If you do not inform the employer and the side gig conflicts with the employment
 - **Umsatzsteuer-Voranmeldung** — periodic VAT prefilings.
 - **GoBD** — rules for compliant digital record-keeping.
 - **EÜR** — cash-basis profit calc (Einnahmen-Überschuss-Rechnung).
+- **Vorsteuerabzug** — input VAT deduction.
+- **KUR (§19 UStG)** — small business VAT exemption.
+- **OSS** — One-Stop-Shop for EU B2C VAT.
+- **E-invoice** — structured invoice (XRechnung/ZUGFeRD), not just PDF.
+- **KSK** — Künstlersozialkasse for creative/publicist professions.
+- **BBG/JAEG** — contribution ceilings/limits for social insurance, adjusted yearly.
 
 ## FAQ (short)
 
