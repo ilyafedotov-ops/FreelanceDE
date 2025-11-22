@@ -269,13 +269,13 @@ Taxes are a mandatory “quest” for every freelancer or small business in Germ
 ### Types of taxes for freelancers/Gewerbe
 #### Tax overview (quick table)
 
-| Tax | What it covers | Who pays | Key thresholds |
-| --- | --- | --- | --- |
-| Income tax (ESt) | Net income/profit | Everyone | Grundfreibetrag ~€12,096; progressive to 42/45% |
-| VAT (USt) | Turnover | Everyone unless KUR | KUR ≤€25k prior, ≤€100k current; Voranmeldung monthly if VAT owed > €9k |
-| Trade tax (GewSt) | Profit from Gewerbe | Gewerbe only | Freibetrag ~€24,500; rate by municipality |
-| Solidarity surcharge (Soli) | Add-on to income tax | High earners | Applied on part of ESt per assessment |
-| Church tax | Members of church | If registered | 8–9% of ESt |
+| Tax | Base | Who pays | Key thresholds/rates | When to file/pay |
+| --- | --- | --- | --- | --- |
+| Income tax (ESt) | Net income/profit | Everyone | Grundfreibetrag ~€12,096; progressive to 42/45% | Annual return; quarterly advances |
+| VAT (USt) | Turnover | Everyone unless KUR | KUR ≤€25k prior, ≤€100k current; Voranmeldung monthly if VAT owed > €9k | Voranmeldung monthly/quarterly; annual return |
+| Trade tax (GewSt) | Profit from Gewerbe | Gewerbe only | Freibetrag ~€24,500; rate set by municipality | Annual after EÜR/income tax |
+| Solidarity surcharge (Soli) | Add-on to ESt | High earners | Based on ESt amount | With ESt |
+| Church tax | Add-on to ESt | If registered church member | 8–9% of ESt | With ESt |
 
 #### 1. Income tax (Einkommensteuer)
 
