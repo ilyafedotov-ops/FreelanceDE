@@ -2199,14 +2199,14 @@ If you do not inform the employer and the side gig conflicts with the employment
 
 ## Freiberufler vs Gewerbe vs employee with side gig
 
-| Criteria | Freiberufler | Gewerbe | Employee + side gig |
-| --- | --- | --- | --- |
-| Registration | Finanzamt (Fragebogen) | Finanzamt + Gewerbeamt | Typically Finanzamt (freelance), inform employer |
-| Trade tax | No | Yes (Freibetrag ~€24,500) | No for side-gig freelancing |
-| IHK/Handelsregister | Not mandatory | Possible/mandatory by activity | No |
-| KUR/VAT | Can apply | Can apply | Can apply |
-| Social insurance | Self-managed | Self-managed | Main job via employer; side gig may adjust taxes/contributions |
-| Typical cases | IT, consulting, journalism, design | Trade, crafts, e-commerce | Any non-competing side work |
+| Criteria | Freiberufler | Gewerbe | Employee + side gig | Notes |
+| --- | --- | --- | --- | --- |
+| Registration | Finanzamt (Fragebogen) | Finanzamt + Gewerbeamt | Typically Finanzamt (freelance), inform employer | Employer notice for side gigs |
+| Trade tax | No | Yes (Freibetrag ~€24,500) | No for side-gig freelancing | Check local Hebesatz |
+| IHK/Handelsregister | Not mandatory | Possible/mandatory by activity | No | Depends on activity |
+| KUR/VAT | Can apply | Can apply | Can apply | KUR 25k/100k; switch on exceeding |
+| Social insurance | Self-managed | Self-managed | Main job via employer; side gig may adjust taxes/contributions | Total income can affect contributions |
+| Typical cases | IT, consulting, journalism, design | Trade, crafts, e-commerce | Any non-competing side work | Avoid conflicts of interest |
 
 ## 9. Conclusion
 
