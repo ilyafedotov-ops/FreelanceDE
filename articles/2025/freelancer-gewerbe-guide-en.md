@@ -599,6 +599,8 @@ For expenses to be accepted, document them properly. Every purchase or service s
 | Tax returns/assessments (Bescheide) | 10 years | Until limitation periods end |
 | Bank statements | 10 years | PDF/CSV, GoBD |
 | Contracts | 6–10 years | Depending on tax relevance |
+| HR documents (if you employ) | 6 years | Employment contracts, leave, sickness docs |
+| Technical docs/licenses | 6–10 years | If relevant to assets/tax |
 
 ------------------------------------------------------------------------
 
