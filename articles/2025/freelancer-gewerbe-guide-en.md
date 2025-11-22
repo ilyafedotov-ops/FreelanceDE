@@ -99,6 +99,9 @@ Questions or feedback? Email fedotov.ilya (at) gmail.com or reach out on LinkedI
 
 | **Change** | **Page** | **Date** | **Comments** | **Author** |
 |----|:--:|:--:|:--:|:--:|
+| TL;DR, tax/insurance tables, FAQ/glossary | Entire document | 22.11.2025 | Added quick blocks, tax/status tables, FAQ/10 mistakes | Ilya |
+| Retention tables, platform/FX cases | Entire document | 22.11.2025 | GoBD with HR/tech docs; Upwork/Stripe numeric examples | Ilya |
+| Voranmeldung examples + BMF links | Taxes section | 22.11.2025 | §18 UStG examples, Grundtabelle link | Ilya |
 | Mandatory e-invoice receipt (contents TL;DR + side gig note) | Entire document | 22.11.2025 | B2B receipt required from 2025; PDF ≠ e-invoice | Ilya |
 | Europäische Kleinunternehmerregelung from 2025 | 32 | 08.01.2025 | 2025 updates | Ilya |
 | E-Rechnungspflicht | 42 | 08.01.2025 | 2025 updates | Ilya |
