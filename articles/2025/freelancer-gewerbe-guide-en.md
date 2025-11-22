@@ -74,7 +74,8 @@ Russian version: [Freelancer Gewerbe Guide (RU)](freelancer-gewerbe-guide.md)
 - [Quick glossary](#quick-glossary)
 - [FAQ (short)](#faq-short)
 - [10 common mistakes](#10-common-mistakes)
-- [9. Conclusion](#9-conclusion)
+- [Freiberufler vs Gewerbe vs employee with side gig](#freiberufler-vs-gewerbe-vs-employee-with-side-gig)
+- [Conclusion](#conclusion)
 
 **Heads-up (B2B e-invoices from 01.01.2025):** All businesses, including Kleinunternehmer, must be able to receive and store structured e-invoices (XML/XRechnung); PDF alone is not an e-invoice. See the TL;DR in the invoicing section for the quick checklist.
 
@@ -2218,7 +2219,7 @@ If you do not inform the employer and the side gig conflicts with the employment
 | Social insurance | Self-managed | Self-managed | Main job via employer; side gig may adjust taxes/contributions | Total income can affect contributions |
 | Typical cases | IT, consulting, journalism, design | Trade, crafts, e-commerce | Any non-competing side work | Avoid conflicts of interest |
 
-## 9. Conclusion
+## Conclusion
 
 Freelancing or running your own business in Germany promises freedom and flexibility, but that freedom comes with obligations—especially around taxes, registration, and accounting. Germany’s bureaucracy is detailed; understanding it is essential for success as a freelancer or Gewerbe owner.
 
