@@ -259,6 +259,13 @@ Depending on your location and processing times, within 2–9 weeks you’ll get
 
 Taxes are a mandatory “quest” for every freelancer or small business in Germany. Not the most fun, but skipping it brings fines and tax-office questions. This chapter covers the core taxes freelancers and Gewerbe owners must handle to stay legal and sleep well.
 
+**TL;DR for taxes:**
+- Confirm status (Freiberufler vs Gewerbe) and whether Gewerbeamt is required.
+- Check KUR: ≤€25k prior year and ≤€100k current year → no VAT; above → standard VAT.
+- Voranmeldung: VAT owed > €9k prior year → monthly; €2k–9k → quarterly; ≤€2k → usually annual.
+- Income tax is progressive: ~€12,096 allowance, then up to 42/45%.
+- International: EU B2B → Reverse Charge; non-EU → export of services (§4 Nr.1a UStG).
+
 ### Types of taxes for freelancers/Gewerbe
 
 #### 1. Income tax (Einkommensteuer)
@@ -581,6 +588,10 @@ For expenses to be accepted, document them properly. Every purchase or service s
 Some expenses can be claimed via flat rates without receipts. Example: home-office flat rate of €6 per home-work day, capped at €1,260/year (2024). Other flat rates exist for small office supplies, etc.
 
 ### Applying Kleinunternehmerregelung
+**Quick view:**
+- Limits: ≤€25,000 net prior year and ≤€100,000 net current year.
+- If you exceed €100,000 mid-year, switch to VAT immediately from the crossing invoice.
+- Sum all activities; notify Finanzamt and clients when switching.
 
 From 2025 the German small-business rule (§19 UStG) works with two net limits:
 
@@ -599,6 +610,10 @@ For details, see BMF/IHK guidance or ask a tax advisor.
 Freelancers can depreciate large purchases (computers, office furniture, equipment) over several years to spread deductions across tax periods.
 
 ### Applying the Europäische Kleinunternehmerregelung from 2025
+**Quick view:**
+- EU ceiling 85k is not your personal limit.
+- Track three limits: §19 DE (25k/100k), Unionsgrenze 100k, and buyer-country cap (≤85k).
+- Mostly relevant for low-volume B2C into other EU countries; plan for OSS if you expect to exceed buyer-country caps.
 
 From 1 Jan 2025 an EU small-business VAT regime (EU-KUR) starts. It eases cross-border VAT, but **85,000 € is not a personal universal limit**.
 
@@ -776,6 +791,10 @@ Manual bookkeeping is time-consuming; many tools automate books, invoicing, VAT,
 Each has pros; choose what fits your work. I use Lexoffice as Getsorted doesn’t cover my needs.
 
 ### Invoicing
+**Quick view:**
+- From 01.01.2025 all B2B must receive/store e-invoices (XML/XRechnung); PDF ≠ e-invoice.
+- Issuing obligation phases in; Kleinunternehmer don’t have to issue but must receive.
+- Always include Steuernummer/USt-IdNr, service description, dates, amounts, and proper VAT wording (or §19 note).
 
 Freelancers must follow strict invoice rules. From 1 Jan 2025, Germany starts a phased rollout of **mandatory** e-invoices in B2B. All businesses (including Kleinunternehmer) must be able to **receive and store** structured e-invoices from that date; the **issuing** obligation phases in by company size and other factors. PDF alone is **not** an e-invoice. Whether you serve clients domestically, in the EU, or beyond, each invoice must meet legal requirements or tax authorities may reject your expenses/income. Below are the required elements.
 
@@ -1303,6 +1322,11 @@ For the latest offers on business accounts (Geschäftskonto), see:
 Freelancers in Germany should consider key insurances to protect themselves and their business. Some are mandatory, others strongly recommended depending on your work.
 
 Contribution ceilings (BBG/JAEG) shift annually; amounts below are 2025-style ranges—always check current TK/BMG/DRV figures.
+
+**Quick view:**
+- Health insurance is mandatory (GKV ~14.6% + add-on; PKV fixed).
+- Consider liability (Haftpflicht) and disability (BU) as baseline optional covers.
+- Check whether DRV/KSK applies to your profession; contributions depend on BBG/JAEG and change yearly.
 
 #### 1. Health and long-term care insurance (Krankenversicherung + Pflegeversicherung)
 
@@ -1961,6 +1985,11 @@ Understanding the line between genuine and false self-employment is critical for
 In Germany, taking on a side gig as self-employed or as a freelancer is a popular way to earn extra income. Unlike traditional employment, self-employment lets you work for yourself but requires attention to legal and tax obligations. Here’s how to set up a side gig, required steps, and the taxes/limitations to consider.
 
 **Heads-up (e-invoices):** Even for a side gig, if you invoice B2B you must be able to receive and store structured e-invoices from 01.01.2025 (PDF ≠ e-invoice). Kleinunternehmer are exempt from issuing but not from receiving.
+
+**Quick view for side gigs:**
+- Inform your employer; avoid conflicts of interest.
+- Watch KUR/VAT limits and Grundfreibetrag; taxes apply to total income.
+- Keep total working time within 48h/week and maintain basic bookkeeping.
 
 #### 1. What is a self-employed side gig?
 
