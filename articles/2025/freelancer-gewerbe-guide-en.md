@@ -1,10 +1,15 @@
 ---
-title: "Freelancer & Gewerbe Guide (EN)"
-date: "2025-11-21"
-tags: ["freelance", "germany", "gewerbe"]
-summary: "Practical guide to registering and working as a freelancer or Gewerbe owner in Germany, covering registration, taxes, accounting (EÜR), invoicing, tools, banks, insurance, and contracts."
+title: Freelancer & Gewerbe Guide (EN)
+date: '2025-11-21'
+tags:
+  - freelance
+  - germany
+  - gewerbe
+summary: >-
+  Practical guide to registering and working as a freelancer or Gewerbe owner in
+  Germany, covering registration, taxes, accounting (EÜR), invoicing, tools,
+  banks, insurance, and contracts.
 ---
-
 # Freelancer & Gewerbe Guide (EN)
 
 Russian version: [Freelancer Gewerbe Guide (RU)](freelancer-gewerbe-guide.md)
@@ -2231,3 +2236,4 @@ Key takeaways:
 **Client acquisition:** Success relies on a steady stream of clients. Use the strategies and platforms described to build your client base and find projects.
 
 **Freelancing in Germany** is a system you must learn to navigate. The "freelancer_gewerbe_guide_v0.4" helps avoid common mistakes and gives you tools to operate successfully. With this guide, you can start and grow as a freelancer or business owner while managing financial and legal obligations in Germany’s bureaucratic environment.
+
