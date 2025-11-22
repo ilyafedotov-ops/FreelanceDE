@@ -555,7 +555,7 @@ If your income exceeds the Kindergeld threshold, Kinderfreibetrag can be a signi
 
 ### How to track expenses and keep receipts?
 
-For expenses to be accepted, document them properly. Every purchase or service should have a receipt/invoice showing date, amount, description, and seller. Keep all documents for 10 years in case of audit.
+For expenses to be accepted, document them properly. Every purchase or service should have a receipt/invoice showing date, amount, description, and seller. Keep all documents in a GoBD-compliant way for 6–10 years (many sources cite 8 years for Buchungsbelege from 2025); retain the original structured file for e-invoices.
 
 ------------------------------------------------------------------------
 
@@ -813,6 +813,8 @@ You can note late fees/interest for overdue payments.
 #### 7. What is an electronic invoice (E-Rechnung)?
 
 An e-invoice is created/sent/received in a structured format for automated processing (not just PDF). Main German standards: **ZUGFeRD** and **XRechnung**.
+
+The obligation to receive e-invoices is anchored in Jahressteuergesetz 2024 / §34a UStDV: keep the original structured file (XML/XRechnung) in a GoBD-compliant archive for the required retention period.
 
 ##### Phased rollout of mandatory e-invoicing
 
