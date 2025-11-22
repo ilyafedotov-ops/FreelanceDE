@@ -1080,6 +1080,10 @@ File on time. Main forms:
 - **Umsatzsteuererklärung** – VAT return, if VAT-registered.
 - **Gewerbesteuererklärung** – trade tax return (if applicable).
 
+### Common mistakes (quick link)
+
+See [10 common mistakes](#10-common-mistakes) near the end.
+
 #### Software to automate filings
 
 - **ELSTER:** official German tax portal for online filings.
