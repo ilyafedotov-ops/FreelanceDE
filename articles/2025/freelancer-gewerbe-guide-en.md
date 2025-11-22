@@ -280,6 +280,8 @@ Taxes are a mandatory “quest” for every freelancer or small business in Germ
 | Solidarity surcharge (Soli) | Add-on to ESt | High earners | Based on ESt amount | With ESt | --- |
 | Church tax | Add-on to ESt | If registered church member | 8–9% of ESt | With ESt | --- |
 
+Hebesatz calculators by state: <https://www.hebesatzdatenbank.de/> (filter by Bundesland).
+
 #### 1. Income tax (Einkommensteuer)
 
 Freelancers and Gewerbe owners pay income tax like any taxpayer. It’s based on net income (revenue minus deductible expenses) and is progressive (figures are for 2025):
