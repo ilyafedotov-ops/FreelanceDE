@@ -108,6 +108,7 @@ Questions or feedback? Email fedotov.ilya (at) gmail.com or reach out on LinkedI
 | Retention tables, platform/FX cases | Entire document | 22.11.2025 | GoBD with HR/tech docs; Upwork/Stripe numeric examples | Ilya |
 | Voranmeldung examples + BMF links | Taxes section | 22.11.2025 | §18 UStG examples, Grundtabelle link | Ilya |
 | Mandatory e-invoice receipt (contents TL;DR + side gig note) | Entire document | 22.11.2025 | B2B receipt required from 2025; PDF ≠ e-invoice | Ilya |
+| Tax clarifications (GewSt min, §35 credit, KUR downsides, EV 0.25% €100k, Kinderfreibetrag, TOC) | Entire document | 22.11.2025 | Gewerbesteuer min Hebesatz/§35 credit; Ist-Versteuerung for Freiberufler; KUR no input VAT + 5-year lock; EV 0.25% up to €100k; Kinderfreibetrag/Günstigerprüfung; TOC refreshed | Ilya |
 | Europäische Kleinunternehmerregelung from 2025 | 32 | 08.01.2025 | 2025 updates | Ilya |
 | E-Rechnungspflicht | 42 | 08.01.2025 | 2025 updates | Ilya |
 | Neue Kleinunternehmerregelung 2025 | Entire document | 08.01.2025 | 2025 updates | Ilya |
@@ -2236,4 +2237,3 @@ Key takeaways:
 **Client acquisition:** Success relies on a steady stream of clients. Use the strategies and platforms described to build your client base and find projects.
 
 **Freelancing in Germany** is a system you must learn to navigate. The "freelancer_gewerbe_guide_v0.4" helps avoid common mistakes and gives you tools to operate successfully. With this guide, you can start and grow as a freelancer or business owner while managing financial and legal obligations in Germany’s bureaucratic environment.
-
