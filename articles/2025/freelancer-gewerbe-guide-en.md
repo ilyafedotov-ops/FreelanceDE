@@ -92,7 +92,7 @@ Questions or feedback? Email fedotov.ilya (at) gmail.com or reach out on LinkedI
 
 | **Change** | **Page** | **Date** | **Comments** | **Author** |
 |----|:--:|:--:|:--:|:--:|
-| E-invoice receipt reminders (contents + side gig) | Entire document | 22.11.2025 | Mandatory B2B receipt from 2025 | Ilya |
+| Mandatory e-invoice receipt (contents TL;DR + side gig note) | Entire document | 22.11.2025 | B2B receipt required from 2025; PDF ≠ e-invoice | Ilya |
 | Europäische Kleinunternehmerregelung from 2025 | 32 | 08.01.2025 | 2025 updates | Ilya |
 | E-Rechnungspflicht | 42 | 08.01.2025 | 2025 updates | Ilya |
 | Neue Kleinunternehmerregelung 2025 | Entire document | 08.01.2025 | 2025 updates | Ilya |
