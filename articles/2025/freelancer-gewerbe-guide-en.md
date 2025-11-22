@@ -2104,6 +2104,8 @@ If you do not inform the employer and the side gig conflicts with the employment
 
 ## FAQ (short)
 
+**FAQ anchor:** quick jump to short answers.
+
 - **Do programmers need a Gewerbe?** Often no, but Finanzamt decides; argue Freiberufler or accept Gewerbe if required.
 - **Exceeded KUR mid-year?** From the crossing invoice charge VAT, inform Finanzamt, switch to standard VAT.
 - **Forgot to register and already earned money?** Submit the Fragebogen ASAP, correct invoices/VAT, send an explanation (ideally with a tax advisor).
