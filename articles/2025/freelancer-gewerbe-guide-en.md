@@ -267,6 +267,15 @@ Taxes are a mandatory “quest” for every freelancer or small business in Germ
 - International: EU B2B → Reverse Charge; non-EU → export of services (§4 Nr.1a UStG).
 
 ### Types of taxes for freelancers/Gewerbe
+#### Tax overview (quick table)
+
+| Tax | What it covers | Who pays | Key thresholds |
+| --- | --- | --- | --- |
+| Income tax (ESt) | Net income/profit | Everyone | Grundfreibetrag ~€12,096; progressive to 42/45% |
+| VAT (USt) | Turnover | Everyone unless KUR | KUR ≤€25k prior, ≤€100k current; Voranmeldung monthly if VAT owed > €9k |
+| Trade tax (GewSt) | Profit from Gewerbe | Gewerbe only | Freibetrag ~€24,500; rate by municipality |
+| Solidarity surcharge (Soli) | Add-on to income tax | High earners | Applied on part of ESt per assessment |
+| Church tax | Members of church | If registered | 8–9% of ESt |
 
 #### 1. Income tax (Einkommensteuer)
 
@@ -2151,6 +2160,17 @@ If you do not inform the employer and the side gig conflicts with the employment
 - No employer consent for a Nebentätigkeit.
 - Not booking platform fees as expenses.
 - No cash reserve for taxes/insurance, leading to cash gaps.
+
+## Freiberufler vs Gewerbe vs employee with side gig
+
+| Criteria | Freiberufler | Gewerbe | Employee + side gig |
+| --- | --- | --- | --- |
+| Registration | Finanzamt (Fragebogen) | Finanzamt + Gewerbeamt | Typically Finanzamt (freelance), inform employer |
+| Trade tax | No | Yes (Freibetrag ~€24,500) | No for side-gig freelancing |
+| IHK/Handelsregister | Not mandatory | Possible/mandatory by activity | No |
+| KUR/VAT | Can apply | Can apply | Can apply |
+| Social insurance | Self-managed | Self-managed | Main job via employer; side gig may adjust taxes/contributions |
+| Typical cases | IT, consulting, journalism, design | Trade, crafts, e-commerce | Any non-competing side work |
 
 ## 9. Conclusion
 
