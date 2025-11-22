@@ -591,17 +591,19 @@ From 1 Jan 2025 an EU small-business VAT regime (EU-KUR) starts. It eases cross-
 - In Germany you must watch three limits at once:
   1. national §19 UStG limits (25,000 € net prior year and up to 100,000 € net current year);
   2. **Unionsgrenze 100,000 €** — total EU-wide turnover;
-  3. buyer-country limit (capped at 85,000 €) for B2C sales into that country.
+  3. buyer-country limit (capped at 85,000 €) for B2C sales into that country; check the national threshold of the buyer’s country.
 
 #### How to use it
 
 - Register via BZSt for a KU ID and file quarterly EU-KUR reports.
 - Stay within all three limits. If you exceed one, switch to normal VAT from that point and, if needed, register in the buyer’s country.
+- Buyer-country limits matter for B2C: e.g., if you sell to French consumers, check France’s threshold (max 85k). Exceeding it can mean registering in France or dropping EU-KUR.
 
 #### Who benefits
 
-- B2C sales into other EU countries where you want to avoid multiple VAT registrations.
+- B2C sales into other EU countries where you want to avoid multiple VAT registrations while turnover per country stays low.
 - If you only work with German clients or B2B customers with VAT IDs, the national Kleinunternehmerregelung often suffices.
+- Not useful if you expect to exceed buyer-country thresholds soon—then plan for normal VAT/OSS instead.
 
 ### Tax calculator
 
