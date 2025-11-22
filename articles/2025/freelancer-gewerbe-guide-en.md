@@ -2157,6 +2157,14 @@ If you do not inform the employer and the side gig conflicts with the employment
 - **E-invoice** — structured invoice (XRechnung/ZUGFeRD), not just PDF.
 - **KSK** — Künstlersozialkasse for creative/publicist professions.
 - **BBG/JAEG** — contribution ceilings/limits for social insurance, adjusted yearly.
+- **Elster** — online portal for tax filings.
+- **Steuernummer / USt-IdNr** — tax number / VAT ID.
+- **Soll-/Ist-Versteuerung** — VAT due on invoice date / payment date.
+- **Zusammenfassende Meldung (ZM)** — EU summary report for intra-EU supplies.
+- **Reverse Charge** — VAT liability shifts to the customer.
+- **Betriebsprüfung** — tax audit.
+- **OSS (One-Stop-Shop)** — simplified VAT filing for EU B2C.
+- **EU-KUR** — EU small business regime with buyer-country limits.
 
 ## FAQ (short)
 
