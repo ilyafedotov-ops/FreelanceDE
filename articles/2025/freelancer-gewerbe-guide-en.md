@@ -800,6 +800,11 @@ List payment terms (Zahlungsbedingungen), e.g.:
 
 You can note late fees/interest for overdue payments.
 
+**TL;DR (e-invoices from 01.01.2025):**
+- All B2B businesses must be able to receive and store structured e-invoices (XML/XRechnung); PDF alone is not an e-invoice.
+- Issuing obligations phase in; Kleinunternehmer are exempt from issuing but must still receive.
+- Set up a mailbox/tool/archiving flow to handle incoming structured files.
+
 #### 7. What is an electronic invoice (E-Rechnung)?
 
 An e-invoice is created/sent/received in a structured format for automated processing (not just PDF). Main German standards: **ZUGFeRD** and **XRechnung**.
