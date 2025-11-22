@@ -64,6 +64,8 @@ Russian version: [Freelancer Gewerbe Guide (RU)](freelancer-gewerbe-guide.md)
 - [8. Side gig as self-employed](#8-side-gig-as-self-employed)
 - [9. Conclusion](#9-conclusion)
 
+**Heads-up (B2B e-invoices from 01.01.2025):** All businesses, including Kleinunternehmer, must be able to receive and store structured e-invoices (XML/XRechnung); PDF alone is not an e-invoice. See the TL;DR in the invoicing section for the quick checklist.
+
 ## Foreword
 
 Freelancing in Germany is a varied and flexible path that can be ideal if you value freedom of choice, independence, and control over your schedule. Every step toward freelancing is a personal decision shaped by your personality, skills, and the local job market.
