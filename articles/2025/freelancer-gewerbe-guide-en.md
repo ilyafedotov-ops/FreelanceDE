@@ -272,13 +272,13 @@ Taxes are a mandatory “quest” for every freelancer or small business in Germ
 ### Types of taxes for freelancers/Gewerbe
 #### Tax overview (quick table)
 
-| Tax | Base | Who pays | Key thresholds/rates | When to file/pay |
-| --- | --- | --- | --- | --- |
-| Income tax (ESt) | Net income/profit | Everyone | Grundfreibetrag ~€12,096; progressive to 42/45% | Annual return; quarterly advances |
-| VAT (USt) | Turnover | Everyone unless KUR | KUR ≤€25k prior, ≤€100k current; Voranmeldung monthly if VAT owed > €9k | Voranmeldung monthly/quarterly; annual return |
-| Trade tax (GewSt) | Profit from Gewerbe | Gewerbe only | Freibetrag ~€24,500; rate set by municipality | Annual after EÜR/income tax |
-| Solidarity surcharge (Soli) | Add-on to ESt | High earners | Based on ESt amount | With ESt |
-| Church tax | Add-on to ESt | If registered church member | 8–9% of ESt | With ESt |
+| Tax | Base | Who pays | Key thresholds/rates | When to file/pay | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Income tax (ESt) | Net income/profit | Everyone | Grundfreibetrag ~€12,096; progressive to 42/45% | Annual return; quarterly advances | Formulas: Grundtabelle BMF |
+| VAT (USt) | Turnover | Everyone unless KUR | KUR ≤€25k prior, ≤€100k current; Voranmeldung monthly if VAT owed > €9k | Voranmeldung monthly/quarterly; annual return | Vorsteuerabzug if not on KUR |
+| Trade tax (GewSt) | Profit from Gewerbe | Gewerbe only | Freibetrag ~€24,500; rate set by municipality | Annual after EÜR/income tax | Check Hebesatz: e.g., <https://www.hebesatzdatenbank.de/> |
+| Solidarity surcharge (Soli) | Add-on to ESt | High earners | Based on ESt amount | With ESt | --- |
+| Church tax | Add-on to ESt | If registered church member | 8–9% of ESt | With ESt | --- |
 
 #### 1. Income tax (Einkommensteuer)
 
