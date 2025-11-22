@@ -238,6 +238,16 @@ For Berlin
 
 Depending on your location and processing times, within 2–9 weeks you’ll get confirmation of freelance registration for your activity plus your tax number.
 
+### First 90 days checklist
+
+1. Open a separate account/IBAN for the business.
+2. Register in Elster and keep the certificate file safe.
+3. Submit the Fragebogen zur steuerlichen Erfassung; choose KUR or standard VAT.
+4. Set up bookkeeping (EÜR, receipt storage, GoBD, e-invoice handling).
+5. Minimum insurance: health; consider liability (Haftpflicht) and disability (Berufsunfähigkeit).
+6. Prepare invoice templates (DE/EU/non-EU) and your issuing flow.
+7. Issue your first invoice and verify banking/VAT wording (§19 UStG if applicable).
+
 ## 2. Taxes
 
 Taxes are a mandatory “quest” for every freelancer or small business in Germany. Not the most fun, but skipping it brings fines and tax-office questions. This chapter covers the core taxes freelancers and Gewerbe owners must handle to stay legal and sleep well.
@@ -860,6 +870,13 @@ Remember:
 - Ensure the client has a valid VAT ID (check via [VIES](https://ec.europa.eu/taxation_customs/vies/)).
 
 - Report the transaction, including the **Zusammenfassende Meldung** in Germany.
+
+#### Example invoice cases for international clients and platforms
+
+- German client, you use KUR: invoice without VAT plus §19 UStG note.
+- EU client, B2B with VAT ID: Reverse Charge with the customer’s VAT ID and wording.
+- US/non-EU client: export of services, “Umsatzsteuerfrei nach §4 Nr. 1a UStG.”
+- Platforms (Upwork/Fiverr/Stripe): treat platform receipts as gross revenue before fees; book fees as expenses; for FX, use your bank/PayPal rate on the settlement date.
 
 ### Invoicing outside the EU
 
@@ -1994,6 +2011,21 @@ Keep these limits in mind from both tax authorities and your employer:
 
 - **Conflict of interest:** If the side gig could conflict with your main job duties, get employer approval. For example, freelancing in the same field as your employer may trigger conflicts. Many German employers include clauses restricting side work without consent.
 
+#### Employer notice template for a Nebentätigkeit (DE)
+
+```
+Betreff: Anzeige einer Nebentätigkeit
+
+Sehr geehrte/r Frau/Herr ...,
+
+hiermit zeige ich eine geplante Nebentätigkeit als [Tätigkeit] an (voraussichtlich [Stunden] Std./Woche, außerhalb der Arbeitszeit). Es besteht keine Konkurrenz zu unserem Unternehmen und meine Haupttätigkeit wird nicht beeinträchtigt. Arbeitszeit- und Ruhevorschriften werden eingehalten.
+
+Bitte bestätigen Sie den Erhalt und teilen Sie mir mit, falls weitere Informationen benötigt werden.
+
+Mit freundlichen Grüßen
+[Name]
+```
+
 #### 7. Pros and cons of a side gig
 
 Pros:
@@ -2047,6 +2079,34 @@ If you do not inform the employer and the side gig conflicts with the employment
 - **Verbal or written warnings.** If the employer sees that side work affects main duties or breaches the contract, they may issue warnings.
 
 - **Termination of employment.** In serious cases—e.g., disclosing trade secrets or harming the company—the employer may end the employment without notice.
+
+## Quick glossary
+
+- **Finanzamt** — tax office.
+- **Gewerbeamt** — trade office for non-freelance activities.
+- **Grundfreibetrag** — basic income tax allowance.
+- **Umsatzsteuer-Voranmeldung** — periodic VAT prefilings.
+- **GoBD** — rules for compliant digital record-keeping.
+- **EÜR** — cash-basis profit calc (Einnahmen-Überschuss-Rechnung).
+
+## FAQ (short)
+
+- **Do programmers need a Gewerbe?** Often no, but Finanzamt decides; argue Freiberufler or accept Gewerbe if required.
+- **Exceeded KUR mid-year?** From the crossing invoice charge VAT, inform Finanzamt, switch to standard VAT.
+- **Forgot to register and already earned money?** Submit the Fragebogen ASAP, correct invoices/VAT, send an explanation (ideally with a tax advisor).
+
+## 10 common mistakes
+
+- One bank account for personal and business.
+- No bookkeeping (“will do it later in Excel”).
+- Using KUR but already over the limit—issuing invoices without VAT.
+- Not ready to receive e-invoices from 2025.
+- Not checking client VAT IDs in the EU (VIES).
+- Not keeping original invoice files (GoBD; retention 6–10 years).
+- Ignoring Finanzamt/Elster messages.
+- No employer consent for a Nebentätigkeit.
+- Not booking platform fees as expenses.
+- No cash reserve for taxes/insurance, leading to cash gaps.
 
 ## 9. Conclusion
 
