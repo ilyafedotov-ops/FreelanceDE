@@ -1291,6 +1291,8 @@ For the latest offers on business accounts (Geschäftskonto), see:
 
 Freelancers in Germany should consider key insurances to protect themselves and their business. Some are mandatory, others strongly recommended depending on your work.
 
+Contribution ceilings (BBG/JAEG) shift annually; amounts below are 2025-style ranges—always check current TK/BMG/DRV figures.
+
 #### 1. Health and long-term care insurance (Krankenversicherung + Pflegeversicherung)
 
 Health insurance is mandatory. You can choose public (GKV) or private (PKV). Private can be cheaper for young/healthy since it’s not income-based; public is ~14.6% plus 1–2% add-on, plus ~3–4% for long-term care (Pflege). Public allows free family coverage; private does not.
@@ -1307,7 +1309,7 @@ Cost: €5–€20/month.
 
 Mandatory only for some professions (e.g., journalists, doctors, teachers). Others: public pension is voluntary. Start early—there’s no state safety net for freelancers.
 
-Cost: **~€930/month** in the public system; minimum ~€100/month. You choose contribution amount.
+Cost: **~€900–€1,000/month** in the public system (full rate, 2025 range); minimum voluntary classes can start around €100/month. You choose contribution amount.
 
 #### Künstlersozialkasse (KSK) for creative professions
 
