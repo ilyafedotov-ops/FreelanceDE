@@ -243,13 +243,13 @@ Taxes are a mandatory “quest” for every freelancer or small business in Germ
 
 #### 1. Income tax (Einkommensteuer)
 
-Freelancers and Gewerbe owners pay income tax like any taxpayer. It’s based on net income (revenue minus deductible expenses) and is progressive:
+Freelancers and Gewerbe owners pay income tax like any taxpayer. It’s based on net income (revenue minus deductible expenses) and is progressive (figures are for 2025):
 
-- Up to €12,096/year (2025): 0%
-- €12,096–€17,005: 14%
-- €17,006–€66,760: rises progressively up to 42%
-- €66,761–€277,825: 42%
-- Above €277,826: 45%
+- Up to €12,096/year: 0% (Grundfreibetrag).
+- €12,097–€17,443: progressive, entering at ~14% and rising to ~24%.
+- €17,444–€68,480: progressive up to 42%.
+- €68,481–€277,825: 42%.
+- Above €277,826: 45%.
 
 Example: at €80,000 income, you don’t pay 42% on all of it; the effective rate is ~30–35% because only amounts above each threshold are taxed at higher rates. Use the effective rate to see total tax share—it’s always below the top marginal rate.
 
@@ -287,11 +287,11 @@ VAT is due only after the client pays. Better for liquidity. To use it, you must
 
 Freelancers and Gewerbe must file VAT pre-returns monthly, quarterly, or annually depending on prior-year VAT:
 
-- If VAT paid exceeds €7,500 (€9,000 from 2025): file monthly.
+- If prior-year VAT liability **> €9,000** (2025 rule): file monthly.
+- If **€2,000–€9,000**: file quarterly.
+- If **≤ €2,000**: usually annual (can be fully exempt from prefilings).
 
-- If VAT paid is €2,001–€9,000: file quarterly.
-
-- If VAT paid is under €2,000: file annually.
+Note: thresholds refer to VAT **amount owed**, not your turnover.
 
 File by the 10th of the month following the period.
 
@@ -562,56 +562,43 @@ Some expenses can be claimed via flat rates without receipts. Example: home-offi
 
 ### Applying Kleinunternehmerregelung
 
-#### From 2025 the Kleinunternehmerregelung turnover cap rises to €25,000; above it you must switch to standard VAT.
+From 2025 the German small-business rule (§19 UStG) works with two net limits:
 
-#### Turnover includes all business income; if you exceed €25,000 notify the tax office and start charging VAT.
+- up to **€25,000 net** turnover in the **prior** calendar year;
+- up to **€100,000 net** forecast turnover in the **current** year. If you exceed €100,000 during the year, you switch to standard VAT immediately starting with the invoice that crosses the limit.
 
-#### For more details see the BMF or a tax advisor. Asset depreciation.
+All business activities count together (services + goods, etc.). If you break the current-year cap:
+
+1. Issue the crossing invoice with VAT and move to standard VAT from that point.
+2. Update clients/contracts for the new VAT treatment.
+3. Notify Finanzamt and file returns with VAT going forward.
+
+For details, see BMF/IHK guidance or ask a tax advisor.
+
+### Asset depreciation
 Freelancers can depreciate large purchases (computers, office furniture, equipment) over several years to spread deductions across tax periods.
 
 ### Applying the Europäische Kleinunternehmerregelung from 2025
 
-From 1 Jan 2025, the EU introduces the **Europäische Kleinunternehmerregelung** to simplify VAT for small businesses and harmonize thresholds across the EU.
+From 1 Jan 2025 an EU small-business VAT regime (EU-KUR) starts. It eases cross-border VAT, but **85,000 € is not a personal universal limit**.
 
-#### What is the new rule
+#### What actually applies
 
-Small businesses with annual turnover up to €85,000 can be exempt from VAT EU-wide. This replaces national turnover thresholds.
+- **€85,000** is an EU ceiling up to which countries may set their own thresholds—it is not automatically your personal cap.
+- In Germany you must watch three limits at once:
+  1. national §19 UStG limits (25,000 € net prior year and up to 100,000 € net current year);
+  2. **Unionsgrenze 100,000 €** — total EU-wide turnover;
+  3. buyer-country limit (capped at 85,000 €) for B2C sales into that country.
 
-Key points:
-- If turnover ≤ €85,000, you may be exempt from VAT.
-- Exemption applies across the EU internal market, avoiding extra VAT registrations abroad.
-- You must meet the criteria each calendar year to retain the status.
+#### How to use it
 
-#### Who qualifies?
+- Register via BZSt for a KU ID and file quarterly EU-KUR reports.
+- Stay within all three limits. If you exceed one, switch to normal VAT from that point and, if needed, register in the buyer’s country.
 
-Applies to small businesses/sole traders in an EU country who meet:
-1. **Turnover up to €85,000** including all sales, domestic and cross-border.
-2. **Main place of business** in an EU country.
-3. **Optional use.** You can stay in normal VAT if that’s better.
+#### Who benefits
 
-#### Benefits
-
-1. **Lower admin:** no VAT returns, no extra VAT registrations abroad for cross-border sales.
-2. **Simpler bookkeeping:** less paperwork/reporting.
-3. **Lower prices possible:** no VAT obligation can improve competitiveness.
-
-#### Limitations and exclusions
-
-Caveats:
-- If turnover exceeds €85,000 during the year, you lose the exemption and must register for VAT.
-- Exemption doesn’t cover imports from non-EU countries.
-- Some activities (e.g., excise goods like alcohol/tobacco) are excluded.
-
-#### How to apply
-
-Steps:
-1. Register with your national tax office and apply for the Europäische Kleinunternehmerregelung.
-2. Ensure annual turnover stays under the limit.
-3. Track income to prove eligibility.
-
-#### Limitations and risks
-
-Tax offices watch for abuse; hiding income or inflating expenses can trigger fines and audits. Consult a tax pro for safe optimization.
+- B2C sales into other EU countries where you want to avoid multiple VAT registrations.
+- If you only work with German clients or B2B customers with VAT IDs, the national Kleinunternehmerregelung often suffices.
 
 ### Tax calculator
 
@@ -768,7 +755,7 @@ Each has pros; choose what fits your work. I use Lexoffice as Getsorted doesn’
 
 ### Invoicing
 
-Freelancers must follow strict invoice rules. From 1 Jan 2025, Germany starts a phased rollout of **mandatory** e-invoices. Companies must be ready to **receive** e-invoices from that date; the **issuing** obligation phases in by company size and other factors. Whether you serve clients domestically, in the EU, or beyond, each invoice must meet legal requirements or tax authorities may reject your expenses/income. Below are the required elements.
+Freelancers must follow strict invoice rules. From 1 Jan 2025, Germany starts a phased rollout of **mandatory** e-invoices in B2B. All businesses (including Kleinunternehmer) must be able to **receive and store** structured e-invoices from that date; the **issuing** obligation phases in by company size and other factors. PDF alone is **not** an e-invoice. Whether you serve clients domestically, in the EU, or beyond, each invoice must meet legal requirements or tax authorities may reject your expenses/income. Below are the required elements.
 
 #### Contact details (Kontaktdaten)
 
@@ -821,7 +808,7 @@ An e-invoice is created/sent/received in a structured format for automated proce
 
 ##### Phase 1: 1 Jan 2025 – 31 Dec 2026
 
-- **Mandatory receipt of e-invoices:** all B2B companies must be able to receive e-invoices in required formats (e.g., XRechnung or Factur-X).
+- **Mandatory receipt of e-invoices:** all B2B companies must be able to receive e-invoices in required formats (e.g., XRechnung or Factur-X) starting 01.01.2025.
 
 - **Issuing invoices:** still optional; paper/PDF allowed, but PDF requires recipient consent.
 
@@ -843,9 +830,14 @@ Exemptions from mandatory e-invoice issuance:
 
 - Small invoices up to €250 may still be sent as “other invoices,” including paper (e.g., tickets). Invoices for services exempt under § 4 Nr. 8–29 UStG are also out of scope.
 
-- **Kleinunternehmer (§19 UStG):** under rules effective 1 Jan 2025, their sales are VAT-exempt (no input VAT deduction), so they are not obliged to issue e-invoices in the new format. They may keep paper or other electronic formats (e.g., PDF).
+- **Kleinunternehmer (§19 UStG):** their sales are VAT-exempt (no input VAT deduction), so they are not obliged to issue e-invoices in the new format. They may keep paper or other electronic formats (e.g., PDF).
 
-**Important:** Kleinunternehmer must still be able to receive e-invoices.
+**Important:** Kleinunternehmer must still be able to receive, store, and retrieve structured e-invoices.
+
+Minimum prep checklist for 2025:
+- have a working mailbox and a way to import/save XML/XRechnung (not just PDFs);
+- make sure your bookkeeping tool or archive keeps the original structured files;
+- align with clients on how e-invoices are exchanged (portal, email attachment, provider).
 
 #### 8. VAT positioning (Reverse Charge in EU deals)
 
