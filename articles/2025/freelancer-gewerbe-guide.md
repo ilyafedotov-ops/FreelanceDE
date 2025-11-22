@@ -285,6 +285,7 @@ summary: "Практическое руководство по регистра�
 | Kirchensteuer | Членам церкви | Если состоите | 8–9% от ESt | Автоматом с ESt | --- |
 
 Калькуляторы Hebesatz по землям: <https://www.hebesatzdatenbank.de/> (есть фильтр по Bundesland).
+Формулы/нормативка: Einkommensteuer (Grundtabelle BMF), Umsatzsteuer (§§ 18, 19 UStG), Gewerbesteuer (§ 11 GewStG, калькулятор <https://bmf-steuerrechner.de/gewst/>), Soli (BMF: Solidarit\u00e4tszuschlag).
 
 #### 1. Подоходный налог (Einkommensteuer)
 

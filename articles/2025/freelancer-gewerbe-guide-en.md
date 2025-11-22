@@ -281,6 +281,7 @@ Taxes are a mandatory “quest” for every freelancer or small business in Germ
 | Church tax | Add-on to ESt | If registered church member | 8–9% of ESt | With ESt | --- |
 
 Hebesatz calculators by state: <https://www.hebesatzdatenbank.de/> (filter by Bundesland).
+Formulas/refs: income tax (Grundtabelle BMF), VAT (§§18, 19 UStG), trade tax (§11 GewStG; calculator <https://bmf-steuerrechner.de/gewst/>), solidarity surcharge (BMF info page).
 
 #### 1. Income tax (Einkommensteuer)
 
