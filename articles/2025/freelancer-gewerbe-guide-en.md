@@ -333,6 +333,8 @@ File by the 10th of the month following the period.
 
 Official thresholds are in §18 UStG and use the prior-year VAT owed. Example: prior-year VAT €3,600 → quarterly in the next year (~€900/quarter). Prior-year VAT €12,000 → monthly (~€1,000/month).
 
+**Numeric example:** prior-year VAT €4,500 → falls into the €2k–€9k band → quarterly prefiling. Roughly budget ~€1,125 per quarter (actual depends on current turnover), but the filing period stays quarterly.
+
 ------------------------------------------------------------------------
 
 #### 4. Advance tax payments
@@ -2167,6 +2169,9 @@ If you do not inform the employer and the side gig conflicts with the employment
 - **Betriebsprüfung** — tax audit.
 - **OSS (One-Stop-Shop)** — simplified VAT filing for EU B2C.
 - **EU-KUR** — EU small business regime with buyer-country limits.
+- **Vorauszahlung** — advance tax payments.
+- **Steuerbescheid** — tax assessment notice.
+- **Grundtabelle** — BMF income tax table/formulas.
 
 ## FAQ (short)
 
