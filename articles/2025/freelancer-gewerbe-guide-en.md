@@ -276,7 +276,7 @@ Taxes are a mandatory “quest” for every freelancer or small business in Germ
 | --- | --- | --- | --- | --- | --- |
 | Income tax (ESt) | Net income/profit | Everyone | Grundfreibetrag ~€12,096; progressive to 42/45% | Annual return; quarterly advances | Formulas: Grundtabelle BMF |
 | VAT (USt) | Turnover | Everyone unless KUR | KUR ≤€25k prior, ≤€100k current; Voranmeldung monthly if VAT owed > €9k | Voranmeldung monthly/quarterly; annual return | Vorsteuerabzug if not on KUR |
-| Trade tax (GewSt) | Profit from Gewerbe | Gewerbe only | Freibetrag ~€24,500; rate set by municipality | Annual after EÜR/income tax | Check Hebesatz: e.g., <https://www.hebesatzdatenbank.de/> |
+| Trade tax (GewSt) | Profit from Gewerbe | Gewerbe only | Freibetrag ~€24,500; base 3.5% × municipal Hebesatz (min 200%) | Annual after EÜR/income tax | Check Hebesatz: e.g., <https://www.hebesatzdatenbank.de/> |
 | Solidarity surcharge (Soli) | Add-on to ESt | High earners | Based on ESt amount | With ESt | --- |
 | Church tax | Add-on to ESt | If registered church member | 8–9% of ESt | With ESt | --- |
 
@@ -307,11 +307,11 @@ Most freelancers and Gewerbe owners must charge VAT (Mehrwertsteuer/Umsatzsteuer
 
 #### 3. Trade tax (Gewerbesteuer)
 
-Freelancers do not pay trade tax. Gewerbe owners pay it if annual profit exceeds roughly €24,500. The rate is set by your municipality (roughly 0–7% range).
+Freelancers do not pay trade tax. Gewerbe owners pay it if annual profit exceeds roughly €24,500. The rate = 3.5% × municipal Hebesatz (cannot be below 200% per §16(3) GewStG), so the effective span is roughly 7–31.5%. Paid trade tax is credited against income tax under §35(1) EStG (often fully up to Hebesatz ~380%), so the net burden rises less than the paperwork.
 
 #### 4. Cooperative and corporate taxes
 
-Freelancers do not pay corporate tax (Körperschaftsteuer); that applies to capital companies like GmbH, AG, or UG.
+Freelancers do not pay corporate tax (Körperschaftsteuer); it applies to Kapitalgesellschaften like GmbH, AG, or UG—not to “capital investments” themselves. Private investment income is taxed separately (Abgeltungsteuer), outside this guide.
 
 ### VAT (Umsatzsteuer) and how to pay it
 
@@ -323,7 +323,7 @@ VAT is due when you issue the invoice, even if unpaid. This can create cash-flow
 
 #### 2. Ist-Versteuerung (VAT due on payment date)
 
-VAT is due only after the client pays. Better for liquidity. To use it, you must meet criteria, including turnover under €800,000 (from 01.01.2025).
+VAT is due only after the client pays. Better for liquidity. For businesses obliged to keep double-entry books, turnover must be under €800,000 (from 01.01.2025). Freiberufler can use Ist-Versteuerung regardless of turnover because they are not required to keep double-entry accounts (§20(1) Nr.3 UStG).
 
 #### 3. VAT prefilings (Umsatzsteuer-Voranmeldung)
 
@@ -363,7 +363,7 @@ You learn the final income tax after year-end, so advances spread the cost. If y
 
 #### 2. Recalculation and final tax payment
 
-After year-end you file the final return. If advances exceed the final bill, you get a refund. **Set money aside for these payments to avoid surprises.**
+After year-end you file the final return. If advances exceed the final assessed tax, you get a refund. **Set money aside for these payments to avoid surprises.**
 
 If you underpaid, you must pay the balance within a month of the assessment.
 
@@ -392,7 +392,7 @@ Examples:
 Partially deductible = only a portion counts, often because there’s a personal element.
 
 Examples:
-- **Client entertainment (Bewirtungskosten):** 70% of net cost is deductible; VAT can be reclaimed fully.
+- **Client entertainment (Bewirtungskosten):** 70% of net cost is deductible; VAT can be reclaimed fully only if you are VAT-registered with input-tax rights (no reclaim under KUR).
 - **Personal car used for work:** Deduct only the business-use share; personal use is not deductible.
 
 #### Which expenses are VAT-only deductible?
@@ -487,11 +487,11 @@ If you commute (home ↔ first workplace), add 0.03% of list price per km. Examp
 
 - *0.03% × 10 km × 12 months = **€1,260**.*
 
-This is added to private-use taxation, but you can also deduct the commuter allowance (Pendlerpauschale) at €0.30/km.
+This is added to private-use taxation, but you can also deduct the commuter allowance (Pendlerpauschale): €0.30 per distance km up to 20 km and €0.38 from the 21st km onward.
 
 #### 4. Tax benefits for EVs
 
-EVs and hybrids have special relief. For cars bought from 2019, you can use **0.25% of list price** if CO2 is zero and price ≤ €60,000.
+EVs and hybrids have special relief. For cars bought from 2019, you can use **0.25% of list price** if CO2 is zero and the gross list price is ≤ €100,000 at first registration.
 
 #### EV calculation example
 
@@ -532,6 +532,7 @@ Two main methods to deduct car costs:
 
 1. **Actual expenses.** Track all real costs: fuel, maintenance, insurance, vehicle tax, depreciation, parking, etc., then apportion by business-use share from your logbook. Best if you drive a lot for work.
 2. **Per-kilometer flat rate.** Simpler: deduct €0.30 per business km. Still keep a logbook, but you don’t track individual car costs.
+   For commuting between home and your regular workplace, a separate commuter allowance applies: €0.30 per distance km up to 20 km and €0.38 from the 21st km.
 
 #### 4. Registering the car to the business
 
@@ -571,11 +572,11 @@ Raising children is rewarding and expensive. Germany provides tax relief via **K
    Components: **Freibetrag für das Existenzminimum des Kindes** (basic needs) and **Freibetrag für den Betreuungs-, Erziehungs- und Ausbildungsbedarf** (care/education).
 
 2. Who can claim:
-   - Available to taxpayers in **classes I–IV**.
+   - Available to all taxpayers with children; tax classes are not a restriction. Employees in classes I–IV can add it to their ELStAM to reflect it in wage tax; self-employed claim it in the annual return.
    - **Co-living parents** file jointly and get the full amount.
    - **Separated parents** can split 50/50.
 
-3. Kinderfreibetrag vs **Kindergeld**: You don’t get both. The tax office runs a **Günstigerprüfung** to choose the better option. The allowance usually wins when income is above about **€64,000** (couples) or **€32,000** (single parents).
+3. Kinderfreibetrag vs **Kindergeld**: Parents don’t pick manually; the tax office runs a **Günstigerprüfung** and either leaves Kindergeld in place or replaces it with Kinderfreibetrag if that’s better. The allowance usually wins when income is above about **€64,000** (couples) or **€32,000** (single parents).
 
 4. How to claim: Include it in your tax return; the tax office will state in the Steuerbescheid whether Kinderfreibetrag or Kindergeld was more advantageous.
 
@@ -623,6 +624,7 @@ Some expenses can be claimed via flat rates without receipts. Example: home-offi
 - Limits: ≤€25,000 net prior year and ≤€100,000 net current year.
 - If you exceed €100,000 mid-year, switch to VAT immediately from the crossing invoice.
 - Sum all activities; notify Finanzamt and clients when switching.
+- Downsides: opting out of VAT means no input VAT deduction, so big purchases cost the VAT. Voluntary switch to standard VAT generally locks you in for 5 years (§19(2) UStG); you cannot hop back to KUR during that period.
 
 From 2025 the German small-business rule (§19 UStG) works with two net limits:
 
@@ -905,9 +907,8 @@ The obligation to receive e-invoices is anchored in Jahressteuergesetz 2024 / §
 
 Exemptions from mandatory e-invoice issuance:
 
-- VAT-exempt services (e.g., medical).
-
-- Small invoices up to €250 may still be sent as “other invoices,” including paper (e.g., tickets). Invoices for services exempt under § 4 Nr. 8–29 UStG are also out of scope.
+- Invoices for VAT-exempt operations (e.g., services under §4 Nr. 8–29 UStG such as many medical/financial services) can be sent as “other invoices” (paper/PDF).
+- Small invoices up to €250 may still be sent as “other invoices,” including paper (e.g., tickets).
 
 - **Kleinunternehmer (§19 UStG):** their sales are VAT-exempt (no input VAT deduction), so they are not obliged to issue e-invoices in the new format. They may keep paper or other electronic formats (e.g., PDF).
 
