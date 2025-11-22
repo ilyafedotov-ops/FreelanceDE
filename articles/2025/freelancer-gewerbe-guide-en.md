@@ -92,6 +92,7 @@ Questions or feedback? Email fedotov.ilya (at) gmail.com or reach out on LinkedI
 
 | **Change** | **Page** | **Date** | **Comments** | **Author** |
 |----|:--:|:--:|:--:|:--:|
+| E-invoice receipt reminders (contents + side gig) | Entire document | 22.11.2025 | Mandatory B2B receipt from 2025 | Ilya |
 | Europäische Kleinunternehmerregelung from 2025 | 32 | 08.01.2025 | 2025 updates | Ilya |
 | E-Rechnungspflicht | 42 | 08.01.2025 | 2025 updates | Ilya |
 | Neue Kleinunternehmerregelung 2025 | Entire document | 08.01.2025 | 2025 updates | Ilya |
@@ -1924,6 +1925,8 @@ Understanding the line between genuine and false self-employment is critical for
 ## 8. Side gig as self-employed
 
 In Germany, taking on a side gig as self-employed or as a freelancer is a popular way to earn extra income. Unlike traditional employment, self-employment lets you work for yourself but requires attention to legal and tax obligations. Here’s how to set up a side gig, required steps, and the taxes/limitations to consider.
+
+**Heads-up (e-invoices):** Even for a side gig, if you invoice B2B you must be able to receive and store structured e-invoices from 01.01.2025 (PDF ≠ e-invoice). Kleinunternehmer are exempt from issuing but not from receiving.
 
 #### 1. What is a self-employed side gig?
 
