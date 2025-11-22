@@ -40,7 +40,8 @@ Practical guide to registering and operating as a freelancer or small Gewerbe in
 - [6. Insurance](articles/2025/freelancer-gewerbe-guide-en.md#6-insurance)
 - [7. Work](articles/2025/freelancer-gewerbe-guide-en.md#7-work)
 - [8. Side gig as self-employed](articles/2025/freelancer-gewerbe-guide-en.md#8-side-gig-as-self-employed)
-- [9. Conclusion](articles/2025/freelancer-gewerbe-guide-en.md#9-conclusion)
+- [Freiberufler vs Gewerbe vs employee with side gig](articles/2025/freelancer-gewerbe-guide-en.md#freiberufler-vs-gewerbe-vs-employee-with-side-gig)
+- [Conclusion](articles/2025/freelancer-gewerbe-guide-en.md#conclusion)
 
 ## Repo structure
 - `articles/` — articles and assets

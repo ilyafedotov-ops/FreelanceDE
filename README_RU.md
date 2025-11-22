@@ -40,7 +40,8 @@
 - [6. Страховки](articles/2025/freelancer-gewerbe-guide.md#6-страховки)
 - [7. Работа](articles/2025/freelancer-gewerbe-guide.md#7-работа)
 - [8. Подработка как самозанятый](articles/2025/freelancer-gewerbe-guide.md#8-подработка-как-самозанятый)
-- [9. Заключение](articles/2025/freelancer-gewerbe-guide.md#9-заключение)
+- [Сравнение Freiberufler, Gewerbe, Angestellter mit Nebentätigkeit](articles/2025/freelancer-gewerbe-guide.md#сравнение-freiberufler-gewerbe-angestellter-mit-nebentätigkeit)
+- [Заключение](articles/2025/freelancer-gewerbe-guide.md#заключение)
 
 ## Структура репозитория
 - `articles/` — статьи и ресурсы
