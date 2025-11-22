@@ -289,7 +289,7 @@ Freelancers and Gewerbe owners pay income tax like any taxpayer. It’s based on
 
 Example: at €80,000 income, you don’t pay 42% on all of it; the effective rate is ~30–35% because only amounts above each threshold are taxed at higher rates. Use the effective rate to see total tax share—it’s always below the top marginal rate.
 
-<https://www.bmf-steuerrechner.de/ekst/eingabeformekst.xhtml>
+- Формулы/Grundtabelle BMF: <https://www.bmf-steuerrechner.de/ekst/eingabeformekst.xhtml>
 
 Example calculation:
 
