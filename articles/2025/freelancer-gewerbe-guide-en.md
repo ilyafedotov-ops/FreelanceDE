@@ -590,6 +590,16 @@ If your income exceeds the Kindergeld threshold, Kinderfreibetrag can be a signi
 
 For expenses to be accepted, document them properly. Every purchase or service should have a receipt/invoice showing date, amount, description, and seller. Keep all documents in a GoBD-compliant way for 6–10 years (many sources cite 8 years for Buchungsbelege from 2025); retain the original structured file for e-invoices.
 
+#### Document retention table (Aufbewahrungsfristen)
+
+| Document | Retention | Comment |
+| --- | --- | --- |
+| Invoices/receipts (Buchungsbelege, e-invoice XML) | 8–10 years | Keep original file/paper, GoBD |
+| Business correspondence | 6 years | Incoming/outgoing related to deals |
+| Tax returns/assessments (Bescheide) | 10 years | Until limitation periods end |
+| Bank statements | 10 years | PDF/CSV, GoBD |
+| Contracts | 6–10 years | Depending on tax relevance |
+
 ------------------------------------------------------------------------
 
 ### Simplified deductions (flat rates)
@@ -911,7 +921,7 @@ Remember:
 - German client, you use KUR: invoice without VAT plus §19 UStG note.
 - EU client, B2B with VAT ID: Reverse Charge with the customer’s VAT ID and wording.
 - US/non-EU client: export of services, “Umsatzsteuerfrei nach §4 Nr. 1a UStG.”
-- Platforms (Upwork/Fiverr/Stripe): treat platform receipts as gross revenue before fees; book fees as expenses; for FX, use your bank/PayPal rate on the settlement date.
+- Platforms (Upwork/Fiverr/Stripe): treat platform receipts as gross revenue before fees; book fees as expenses; for FX, use your bank/PayPal rate on the settlement date. Example: $1,000 hits Upwork, 10% fee → revenue €1,000 at settlement rate (gross), €100 fee as expense; VAT depends on client location (EU B2B RC, non-EU export).
 
 ### Invoicing outside the EU
 
