@@ -14,6 +14,8 @@ summary: >-
 
 Russian version: [Freelancer Gewerbe Guide (RU)](freelancer-gewerbe-guide.md)
 
+**Last updated:** 02.05.2026. Internal links, external sources, and key 2026 tax figures were checked: Grundfreibetrag, Kinderfreibetrag, Kleinunternehmerregelung limits, filing deadlines, and baseline health-insurance parameters. Rules can change, so before filing or applying, verify the current requirements with Finanzamt, Ausländerbehörde, Krankenkasse, or a Steuerberater.
+
 ## Contents
 
 - [Foreword](#foreword)
@@ -29,7 +31,7 @@ Russian version: [Freelancer Gewerbe Guide (RU)](freelancer-gewerbe-guide.md)
   - [Detailed registration](#detailed-registration)
   - [First 90 days checklist](#first-90-days-checklist)
 - [2. Taxes](#2-taxes)
-  - [Types of taxes for freelancers/Gewerbe](#types-of-taxes-for-freelancersgewerbe)
+  - [Types of taxes for freelancers and Gewerbe](#types-of-taxes-for-freelancers-and-gewerbe)
   - [VAT (Umsatzsteuer) and how to pay it](#vat-umsatzsteuer-and-how-to-pay-it)
   - [Tax optimization and limits for freelancers](#tax-optimization-and-limits-for-freelancers)
   - [Car for work](#car-for-work)
@@ -58,6 +60,9 @@ Russian version: [Freelancer Gewerbe Guide (RU)](freelancer-gewerbe-guide.md)
   - [Invoice template](#invoice-template)
   - [Invoicing via website and online platforms](#invoicing-via-website-and-online-platforms)
   - [Annual reporting](#annual-reporting)
+    - [Which forms to file by status](#which-forms-to-file-by-status)
+    - [Example scenarios](#example-scenarios)
+    - [Checklist before submitting](#checklist-before-submitting)
 - [4. Accounting software](#4-accounting-software)
 - [5. Banks](#5-banks)
   - [Overview of popular online banks for freelancers in Germany](#overview-of-popular-online-banks-for-freelancers-in-germany)
@@ -71,6 +76,13 @@ Russian version: [Freelancer Gewerbe Guide (RU)](freelancer-gewerbe-guide.md)
   - [False self-employment (Scheinselbständigkeit)](#false-self-employment-scheinselbständigkeit)
 - [8. Side gig as self-employed](#8-side-gig-as-self-employed)
   - [Employer notice template](#employer-notice-template-for-a-nebentätigkeit-de)
+- [9. Freelance visas](#9-freelance-visas)
+  - [Visa requirements](#visa-requirements)
+  - [Application process](#application-process)
+  - [Documents for foreigners](#documents-for-foreigners)
+  - [Visa extension](#visa-extension)
+- [Useful resources](#useful-resources)
+- [Freelancer communities in Germany](#freelancer-communities-in-germany)
 - [Quick glossary](#quick-glossary)
 - [FAQ (short)](#faq-short)
 - [10 common mistakes](#10-common-mistakes)
@@ -105,6 +117,7 @@ Questions or feedback? Email fedotov.ilya (at) gmail.com or reach out on LinkedI
 
 | **Change** | **Page** | **Date** | **Comments** | **Author** |
 |----|:--:|:--:|:--:|:--:|
+| 2026 tax figures and filing section update | Entire document | 02.05.2026 | Grundfreibetrag, Kinderfreibetrag, KUR, insurance contributions, filing deadlines, ELSTER forms by status | Ilya |
 | TL;DR, tax/insurance tables, FAQ/glossary | Entire document | 22.11.2025 | Added quick blocks, tax/status tables, FAQ/10 mistakes | Ilya |
 | Retention tables, platform/FX cases | Entire document | 22.11.2025 | GoBD with HR/tech docs; Upwork/Stripe numeric examples | Ilya |
 | Voranmeldung examples + BMF links | Taxes section | 22.11.2025 | §18 UStG examples, Grundtabelle link | Ilya |
@@ -135,7 +148,7 @@ In Germany any activity—freelance or business—has to be clearly classified. 
 
 A freelancer in Germany provides professional services not tied to trade or commerce. The key requirement is that the activity is intellectual and needs special expertise—doctors, lawyers, consultants, programmers, and similar roles. Not all self-employment qualifies; simple PC repairs, for example, may not.
 
-Freelancers are exempt from the Handelsregister (commercial register) and mandatory IHK membership, which reduces bureaucracy. But not every activity will be accepted as “freelance.” To check if you can be a Freiberufler, review the IHK guidance: [<u>https://www.ihk.de/emden/recht/gewerberecht/abgrenzung-gewerbe-und-freier-beruf-2353148</u>](https://www.ihk.de/emden/recht/gewerberecht/abgrenzung-gewerbe-und-freier-beruf-2353148)
+Freelancers are exempt from the Handelsregister (commercial register) and mandatory IHK membership, which reduces bureaucracy. But not every activity will be accepted as “freelance.” To check if you can be a Freiberufler, review the IHK guidance: [<u>https://www.ihk.de/magdeburg/recht/allgemeine-rechtsauskuenfte-1/gewerberecht-ordner/gewerbeordnung/freier-beruf/abgrenzung-gewerbe-und-freier-beruf-1717318</u>](https://www.ihk.de/magdeburg/recht/allgemeine-rechtsauskuenfte-1/gewerberecht-ordner/gewerbeordnung/freier-beruf/abgrenzung-gewerbe-und-freier-beruf-1717318)
 
 ### Gewerbe (small business owners)
 
@@ -273,15 +286,15 @@ Taxes are a mandatory “quest” for every freelancer or small business in Germ
 - Confirm status (Freiberufler vs Gewerbe) and whether Gewerbeamt is required.
 - Check KUR: ≤€25k prior year and ≤€100k current year → no VAT; above → standard VAT.
 - Voranmeldung: VAT owed > €9k prior year → monthly; €2k–9k → quarterly; ≤€2k → usually annual.
-- Income tax is progressive: ~€12,096 allowance, then up to 42/45%.
+- Income tax is progressive: the 2026 Grundfreibetrag is €12,348, then rates progress up to 42/45%.
 - International: EU B2B → Reverse Charge; non-EU → export of services (§4 Nr.1a UStG).
 
-### Types of taxes for freelancers/Gewerbe
+### Types of taxes for freelancers and Gewerbe
 #### Tax overview (quick table)
 
 | Tax | Base | Who pays | Key thresholds/rates | When to file/pay | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Income tax (ESt) | Net income/profit | Everyone | Grundfreibetrag ~€12,096; progressive to 42/45% | Annual return; quarterly advances | Formulas: Grundtabelle BMF |
+| Income tax (ESt) | Net income/profit | Everyone | 2026 Grundfreibetrag: €12,348; progressive to 42/45% | Annual return; quarterly advances | Formulas: Grundtabelle BMF |
 | VAT (USt) | Turnover | Everyone unless KUR | KUR ≤€25k prior, ≤€100k current; Voranmeldung monthly if VAT owed > €9k | Voranmeldung monthly/quarterly; annual return | Vorsteuerabzug if not on KUR |
 | Trade tax (GewSt) | Profit from Gewerbe | Gewerbe only | Freibetrag ~€24,500; base 3.5% × municipal Hebesatz (min 200%) | Annual after EÜR/income tax | Check Hebesatz: e.g., <https://www.hebesatzdatenbank.de/> |
 | Solidarity surcharge (Soli) | Add-on to ESt | High earners | Based on ESt amount | With ESt | --- |
@@ -292,17 +305,19 @@ Formulas/refs: income tax (Grundtabelle BMF), VAT (§§18, 19 UStG), trade tax (
 
 #### 1. Income tax (Einkommensteuer)
 
-Freelancers and Gewerbe owners pay income tax like any taxpayer. It’s based on net income (revenue minus deductible expenses) and is progressive (figures are for 2025):
+**Important:** the tax amounts and thresholds below were updated for 2026, but the final requirements depend on your situation. Before decisions on VAT, Kleinunternehmerregelung, EÜR, or deductions, verify the rules with Finanzamt or a Steuerberater.
 
-- Up to €12,096/year: 0% (Grundfreibetrag).
-- €12,097–€17,443: progressive, entering at ~14% and rising to ~24%.
-- €17,444–€68,480: progressive up to 42%.
-- €68,481–€277,825: 42%.
+Freelancers and Gewerbe owners pay income tax like any taxpayer. It’s based on net income (revenue minus deductible expenses) and is progressive (figures are for 2026):
+
+- Up to €12,348/year: 0% (Grundfreibetrag).
+- €12,349–€17,799: first progression zone, entering at about 14%.
+- €17,800–€69,878: second progression zone, gradually rising to 42%.
+- €69,879–€277,825: 42%.
 - Above €277,826: 45%.
 
 Example: at €80,000 income, you don’t pay 42% on all of it; the effective rate is ~30–35% because only amounts above each threshold are taxed at higher rates. Use the effective rate to see total tax share—it’s always below the top marginal rate.
 
-- Формулы/Grundtabelle BMF: <https://www.bmf-steuerrechner.de/ekst/eingabeformekst.xhtml>
+- Formulas/Grundtabelle BMF: <https://www.bmf-steuerrechner.de/>
 
 Example calculation:
 
@@ -310,7 +325,7 @@ Example calculation:
 
 #### 2. VAT (Umsatzsteuer)
 
-Most freelancers and Gewerbe owners must charge VAT (Mehrwertsteuer/Umsatzsteuer). The standard rate in Germany is 19%; some items like books and many foods use a reduced 7% rate. Exception: Kleinunternehmer with up to €25,000 annual turnover (from 2025) may be exempt from charging VAT.
+Most freelancers and Gewerbe owners must charge VAT (Mehrwertsteuer/Umsatzsteuer). The standard rate in Germany is 19%; some items like books and many foods use a reduced 7% rate. Exception: Kleinunternehmer: from 2025 the national thresholds are up to €25,000 turnover in the previous calendar year and up to €100,000 in the current year.
 
 #### 3. Trade tax (Gewerbesteuer)
 
@@ -336,7 +351,7 @@ VAT is due only after the client pays. Better for liquidity. For businesses obli
 
 Freelancers and Gewerbe must file VAT pre-returns monthly, quarterly, or annually depending on prior-year VAT:
 
-- If prior-year VAT liability **> €9,000** (2025 rule): file monthly.
+- If prior-year VAT liability **> €9,000**: file monthly.
 - If **€2,000–€9,000**: file quarterly.
 - If **≤ €2,000**: usually annual (can be fully exempt from prefilings).
 
@@ -573,9 +588,9 @@ Raising children is rewarding and expensive. Germany provides tax relief via **K
 #### Key points about Kinderfreibetrag
 
 1. Allowance amounts:
-   - 2023: **€8,952** per child.
    - 2024: **€9,540** per child.
    - 2025: **€9,600** per child.
+   - 2026: **€9,756** per child.
    Components: **Freibetrag für das Existenzminimum des Kindes** (basic needs) and **Freibetrag für den Betreuungs-, Erziehungs- und Ausbildungsbedarf** (care/education).
 
 2. Who can claim:
@@ -596,10 +611,9 @@ This is in addition to Kinderfreibetrag if you still receive Kindergeld for the 
 
 #### Example of using Kinderfreibetrag
 
-Example: one child, you claim Kinderfreibetrag in 2024:
-1. Deduction: €9,540* from taxable income.
-2. Tax reduction: at 30% ≈ **€2,862** (30% of €9,540).
-*\*2025:* €9,600.
+Example: one child, you claim Kinderfreibetrag in 2026:
+1. Deduction: €9,756 is included in the taxable-income calculation.
+2. Tax reduction: at an illustrative 30% rate this lowers the tax burden by about **€2,927** (30% of €9,756). The actual effect is calculated by Finanzamt through the Günstigerprüfung.
 If your income exceeds the Kindergeld threshold, Kinderfreibetrag can be a significant benefit.
 
 ------------------------------------------------------------------------
@@ -624,7 +638,7 @@ For expenses to be accepted, document them properly. Every purchase or service s
 
 ### Simplified deductions (flat rates)
 
-Some expenses can be claimed via flat rates without receipts. Example: home-office flat rate of €6 per home-work day, capped at €1,260/year (2024). Other flat rates exist for small office supplies, etc.
+Some expenses can be claimed via flat rates without receipts. Example: home-office flat rate of €6 per home-work day, capped at €1,260/year. Other flat rates exist for small office supplies, etc.
 
 ### Applying Kleinunternehmerregelung
 **Quick view:**
@@ -681,9 +695,9 @@ From 1 Jan 2025 an EU small-business VAT regime (EU-KUR) starts. It eases cross-
 
 Handy **tax calculators**:
 
-[<u>https://www.bmf-steuerrechner.de/ekst/eingabeformekst.xhtml</u>](https://www.bmf-steuerrechner.de/ekst/eingabeformekst.xhtml)
+[<u>https://www.bmf-steuerrechner.de/</u>](https://www.bmf-steuerrechner.de/)
 
-[<u>https://www.steuertipps.de/service/rechner/einkommensteuer-rechner?srsltid=AfmBOopS24R43CYbWcUUJI2sR2hsVbgJKObMVeehVly36oKFrAoSClO8/</u>](https://www.steuertipps.de/service/rechner/einkommensteuer-rechner?srsltid=AfmBOopS24R43CYbWcUUJI2sR2hsVbgJKObMVeehVly36oKFrAoSClO8/)
+[<u>https://www.steuertipps.de/service/rechner/einkommensteuer-rechner</u>](https://www.steuertipps.de/service/rechner/einkommensteuer-rechner)
 
 ### Tax advisor
 
@@ -745,13 +759,11 @@ Resources to find a Steuerberater in Germany:
 
 1. [**<u>Steuerberater.de</u>**](https://www.steuerberater.de) — large directory; filter by location/specialty.
 
-2. [**<u>Steuerberater Verzeichnis</u>**](https://www.steuerberater-verzeichnis.com) — database of certified advisors searchable by city/region.
+2. [**<u>Amtliches Steuerberaterverzeichnis</u>**](https://steuerberaterverzeichnis.berufs-org.de/?lang=de) — official register of the Federal Chamber of Tax Advisors, useful for checking whether someone is a registered Steuerberater.
 
 3. [**<u>DATEV eG</u>**](https://www.datev.com) — accounting/tax professional network; find advisors using modern tooling.
 
 4. [**<u>Wirtschaftsprüferkammer</u>**](https://www.wpk.de) — auditors’ chamber registry, useful for complex/business/international cases.
-
-5. [**<u>MeineStadt.de</u>**](https://www.meinestadt.de) — portal to search specialists, including tax advisors, by city/region.
 
 #### Conclusion
 
@@ -780,9 +792,9 @@ EÜR uses the **Zu- und Abflussprinzip** (cash principle): income is recognized 
 ### Who must file EÜR?
 
 EÜR is required for:
-1. **Kleinunternehmer** with income ≤ €25,000.
+1. **Kleinunternehmer** if prior-calendar-year turnover did not exceed €25,000 and current-year turnover does not exceed €100,000.
 2. **Freelancers** (science, arts, education, consulting, etc.).
-3. **Sole proprietors** if turnover ≤ €600,000 (€800,000 after 01.01.2027) and profit ≤ €60,000.
+3. **Sole proprietors** if they are not required to use double-entry bookkeeping. In 2026, the tax bookkeeping thresholds under §141 AO are more than €800,000 turnover or more than €80,000 profit per calendar year.
 
 ### How to create and submit EÜR
 
@@ -1139,6 +1151,37 @@ File on time. Main forms:
 - **Umsatzsteuererklärung** – VAT return, if VAT-registered.
 - **Gewerbesteuererklärung** – trade tax return (if applicable).
 
+The exact set of forms depends on your registration, VAT status, main employment, EU clients, and the requirements of your local Finanzamt. If ELSTER shows an additional form or Finanzamt sends a request, follow that request or clarify with a Steuerberater.
+
+#### Which forms to file by status
+
+| Situation | Forms usually filed | What to watch |
+| --- | --- | --- |
+| Freiberufler without VAT or Kleinunternehmer | Einkommensteuererklärung, Anlage S, Anlage EÜR | Kleinunternehmer do not charge VAT on invoices, but still declare income and expenses. In EÜR, report turnover correctly and do not claim Vorsteuerabzug. |
+| Freiberufler with VAT | Einkommensteuererklärung, Anlage S, Anlage EÜR, Umsatzsteuererklärung, and if needed Umsatzsteuer-Voranmeldung | Reconcile Umsatzsteuer, Vorsteuer, advance returns, and actual payments. B2B clients in the EU may require Zusammenfassende Meldung. |
+| Gewerbe without VAT or Kleinunternehmer | Einkommensteuererklärung, Anlage G, Anlage EÜR, often Gewerbesteuererklärung | Even if no trade tax is due because of the €24,500 Freibetrag, Finanzamt may still expect a separate Gewerbesteuererklärung. |
+| Gewerbe with VAT | Einkommensteuererklärung, Anlage G, Anlage EÜR, Umsatzsteuererklärung, Umsatzsteuer-Voranmeldung, Gewerbesteuererklärung | Check invoice consistency, VAT, Vorsteuer, and trade tax. If turnover or profit grew, bookkeeping obligations may change. |
+| Main employment plus freelance or Gewerbe | Einkommensteuererklärung, Anlage N, Anlage S or Anlage G, Anlage EÜR | Tax is calculated on total annual income: salary, self-employed profit, insurance, children, deductions, and family situation. |
+| Multiple activities | Usually a separate Anlage EÜR for each activity or Steuernummer, plus Anlage S/G by income type | Do not mix Freiberufler and Gewerbe without checking. Finanzamt may issue different tax numbers or ask you to separate bookkeeping. |
+
+#### Example scenarios
+
+- **IT consultant, Freiberufler, Kleinunternehmer:** usually files Einkommensteuererklärung, Anlage S, and Anlage EÜR. No VAT is shown on invoices.
+- **Designer, Freiberufler with VAT:** files Einkommensteuererklärung, Anlage S, Anlage EÜR, and Umsatzsteuererklärung. If Voranmeldungen were filed, the annual amounts should reconcile.
+- **Online shop as Gewerbe:** usually files Einkommensteuererklärung, Anlage G, Anlage EÜR, Gewerbesteuererklärung, and VAT forms unless Kleinunternehmerregelung applies.
+- **Full-time employment plus small side gig:** the regular return includes Anlage N for salary, while freelance or Gewerbe income is reported through Anlage S or G and EÜR.
+
+#### Checklist before submitting
+
+- Check that all client invoices and all expenses are included in EÜR.
+- Reconcile bank incoming payments with invoices, especially refunds, partial payments, or foreign-currency payments.
+- If you are VAT-registered, compare Umsatzsteuererklärung with submitted Umsatzsteuer-Voranmeldungen.
+- Check whether Anlage N is needed if you had employment income during the year.
+- Add health-insurance contributions, pension payments, professional expenses, and other personal deductions in the relevant return sections.
+- Keep a copy of the submitted return, the ELSTER transmission protocol, and all supporting documents for the required retention period.
+
+Official forms and guidance are available in ELSTER: [all forms](https://www.elster.de/eportal/formulare-leistungen/alleformulare) and [Anlage EÜR](https://www.elster.de/eportal/formulare-leistungen/alleformulare/euer).
+
 ### Common mistakes (quick link)
 
 See [10 common mistakes](#10-common-mistakes) near the end.
@@ -1156,9 +1199,9 @@ These platforms integrate income/expense data, auto-generate required documents,
 
 Meet deadlines to avoid fines:
 - **By 31 July of the following year** if you file yourself.
-- **By 28 February of the following year** if you use a tax advisor.
+- **Usually by the end of February of the second following year** if you use a tax advisor or Lohnsteuerhilfeverein. If the date falls on a weekend, the deadline shifts to the next working day.
 
-Example: for tax year 2023, self-filing deadline is 31 July 2024; with a tax advisor it extends to 28 February 2025. Meeting deadlines avoids fines; using accounting tools simplifies prep/filing.
+Example: for tax year 2025, the self-filing deadline is 31 July 2026. With a tax advisor, the deadline usually moves to the end of February 2027, adjusted to the next working day if needed. Meeting deadlines avoids fines; using accounting tools simplifies prep/filing.
 
 ## 4. Accounting software
 
@@ -1360,16 +1403,16 @@ For the latest offers on business accounts (Geschäftskonto), see:
 
 Freelancers in Germany should consider key insurances to protect themselves and their business. Some are mandatory, others strongly recommended depending on your work.
 
-Contribution ceilings (BBG/JAEG) shift annually; amounts below are 2025-style ranges—always check current TK/BMG/DRV figures.
+Contribution ceilings (BBG/JAEG) shift annually; amounts below are 2026-oriented figures—always check current TK/BMG/DRV figures.
 
 **Quick view:**
-- Health insurance is mandatory (GKV ~14.6% + add-on; PKV fixed).
+- Health insurance is mandatory: GKV 14.6% + Zusatzbeitrag, with the average Zusatzbeitrag for 2026 at 2.9%; Pflegeversicherung is generally 3.6%, or 4.2% for childless people older than 23.
 - Consider liability (Haftpflicht) and disability (BU) as baseline optional covers.
 - Check whether DRV/KSK applies to your profession; contributions depend on BBG/JAEG and change yearly.
 
 #### 1. Health and long-term care insurance (Krankenversicherung + Pflegeversicherung)
 
-Health insurance is mandatory. You can choose public (GKV) or private (PKV). Private can be cheaper for young/healthy since it’s not income-based; public is ~14.6% plus 1–2% add-on, plus ~3–4% for long-term care (Pflege). Public allows free family coverage; private does not.
+Health insurance is mandatory. You can choose public (GKV) or private (PKV). Private can be cheaper for young/healthy people because it is not income-based. In the public system, the base rate is 14.6% plus the individual Zusatzbeitrag of your Krankenkasse; the average Zusatzbeitrag for 2026 is 2.9%. Pflegeversicherung is generally 3.6%, or 4.2% for childless people older than 23. Public insurance can include free family coverage; private usually does not.
 
 Cost: **€250–€1,000/month** depending on plan.
 
@@ -1383,7 +1426,7 @@ Cost: €5–€20/month.
 
 Mandatory only for some professions (e.g., journalists, doctors, teachers). Others: public pension is voluntary. Start early—there’s no state safety net for freelancers.
 
-Cost: **~€900–€1,000/month** in the public system (full rate, 2025 range); minimum voluntary classes can start around €100/month. You choose contribution amount.
+Cost: if you voluntarily pay into gesetzliche Rentenversicherung, the 2026 range is roughly from the minimum voluntary contribution of about €112/month to the maximum contribution of about €1,572/month. Some self-employed professions have mandatory pension rules with different calculations.
 
 #### Künstlersozialkasse (KSK) for creative professions
 
@@ -1400,6 +1443,12 @@ Cost: €60–€200/month.
 Important for consultants/project work; protects against work errors causing client losses (e.g., bad advice, IP issues). Covers legal costs/penalties.
 
 Cost: €10–€50/month.
+
+#### Insurance for foreigners
+
+If you are in Germany on a visa or residence permit, insurance is not only a tax and budgeting issue; it can also affect immigration status. For visa applications or renewals, authorities usually expect valid health insurance, sufficient income, and a credible plan for covering risks. Travel insurance is almost never suitable as a long-term solution for living and working in Germany.
+
+If you move from studies, employment, or another residence title into self-employment, check in advance with your Krankenkasse and Ausländerbehörde which insurance type is accepted. Private insurance may look cheaper at the start, but family coverage, chronic conditions, and any future return to GKV should be checked before signing.
 
 #### 6. Business liability (Betriebshaftpflichtversicherung)
 
@@ -2030,11 +2079,17 @@ In Germany, taking on a side gig as self-employed or as a freelancer is a popula
 - Watch KUR/VAT limits and Grundfreibetrag; taxes apply to total income.
 - Keep total working time within 48h/week and maintain basic bookkeeping.
 
-#### 1. What is a self-employed side gig?
+#### 1. Combining with a main job
+
+A self-employed side gig is possible if it does not interfere with your main job, breach your employment contract, or create a conflict of interest. In practice, first check your contract: it may contain a Nebentätigkeit clause, notification duty, or written-consent requirement. Even if there is no explicit ban, it is safer to document that the side gig is done outside working hours, on your own equipment, and without using your employer’s confidential information.
+
+Also watch workload. If freelancing causes constant fatigue, missed duties, or competition with your employer, it can become a labor-law and relationship problem.
+
+#### 2. What is a self-employed side gig?
 
 A self-employed side gig (Nebentätigkeit als Freiberufler) is work you perform under contracts with clients rather than an employment contract. You are fully responsible for organizing work, finding clients, and paying taxes/insurance contributions.
 
-#### 2. Is freelancing as a side gig right for you?
+#### 3. Is freelancing as a side gig right for you?
 
 Before starting, assess whether freelancing fits alongside your main job. A side gig suits those who:
 
@@ -2046,7 +2101,7 @@ Before starting, assess whether freelancing fits alongside your main job. A side
 
 Freelancing can extend your main profession or be something entirely different.
 
-#### 3. Registering as self-employed
+#### 4. Registering as self-employed
 
 To work legally you must register, depending on work type (see Chapter 1):
 
@@ -2054,19 +2109,23 @@ To work legally you must register, depending on work type (see Chapter 1):
 
 - **Trade/business activity (Gewerbe):** If the side gig involves trade, craft, or commercial activity, you must register a Gewerbe (Gewerbeanmeldung) in addition to notifying the tax office.
 
-#### 4. Getting a tax number and paying taxes
+#### 5. Tax specifics for part-time self-employment
 
 After registration the tax office issues a tax number (Steuernummer) for invoices and tax returns.
 
 Key tax points:
 
-- **Income tax (Einkommensteuer):** Declare all freelance income and pay income tax. If side-gig income is below €10,096/year (2024), you owe no income tax due to the basic allowance (Grundfreibetrag).
+- **Income tax (Einkommensteuer):** You must declare freelance income. In 2026, the Grundfreibetrag is €12,348, but for side gigs the important point is total annual income and deductions, not the freelance income in isolation.
 
-- **VAT (Umsatzsteuer):** If annual side-gig revenue exceeds €25,000, you must charge VAT. You can use the small business rule (Kleinunternehmerregelung) if under the limit, meaning you do not charge or remit VAT.
+- **VAT (Umsatzsteuer):** If you do not use Kleinunternehmerregelung, you must charge and report VAT. For Kleinunternehmer, from 2025 the thresholds are up to €25,000 turnover in the previous calendar year and up to €100,000 in the current year.
 
 - **Bookkeeping:** Track all income/expenses and file tax returns regularly.
 
-#### 5. Social and health insurance
+For part-time self-employment, the tax office looks at total annual income: salary, freelance profit, deductions, and family situation. Even a small side gig belongs in the tax return, and invoices and expenses should be stored from day one. If you use Kleinunternehmerregelung, watch the current turnover limits and do not show VAT on invoices unless you are entitled to.
+
+Check health insurance separately. If the main job remains your main source of income and time, health-insurance contributions often continue through the employer, but if freelance income grows, your Krankenkasse may request data and reassess status or contributions.
+
+#### 6. Social and health insurance
 
 If you combine a side gig with a main job, social insurance works differently than for fully self-employed people. Your employer covers most social contributions; the side gig affects some aspects.
 
@@ -2078,17 +2137,17 @@ If the side gig is secondary (not your main income), your employer continues pen
 
 Your main employer already covers health insurance, so a side gig does not mean paying full health premiums twice. But total income (main job + side gig) can affect contribution amounts, especially if income rises substantially.
 
-If you earn above certain thresholds (e.g., €65,400/year in 2024), you may need to choose private health insurance (PKV) instead of statutory. The side gig can influence this choice.
+If your employment income exceeds the Jahresarbeitsentgeltgrenze, you may choose between freiwillige GKV and private health insurance (PKV). In 2026, this threshold is €77,400/year. A self-employed side gig can affect how your Krankenkasse evaluates your status, so clarify consequences in advance.
 
 For those staying employed full time, statutory insurance (GKV) usually covers all necessary costs; the side income only adjusts the monthly contribution.
 
-#### 6. Side gig limitations
+#### 7. Side gig limitations
 
 Keep these limits in mind from both tax authorities and your employer:
 
 - **Time limits:** German law caps total weekly working hours (including side work) at 48. With a 40-hour main job, freelance work should be limited to ~8 hours/week.
 
-- **Income limits:** If side income exceeds €450/month, you must pay taxes on it.
+- **Income limits:** There is no universal €450/month threshold for freelance work: income must be declared in the annual tax return. The 2026 Minijob threshold is €603/month, but it applies to employment, not self-employment.
 
 - **Conflict of interest:** If the side gig could conflict with your main job duties, get employer approval. For example, freelancing in the same field as your employer may trigger conflicts. Many German employers include clauses restricting side work without consent.
 
@@ -2160,6 +2219,70 @@ If you do not inform the employer and the side gig conflicts with the employment
 - **Verbal or written warnings.** If the employer sees that side work affects main duties or breaches the contract, they may issue warnings.
 
 - **Termination of employment.** In serious cases—e.g., disclosing trade secrets or harming the company—the employer may end the employment without notice.
+
+## 9. Freelance visas
+
+**Important:** visa requirements depend on city, citizenship, profession, and current Aufenthaltstitel. Before applying or starting work, verify the current conditions with your Ausländerbehörde or the German consulate.
+
+If you are not an EU/EEA citizen and want to work independently in Germany, you generally need a residence title that explicitly permits Selbständigkeit or freiberufliche Tätigkeit. For Freiberufler, this often means a residence permit for self-employment under §21 AufenthG, but the exact path depends on profession, city, and whether you apply from abroad or already live in Germany.
+
+The key rule: first check that your current status permits self-employment. If your residence title is limited to a specific employer or does not permit Selbständigkeit, starting freelance work without clarification is risky.
+
+### Visa requirements
+
+Authorities usually check professional qualification, a clear business model, financial plan, clients or letters of intent, health insurance, and sufficient means of support. Some professions may require degrees, portfolio, contracts, housing documents, and an explanation of why the activity is economically viable.
+
+Document lists differ by city. Berlin LEA, for example, publishes its own list for the freelance residence permit, while Make it in Germany gives a federal overview. Use federal sources as orientation, but verify the final list with your local Ausländerbehörde.
+
+### Application process
+
+If applying from abroad, the process usually starts at a German consulate or embassy. After entering Germany and registering your address, parts of the process may move to the local Ausländerbehörde. If you already live in Germany with another residence title, you often need to apply for a change or extension before starting self-employment.
+
+In practice, prepare a short activity description, projected income, client confirmations, insurance, and housing documents early. Ausländerbehörde appointments can take time, so do not leave renewal or status changes until the final month.
+
+### Documents for foreigners
+
+A practical document set often includes:
+
+- passport and current Aufenthaltstitel, if you already have one;
+- Anmeldung and rental contract or housing confirmation;
+- CV, degrees, certificates, portfolio;
+- description of freelance activity or business plan;
+- Finanzplan: expected income, expenses, taxes, insurance;
+- potential-client letters, contracts, or letters of intent;
+- proof of health insurance;
+- bank statements or other proof of financial stability;
+- if available, Finanzamt registration, Steuernummer, or confirmation that the Fragebogen was submitted.
+
+Not every document is needed for everyone, but it is better to have more evidence prepared than to explain gaps during the appointment.
+
+### Visa extension
+
+For renewal, authorities usually check whether the activity actually works: income, tax documents, client invoices, bank incoming payments, health insurance, and absence of serious legal or debt issues. Keep Steuerbescheide, EÜR, contracts, Rechnungen, and business-bank statements organized.
+
+In the long term, successful self-employment may support an application for Niederlassungserlaubnis, but timing and requirements depend on status, pension contributions, language, income, and residence history. Plan this early with Ausländerbehörde or an immigration advisor.
+
+## Useful resources
+
+For current rules, start with official sources before relying on blogs, forums, or personal experience:
+
+- [ELSTER](https://www.elster.de/eportal/start) — tax portal for registration, returns, and communication with Finanzamt.
+- [Make it in Germany: Visa for self-employment](https://www.make-it-in-germany.com/en/visa-residence/types/other/self-employment) — official overview of the self-employment visa.
+- [Make it in Germany: Visa for freelance business](https://www.make-it-in-germany.com/en/working-in-germany/setting-up-business/visa/freelance) — dedicated section for Freiberufler.
+- [Berlin LEA: freelance residence permit](https://service.berlin.de/dienstleistung/328332/en/) — example document list and process for Berlin.
+- [Bundesministerium für Gesundheit](https://www.bundesgesundheitsministerium.de/en/themen/krankenversicherung/online-ratgeber-krankenversicherung/krankenversicherung/statutory-health-insurance-shi) — baseline health-insurance information.
+- [Bundesagentur für Arbeit](https://www.arbeitsagentur.de/freiwillige-arbeitslosenversicherung) — voluntary unemployment insurance for self-employed people.
+
+## Freelancer communities in Germany
+
+Communities are useful not as legal sources, but as a way to understand practice: what Finanzamt asks, how people find Steuerberater, and how long Anmeldung or residence-permit renewal takes. Good starting points:
+
+- local Slack, Telegram, and Discord communities in your profession;
+- LinkedIn groups for Freiberufler, IT freelancing, and business in Germany;
+- Meetup events for startups, independent consultants, and expat communities;
+- professional associations, such as IHK for Gewerbe or industry associations for your profession.
+
+Use communities for experience and contacts, but verify tax, visa, and insurance decisions through official sources or a specialist.
 
 ## Quick glossary
 
