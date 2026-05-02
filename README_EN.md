@@ -1,58 +1,119 @@
-# FreelanceDE — Navigator (EN)
+# FreelanceDE — English README
 
-[Перейти на русский](README_RU.md)
+[Русская версия](README_RU.md) | [Home](README.md)
 
-Main navigation in English: what’s in the repo, how to read the article, and where the accounting sections live.
+FreelanceDE is a practical content project about freelancing and Gewerbe in Germany. The main format is Markdown articles with images, plus HTML/DOCX exports for publishing and migration.
 
-## About
-Guides and articles about freelancing in Germany. Markdown-based; licensed under CC BY-NC 4.0.
+There is no application and no build step. This repository stores articles, assets, sources, exports, and related media.
 
-## Current article
-- EN: [articles/2025/freelancer-gewerbe-guide-en.md](articles/2025/freelancer-gewerbe-guide-en.md)
-- RU: [articles/2025/freelancer-gewerbe-guide.md](articles/2025/freelancer-gewerbe-guide.md)
-- License: CC BY-NC 4.0; use at your own risk.
+## Start Here
 
-## Short summary
-Practical guide to registering and operating as a freelancer or small Gewerbe in Germany: Elster onboarding, quick and detailed registration, taxes (VAT, Kleinunternehmerregelung 2025, Europäische KUR), EÜR, invoicing and e-invoicing, software, banks, insurance, contracts, and client acquisition.
+- Main English guide: [articles/2025/freelancer-gewerbe-guide-en.md](articles/2025/freelancer-gewerbe-guide-en.md)
+- Russian version: [articles/2025/freelancer-gewerbe-guide.md](articles/2025/freelancer-gewerbe-guide.md)
+- Article index: [articles/README.md](articles/README.md)
+- Blog/WordPress HTML version: [blog/freelance-guide.ru.html](blog/freelance-guide.ru.html)
 
-## What’s inside (incl. accounting)
-- Registration: Elster, Freiberufler vs Gewerbe, fast and detailed paths.
-- Taxes: VAT basics, Kleinunternehmerregelung (25k threshold from 2025), Europäische KUR, advance payments, example calculations.
-- Accounting: EÜR (cash basis), what’s deductible, expenses/depreciation, invoice requirements, e-invoicing rollout 2025–2027, reverse charge.
-- Tooling: bookkeeping software (Lexoffice, SevDesk, etc.), freelancer-friendly banks, payment providers (Stripe/Wise), invoice templates.
-- Risk/ops: insurance, contracts, Scheinselbständigkeit, rate-setting and finding clients.
+## What the Main Guide Covers
 
-## Quick accounting notes
-- Maintain EÜR: cash-basis income/expenses; keep evidence.
-- Invoices must contain business details, date/number, service description, amounts, VAT or exemption basis, and payment terms.
-- Kleinunternehmerregelung: up to €25,000 turnover (from 2025) — no VAT, but cite the exemption on invoices.
-- E-invoicing: phased obligation starting 2025; see the e-invoice section for dates and formats.
+- Freiberufler vs Gewerbe;
+- registration with Finanzamt, ELSTER, and Gewerbeamt;
+- Einkommensteuer, Umsatzsteuer, Kleinunternehmerregelung, Gewerbesteuer;
+- EÜR and annual tax filing;
+- filing forms by status: Freiberufler, Gewerbe, Kleinunternehmer, employment plus side gig;
+- invoices, e-Rechnung, Reverse Charge, and international clients;
+- business bank accounts, payment providers, and accounting tools;
+- health, pension, professional liability, and other insurance topics;
+- contracts, Scheinselbständigkeit, client acquisition, and rate calculation;
+- self-employed side gigs;
+- freelance visa basics and official resources.
 
-## Article table of contents (EN version)
-- [Foreword](articles/2025/freelancer-gewerbe-guide-en.md#foreword)
-- [About the Author](articles/2025/freelancer-gewerbe-guide-en.md#about-the-author)
-- [Changelog](articles/2025/freelancer-gewerbe-guide-en.md#changelog)
-- [Chapter 1. Introduction](articles/2025/freelancer-gewerbe-guide-en.md#chapter-1-introduction)
-- [2. Taxes](articles/2025/freelancer-gewerbe-guide-en.md#2-taxes)
-- [3. Accounting and invoices](articles/2025/freelancer-gewerbe-guide-en.md#3-accounting-and-invoices)
-- [4. Accounting software](articles/2025/freelancer-gewerbe-guide-en.md#4-accounting-software)
-- [5. Banks](articles/2025/freelancer-gewerbe-guide-en.md#5-banks)
-- [6. Insurance](articles/2025/freelancer-gewerbe-guide-en.md#6-insurance)
-- [7. Work](articles/2025/freelancer-gewerbe-guide-en.md#7-work)
-- [8. Side gig as self-employed](articles/2025/freelancer-gewerbe-guide-en.md#8-side-gig-as-self-employed)
-- [Freiberufler vs Gewerbe vs employee with side gig](articles/2025/freelancer-gewerbe-guide-en.md#freiberufler-vs-gewerbe-vs-employee-with-side-gig)
-- [Conclusion](articles/2025/freelancer-gewerbe-guide-en.md#conclusion)
+## Current Status
 
-## Repo structure
-- `articles/` — articles and assets
-- `articles/assets/<slug>/` — per-article images
-- `articles/README.md` — article index
-- `sources/` — source and exported files (docx/html)
-- `CONTRIBUTING.md`, `STYLEGUIDE.md`, `CODE_OF_CONDUCT.md`, `LICENSE`
+The main guide was refreshed on `02.05.2026`. The latest update checked and refreshed:
 
-## How to read and update
-- Read directly on GitHub or in a local Markdown viewer.
-- To update: create a branch (`git checkout -b article/<slug>`), add `articles/<year>/<slug>.md`, update `articles/README.md`, commit/push over SSH, open a PR.
+- 2026 Grundfreibetrag and Einkommensteuer brackets;
+- Kinderfreibetrag;
+- Kleinunternehmerregelung limits;
+- Umsatzsteuer-Voranmeldung thresholds;
+- annual filing deadlines;
+- GKV, Pflegeversicherung, Rentenversicherung, and JAEG figures;
+- sections on insurance for foreigners, freelance visas, resources, and communities.
+
+Older release notes may still reference `2025.Q4`; for content accuracy, use the article changelog as the closest source of truth.
+
+## Important
+
+The content is educational and practical. It is not tax, legal, accounting, or immigration advice.
+
+Before filing documents or making decisions, verify current requirements with official sources, Finanzamt, Ausländerbehörde, Krankenkasse, or a qualified Steuerberater.
+
+## Repository Layout
+
+```text
+articles/
+  2025/
+    freelancer-gewerbe-guide.md       Russian Markdown guide
+    freelancer-gewerbe-guide-en.md    English Markdown guide
+  assets/
+    freelancer-gewerbe-guide/         Images used by the guide
+  README.md                           Article index
+
+blog/
+  freelance-guide.ru.html             WordPress-style HTML version of the Russian guide
+
+sources/
+  freelanceguide.html                 Source/export copy
+  freelancer_gewerbe_guide_v0.5.docx  DOCX source/export
+
+podcasts/
+  FreelancerDE-Podcast-*.mp4          Related podcast/video files
+```
+
+## Editing Workflow
+
+For normal content updates:
+
+1. Update [articles/2025/freelancer-gewerbe-guide.md](articles/2025/freelancer-gewerbe-guide.md) first.
+2. If the topic exists in both languages, mirror the change in [articles/2025/freelancer-gewerbe-guide-en.md](articles/2025/freelancer-gewerbe-guide-en.md).
+3. Update the changelog near the top of the relevant article.
+4. If the public HTML page must match, update [blog/freelance-guide.ru.html](blog/freelance-guide.ru.html).
+5. Update files in [sources/](sources/) only when intentionally refreshing source/export versions.
+
+For tax, insurance, and visa updates, check official sources first: BMF, ELSTER, BMG, DRV, Bundesagentur für Arbeit, Make it in Germany, Berlin LEA, IHK, BZSt, and current law texts.
+
+## Useful Checks
+
+```bash
+# Find old or suspicious values
+rg -n "2024|2025|12 096|10 096|450 евро|€450|bmf-steuerrechner.de/ekst" articles/2025 blog
+
+# Check HTML internal anchors
+node - <<'NODE'
+const fs = require('fs');
+const html = fs.readFileSync('blog/freelance-guide.ru.html', 'utf8');
+const ids = new Set([...html.matchAll(/\bid=["']([^"']+)["']/g)].map(m => m[1]));
+const hrefs = [...html.matchAll(/href=["']#([^"']+)["']/g)].map(m => m[1]);
+const missing = [...new Set(hrefs.filter(h => !ids.has(h)))];
+console.log({ internalLinks: hrefs.length, missing: missing.length });
+if (missing.length) console.log(missing.join('\n'));
+NODE
+
+# Check HTML warnings
+tidy -utf8 -qe blog/freelance-guide.ru.html
+```
+
+`tidy` may report legacy warnings from WordPress/Word HTML: missing doctype, old generated IDs, missing image alt text, or nested emphasis. Treat malformed links, broken anchors, and new structural issues as problems.
+
+## Contributing
+
+```bash
+git clone git@github.com:ilyafedotov-ops/FreelanceDE.git
+cd FreelanceDE
+git checkout -b article/<slug>
+```
+
+Then edit the relevant files, check links/anchors, commit/push, and open a pull request.
 
 ## License
+
 CC BY-NC 4.0. Use at your own risk; no warranty.

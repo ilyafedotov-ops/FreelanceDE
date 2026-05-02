@@ -1,58 +1,119 @@
-# FreelanceDE — навигатор (RU)
+# FreelanceDE — русский README
 
-[Switch to English](README_EN.md)
+[English version](README_EN.md) | [Главная](README.md)
 
-Главная страница на русском: что в репозитории, как читать статьи и где найти ключевые разделы про бухгалтерию.
+Практический контентный проект о фрилансе и Gewerbe в Германии. Основной формат — Markdown-статьи с изображениями, плюс HTML/DOCX-экспорты для публикации и переноса.
 
-## О репозитории
-Гайды и статьи о фрилансе в Германии. Все материалы в Markdown, лицензия — CC BY-NC 4.0.
+В проекте нет приложения и отдельного build-step: это репозиторий для статей, источников, экспортов и сопутствующих материалов.
 
-## Текущая статья
-- RU: [articles/2025/freelancer-gewerbe-guide.md](articles/2025/freelancer-gewerbe-guide.md)
-- EN: [articles/2025/freelancer-gewerbe-guide-en.md](articles/2025/freelancer-gewerbe-guide-en.md) (пока в процессе перевода текста)
-- Лицензия: CC BY-NC 4.0; на ваш риск.
+## Быстрый старт
 
-## Кратко о статье
-Практическое руководство по регистрации и работе как фрилансер или владелец Gewerbe в Германии: Elster и формы, быстрый/подробный сценарий регистрации, налоги (НДС, Kleinunternehmerregelung 2025, Europäische KUR), EÜR, выставление счетов и э‑счета, софт, банки, страховки, контракты, поиск клиентов.
+- Основной русский гайд: [articles/2025/freelancer-gewerbe-guide.md](articles/2025/freelancer-gewerbe-guide.md)
+- Английская версия: [articles/2025/freelancer-gewerbe-guide-en.md](articles/2025/freelancer-gewerbe-guide-en.md)
+- Индекс статей: [articles/README.md](articles/README.md)
+- HTML-версия для blog/WordPress: [blog/freelance-guide.ru.html](blog/freelance-guide.ru.html)
 
-## Что внутри (с учётом бухгалтерии)
-- Регистрация: Elster, Freiberufler vs Gewerbe, быстрый и подробный сценарии.
-- Налоги: НДС, Kleinunternehmerregelung (порог 25k с 2025), Europäische KUR, авансовые платежи, примеры расчётов.
-- Бухгалтерия: EÜR (кассовый метод), что списывать, учёт расходов/амортизации, требования к счетам, электронные счета (этапы 2025–2027), reverse charge.
-- Инструменты: бухгалт. софт (Lexoffice, SevDesk и др.), банки для фрилансеров, платёжные провайдеры (Stripe/Wise), шаблоны счетов.
-- Риски/операционка: страховки, контракты, Scheinselbständigkeit, поиск клиентов и ставки.
+## Что покрывает основной гайд
 
-## Ключевые заметки по учёту
-- Ведите EÜR: доходы/расходы кассовым методом, храните подтверждения.
-- Счёт должен включать реквизиты, дату/номер, описание услуги, суммы, VAT/основание освобождения, платежные условия.
-- Kleinunternehmerregelung: оборот до 25 000 € (с 2025) — без НДС, но основание нужно указать на счёте.
-- Э-счета: обязательное поэтапное введение с 2025; см. раздел про электронные счета для дат и форматов.
+- разница между Freiberufler и Gewerbe;
+- регистрация через Finanzamt, ELSTER и Gewerbeamt;
+- Einkommensteuer, Umsatzsteuer, Kleinunternehmerregelung, Gewerbesteuer;
+- EÜR и годовая налоговая декларация;
+- формы декларации по статусам: Freiberufler, Gewerbe, Kleinunternehmer, работа по найму плюс подработка;
+- счета, e-Rechnung, Reverse Charge и международные клиенты;
+- банковские счета, платежные сервисы и бухгалтерский софт;
+- медицинское, пенсионное и профессиональное страхование;
+- контракты, Scheinselbständigkeit, поиск клиентов и расчет ставки;
+- подработка как самозанятый;
+- основы freelance-визы и полезные официальные ресурсы.
 
-## Оглавление статьи
-- [Предисловие](articles/2025/freelancer-gewerbe-guide.md#предисловие)
-- [Об Авторе](articles/2025/freelancer-gewerbe-guide.md#об-авторе)
-- [Список изменений](articles/2025/freelancer-gewerbe-guide.md#список-изменений)
-- [Глава 1. Введение](articles/2025/freelancer-gewerbe-guide.md#глава-1-введение)
-- [2. Про налоги](articles/2025/freelancer-gewerbe-guide.md#2-про-налоги)
-- [3. Бухгалтерия и счета](articles/2025/freelancer-gewerbe-guide.md#3-бухгалтерия-и-счета)
-- [4. ПО для Бухгалтерии](articles/2025/freelancer-gewerbe-guide.md#4-по-для-бухгалтерии)
-- [5. Банки](articles/2025/freelancer-gewerbe-guide.md#5-банки)
-- [6. Страховки](articles/2025/freelancer-gewerbe-guide.md#6-страховки)
-- [7. Работа](articles/2025/freelancer-gewerbe-guide.md#7-работа)
-- [8. Подработка как самозанятый](articles/2025/freelancer-gewerbe-guide.md#8-подработка-как-самозанятый)
-- [Сравнение Freiberufler, Gewerbe, Angestellter mit Nebentätigkeit](articles/2025/freelancer-gewerbe-guide.md#сравнение-freiberufler-gewerbe-angestellter-mit-nebentätigkeit)
-- [Заключение](articles/2025/freelancer-gewerbe-guide.md#заключение)
+## Актуальность
+
+Основной гайд обновлен `02.05.2026`. В последнем обновлении проверены и обновлены:
+
+- Grundfreibetrag и зоны Einkommensteuer на 2026 год;
+- Kinderfreibetrag;
+- лимиты Kleinunternehmerregelung;
+- пороги Umsatzsteuer-Voranmeldung;
+- сроки подачи годовой декларации;
+- GKV, Pflegeversicherung, Rentenversicherung и JAEG;
+- разделы про страховки для иностранцев, freelance-визы, ресурсы и сообщества.
+
+Старые release notes могут ссылаться на `2025.Q4`; для содержания статьи главным ориентиром является changelog внутри самой статьи.
+
+## Важно
+
+Материалы носят образовательный и практический характер. Это не налоговая, юридическая, бухгалтерская или миграционная консультация.
+
+Перед подачей документов или принятием решений проверяйте актуальные требования в официальных источниках, Finanzamt, Ausländerbehörde, Krankenkasse или у квалифицированного Steuerberater.
 
 ## Структура репозитория
-- `articles/` — статьи и ресурсы
-- `articles/assets/<slug>/` — изображения статьи
-- `articles/README.md` — индекс статей
-- `sources/` — исходники и экспортированные версии (docx/html)
-- `CONTRIBUTING.md`, `STYLEGUIDE.md`, `CODE_OF_CONDUCT.md`, `LICENSE`
 
-## Как читать и обновлять
-- Читайте статьи прямо на GitHub или через локальный редактор Markdown.
-- Для обновлений: создайте ветку (`git checkout -b article/<slug>`), добавьте файл в `articles/<year>/<slug>.md`, обновите `articles/README.md`, коммит/пуш через SSH, откройте PR.
+```text
+articles/
+  2025/
+    freelancer-gewerbe-guide.md       русский Markdown-гайд
+    freelancer-gewerbe-guide-en.md    английский Markdown-гайд
+  assets/
+    freelancer-gewerbe-guide/         изображения основного гайда
+  README.md                           индекс статей
+
+blog/
+  freelance-guide.ru.html             WordPress-style HTML-версия русского гайда
+
+sources/
+  freelanceguide.html                 source/export copy
+  freelancer_gewerbe_guide_v0.5.docx  DOCX source/export
+
+podcasts/
+  FreelancerDE-Podcast-*.mp4          связанные podcast/video-файлы
+```
+
+## Как обновлять материалы
+
+Для обычных текстовых изменений:
+
+1. Сначала обновите [articles/2025/freelancer-gewerbe-guide.md](articles/2025/freelancer-gewerbe-guide.md).
+2. Если тема есть в обеих версиях, зеркально обновите [articles/2025/freelancer-gewerbe-guide-en.md](articles/2025/freelancer-gewerbe-guide-en.md).
+3. Обновите changelog в начале соответствующей статьи.
+4. Если публичная HTML-страница должна совпадать, обновите [blog/freelance-guide.ru.html](blog/freelance-guide.ru.html).
+5. Файлы в [sources/](sources/) обновляйте только при сознательном обновлении source/export-версий.
+
+Для налоговых, страховых и визовых изменений сначала сверяйтесь с официальными источниками: BMF, ELSTER, BMG, DRV, Bundesagentur für Arbeit, Make it in Germany, Berlin LEA, IHK, BZSt и актуальными текстами законов.
+
+## Полезные проверки
+
+```bash
+# Найти старые или подозрительные значения
+rg -n "2024|2025|12 096|10 096|450 евро|€450|bmf-steuerrechner.de/ekst" articles/2025 blog
+
+# Проверить внутренние якоря HTML
+node - <<'NODE'
+const fs = require('fs');
+const html = fs.readFileSync('blog/freelance-guide.ru.html', 'utf8');
+const ids = new Set([...html.matchAll(/\bid=["']([^"']+)["']/g)].map(m => m[1]));
+const hrefs = [...html.matchAll(/href=["']#([^"']+)["']/g)].map(m => m[1]);
+const missing = [...new Set(hrefs.filter(h => !ids.has(h)))];
+console.log({ internalLinks: hrefs.length, missing: missing.length });
+if (missing.length) console.log(missing.join('\n'));
+NODE
+
+# Проверить HTML warnings
+tidy -utf8 -qe blog/freelance-guide.ru.html
+```
+
+`tidy` может показывать legacy warnings из WordPress/Word HTML: missing doctype, старые generated IDs, missing image alt или nested emphasis. Проблемой считаются malformed links, broken anchors и новые структурные ошибки.
+
+## Как внести вклад
+
+```bash
+git clone git@github.com:ilyafedotov-ops/FreelanceDE.git
+cd FreelanceDE
+git checkout -b article/<slug>
+```
+
+Дальше внесите изменения, проверьте ссылки/якоря, сделайте commit/push и откройте pull request.
 
 ## Лицензия
-CC BY-NC 4.0. Использование на ваш риск, без гарантий.
+
+CC BY-NC 4.0. Использование на свой страх и риск, без гарантий.
